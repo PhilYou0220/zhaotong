@@ -1,0 +1,11 @@
+boss_point_mine:
+  - title: "驾驶舱矿区--基础信息(马真良)"
+    url: /api/boss/point_mine
+    # 重点参数id
+    data: id=104&simple=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+

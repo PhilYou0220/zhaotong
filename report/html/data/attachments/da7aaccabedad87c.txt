@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/moat/user/page
+ 请求参数: page=1&limit=10&org_dept_id=316&node_type=3&keyword=
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 323, 'username': '', 'fullname': 'test', 'phone': '15708450000', 'status': 1, 'status_name': '生效中', 'roles': [{'id': 32, 'name': '开单员'}], 'created_at': '2022-09-26T02:57:38Z', 'org_depts': [{'id': 316, 'name': 'test_行政部'}], 'positions': [{'id': 322, 'name': 'test'}]}, {'id': 347, 'username': '', 'fullname': 'test_行政专员', 'phone': '15181195031', 'status': 1, 'status_name': '生效中', 'roles': [{'id': 31, 'name': '行政经理'}], 'created_at': '2022-09-26T08:02:23Z', 'org_depts': [{'id': 316, 'name': 'test_行政部'}], 'positions': [{'id': 325, 'name': 'test_职位'}]}, {'id': 1005, 'username': '', 'fullname': '游飞', 'phone': '13608031949', 'status': 1, 'status_name': '生效中', 'roles': [{'id': 35, 'name': '运维人员'}], 'created_at': '2022-10-28T11:23:26Z', 'org_depts': [{'id': 316, 'name': 'test_行政部'}], 'positions': [{'id': 1004, 'name': '运维人员'}]}], 'page': {'total': 3, 'page': 1, 'limit': 10}, 'status': '', 'details': None, 'request_id': ''}

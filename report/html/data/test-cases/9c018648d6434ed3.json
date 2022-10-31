@@ -1,0 +1,100 @@
+{
+  "uid" : "9c018648d6434ed3",
+  "name" : "税收监管--近7日告警提醒--区县",
+  "fullName" : "testcase_api.test_019_beacon_alert_statistics.TestBeaconAlertStatistics#test_beacon_alert_statistics_1",
+  "historyId" : "da3a5e6c612684115ebc24ba3f0dbf5d",
+  "time" : {
+    "start" : 1667179406308,
+    "stop" : 1667179406543,
+    "duration" : 235
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--各矿区设备在离线情况--区县",
+      "time" : {
+        "start" : 1667179406313,
+        "stop" : 1667179406542,
+        "duration" : 229
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "d5ca430c0d4404dc",
+      "name" : "log",
+      "source" : "d5ca430c0d4404dc.txt",
+      "type" : "text/plain",
+      "size" : 822
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--近7日告警提醒"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_019_beacon_alert_statistics"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBeaconAlertStatistics"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_019_beacon_alert_statistics"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)", "api" ]
+  },
+  "source" : "9c018648d6434ed3.json",
+  "parameterValues" : [ ]
+}

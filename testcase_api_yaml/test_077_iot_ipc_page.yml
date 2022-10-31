@@ -1,0 +1,17 @@
+iot_ipc_page:
+  - title: "设备管理--工控机管理列表"
+    url: /api/iot/ipc/page
+    data: page=1&limit=10&keyword=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "设备管理--工控机理列表筛选"
+    url: /api/iot/ipc/page
+    data: page=1&limit=10&keyword=%E5%BE%97%E4%BA%91%E5%BB%BA%E6%9D%90
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

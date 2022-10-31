@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/companys
+ 请求参数: page=1&limit=10&keyword=%E5%A8%81%E4%BF%A1%E5%8E%BF%E5%B2%A9%E6%B9%BE%E5%A4%B4%E5%BB%BA%E6%9D%90%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&area_code=530629
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 143, 'name': '威信县岩湾头建材有限公司', 'area_code': '530629', 'area_name': '威信', 'address': '云南省昭通市威信县扎西镇小坝村半林组', 'phone': '', 'contact': '尹厚文', 'contact_phone': '15198550616', 'status': 1}], 'page': {'page': 1, 'limit': 10, 'total': 1}, 'status': '', 'details': None, 'request_id': ''}

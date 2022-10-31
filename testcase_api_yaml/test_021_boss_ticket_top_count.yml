@@ -1,0 +1,28 @@
+boss_ticket_top_count:
+  - title: "税收监管--顶部看板--市级"
+    url: /api/boss/ticket/top_count
+    # 重点参数area_code
+    data: area_code=5306&out_ats%5B%5D=2022-10-13T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--顶部看板--区县"
+    url: /api/boss/ticket/top_count
+    # 重点参数area_code
+    data: area_code=530622&out_ats%5B%5D=2022-10-13T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--顶部看板--镇街"
+    url: /api/boss/ticket/top_count
+    # 重点参数area_code
+    data: area_code=530622100&out_ats%5B%5D=2022-10-13T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

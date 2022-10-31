@@ -1,0 +1,100 @@
+{
+  "uid" : "f8685dc02c1bde60",
+  "name" : "指挥中心左部日常巡检区县",
+  "fullName" : "testcase_api.test_003_patrol_daily_patrol_list.TestPatrolDailyPatrolList#test_patrol_daily_patrol_list_1",
+  "historyId" : "e89827aa65c549833fbdafa75ce10e53",
+  "time" : {
+    "start" : 1667179401190,
+    "stop" : 1667179401415,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心左部日常巡检--区县(昭阳)",
+      "time" : {
+        "start" : 1667179401195,
+        "stop" : 1667179401414,
+        "duration" : 219
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "a9182fcb027d2b4d",
+      "name" : "log",
+      "source" : "a9182fcb027d2b4d.txt",
+      "type" : "text/plain",
+      "size" : 1149
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心左部日常巡检"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_003_patrol_daily_patrol_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPatrolDailyPatrolList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_003_patrol_daily_patrol_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)", "api" ]
+  },
+  "source" : "f8685dc02c1bde60.json",
+  "parameterValues" : [ ]
+}

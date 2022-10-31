@@ -1,0 +1,17 @@
+boss_belt_data_belt_summary_data_export:
+  - title: "矿山数据统计--加工销售数据--加工量导出"
+    url: /api/boss/belt_data/belt_summary_data_export
+    data: page=1&limit=99999&area_code=5306&keyword=&summary_date%5B%5D=2022-10-22&summary_date%5B%5D=2022-10-28
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "矿山数据统计--加工销售数据统计列表筛选--加工量导出"
+    url: /api/boss/belt_data/belt_summary_data_export
+    data: page=1&limit=99999&area_code=530602&keyword=%E5%8D%8E%E6%96%B0%E6%B0%B4%E6%B3%A5%EF%BC%88%E6%98%AD%E9%80%9A%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9F%B3%E7%81%B0%E7%9F%B3%E7%9F%BF&summary_date%5B%5D=2022-10-22&summary_date%5B%5D=2022-10-28
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

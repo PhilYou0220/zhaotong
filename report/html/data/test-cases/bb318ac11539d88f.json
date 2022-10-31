@@ -1,0 +1,100 @@
+{
+  "uid" : "bb318ac11539d88f",
+  "name" : "驾驶舱矿区实景--播放视频",
+  "fullName" : "testcase_api.test_013_gbserver_video.TestGbserverVideo#test_gbserver_video_0",
+  "historyId" : "83e0c8ff360fb65ec1ba60df9d255ef0",
+  "time" : {
+    "start" : 1667179348520,
+    "stop" : 1667179348797,
+    "duration" : 277
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "驾驶舱矿区实景--播放视频",
+      "time" : {
+        "start" : 1667179348547,
+        "stop" : 1667179348797,
+        "duration" : 250
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "d764d5ef21157782",
+      "name" : "log",
+      "source" : "d764d5ef21157782.txt",
+      "type" : "text/plain",
+      "size" : 495
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱矿区实景--播放视频"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_013_gbserver_video"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGbserverVideo"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_013_gbserver_video"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)", "api" ]
+  },
+  "source" : "bb318ac11539d88f.json",
+  "parameterValues" : [ ]
+}

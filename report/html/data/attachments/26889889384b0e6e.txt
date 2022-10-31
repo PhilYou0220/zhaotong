@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/goods_price/select
+ 请求参数: type=1&point_id=150
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 7, 'name': '原料', 'photo': ''}, {'id': 8, 'name': '无法核实', 'photo': ''}], 'status': '', 'details': None, 'request_id': ''}

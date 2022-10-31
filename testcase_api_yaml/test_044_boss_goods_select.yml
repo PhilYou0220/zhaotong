@@ -1,0 +1,9 @@
+boss_goods_select:
+  - title: "矿山数据统计--销售数据--产品名称"
+    url: /api/boss/goods/select
+    data: type=0
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

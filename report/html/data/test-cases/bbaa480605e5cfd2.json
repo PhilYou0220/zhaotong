@@ -1,0 +1,100 @@
+{
+  "uid" : "bbaa480605e5cfd2",
+  "name" : "销售数据管理--非煤矿价格及税收管理--默认列表",
+  "fullName" : "testcase_api.test_052_boss_goods_prices.TestMoatOrgFullTree#test_moat_org_full_tree_0",
+  "historyId" : "abbad3700a239a3da4b8c4c884ceaf66",
+  "time" : {
+    "start" : 1667179378691,
+    "stop" : 1667179379519,
+    "duration" : 828
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "销售数据管理--非煤矿价格及税收管理--默认列表",
+      "time" : {
+        "start" : 1667179378695,
+        "stop" : 1667179379498,
+        "duration" : 803
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "2035cbbd2c7daa2",
+      "name" : "log",
+      "source" : "2035cbbd2c7daa2.txt",
+      "type" : "text/plain",
+      "size" : 156403
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "销售数据管理--非煤矿价格及税收管理"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_052_boss_goods_prices"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_052_boss_goods_prices"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)", "api" ]
+  },
+  "source" : "bbaa480605e5cfd2.json",
+  "parameterValues" : [ ]
+}

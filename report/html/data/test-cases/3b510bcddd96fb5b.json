@@ -1,0 +1,100 @@
+{
+  "uid" : "3b510bcddd96fb5b",
+  "name" : "税收监管--各矿区设备在离线情况--区县",
+  "fullName" : "testcase_api.test_018_mib_out_of_control.TestMibOutOfControl#test_mib_out_of_control_1",
+  "historyId" : "374ad59ec06019131f8dd315b955d593",
+  "time" : {
+    "start" : 1667179406113,
+    "stop" : 1667179406306,
+    "duration" : 193
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--各矿区设备在离线情况--区县",
+      "time" : {
+        "start" : 1667179406118,
+        "stop" : 1667179406305,
+        "duration" : 187
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "1acb795d279ff1d6",
+      "name" : "log",
+      "source" : "1acb795d279ff1d6.txt",
+      "type" : "text/plain",
+      "size" : 780
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--各矿区设备在离线情况"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_018_mib_out_of_control"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMibOutOfControl"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_018_mib_out_of_control"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)", "api" ]
+  },
+  "source" : "3b510bcddd96fb5b.json",
+  "parameterValues" : [ ]
+}

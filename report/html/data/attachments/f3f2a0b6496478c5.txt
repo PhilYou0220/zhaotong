@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/mib/face
+ 请求参数: 
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': '00000100001', 'status': 1, 'time': '2022-06-01 15:36:25', 'area': '昭通', 'tag_name': '进口', 'name': '', 'pic_url': '', 'photo_time': '', 'instance_name': 'A矿区'}, {'id': '00000100002', 'status': 0, 'time': '2022-06-01 18:37:49', 'area': '昭通', 'tag_name': '进口', 'name': '', 'pic_url': '', 'photo_time': '', 'instance_name': 'A矿区'}, {'id': '00000100003', 'status': 1, 'time': '2022-06-01 12:50:27', 'area': '昭通', 'tag_name': '出口', 'name': '', 'pic_url': '', 'photo_time': '', 'instance_name': 'B矿区'}, {'id': '00000100004', 'status': 1, 'time': '2022-06-01 20:31:46', 'area': '昭通', 'tag_name': '进口', 'name': '', 'pic_url': '', 'photo_time': '', 'instance_name': 'C矿区'}, {'id': '00000100005', 'status': 1, 'time': '2022-06-01 14:28:05', 'area': '昭通', 'tag_name': '出口', 'name': '', 'pic_url': '', 'photo_time': '', 'instance_name': 'C矿区'}, {'id': '00000100006', 'status': 0, 'time': '2022-06-01 16:20:28', 'area': '昭通', 'tag_name': '出口', 'name': '', 'pic_url': '', 'photo_time': '', 'instance_name': 'D矿区'}], 'status': '', 'details': None, 'request_id': ''}

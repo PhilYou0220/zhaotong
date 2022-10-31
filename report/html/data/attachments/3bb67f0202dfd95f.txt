@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/devices
+ 请求参数: point_id=104&type=inout
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': {'point_name': '昭通市昭阳区马真良砂石料有限公司石灰岩矿山', 'produce': 1058.23, 'weight': 1797.91, 'price': 0, 'device': [{'device_code': '00044be6b841', 'name': '', 'video': '', 'rate': 0, 'speed': 0, 'diff': 0, 'weight': 0, 'online': 0}], 'video': [{'device_code': '', 'name': '马真良砂石料_1号车道进_车牌识别', 'video': '53060000411320003805_53060000411180000038', 'rate': 0, 'speed': 0, 'diff': 0, 'weight': 0, 'online': 1}, {'device_code': '', 'name': '马真良砂石料_1号车道_货箱识别', 'video': '53060000411320003806_53060000411180000038', 'rate': 0, 'speed': 0, 'diff': 0, 'weight': 0, 'online': 1}, {'device_code': '', 'name': '马真良砂石料_1号车道出_车牌识别', 'video': '53060000411320003807_53060000411180000038', 'rate': 0, 'speed': 0, 'diff': 0, 'weight': 0, 'online': 1}, {'device_code': '', 'name': '马真良砂石料_2号车道进_车牌识别', 'video': '53060000411320003808_53060000411180000038', 'rate': 0, 'speed': 0, 'diff': 0, 'weight': 0, 'online': 1}, {'device_code': '', 'name': '马真良砂石料_2号车道出_车牌识别', 'video': '53060000411320003809_53060000411180000038', 'rate': 0, 'speed': 0, 'diff': 0, 'weight': 0, 'online': 1}, {'device_code': '', 'name': '马真良砂石料_2号车道_货箱识别', 'video': '53060000411320003810_53060000411180000038', 'rate': 0, 'speed': 0, 'diff': 0, 'weight': 0, 'online': 1}]}, 'status': '', 'details': None, 'request_id': ''}

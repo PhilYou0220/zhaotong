@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/bda/list
+ 请求参数: page=1&limit=99999&area_code=&instance_name=&type=&status=&created_ats%5B%5D=2022-10-16T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-17T15%3A59%3A59.999Z&instance_id=158&device_id=005400315646501420373732
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [], 'page': {'page': 1, 'limit': 99999}, 'status': '', 'details': None, 'request_id': ''}

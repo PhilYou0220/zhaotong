@@ -1,0 +1,9 @@
+moat_permission_tree:
+  - title: "组织管理--角色管理--权限树"
+    url: /api/moat/permission/tree
+    data: ""
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

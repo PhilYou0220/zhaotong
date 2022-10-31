@@ -1,0 +1,9 @@
+moat_role_general:
+  - title: "组织管理--部门与成员--所有角色"
+    url: /api/moat/role/general
+    data: ""
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

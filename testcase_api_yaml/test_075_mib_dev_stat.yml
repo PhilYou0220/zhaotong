@@ -1,0 +1,17 @@
+mib_dev_stat:
+  - title: "设备管理--设备状态管理列表"
+    url: /api/mib/dev_stat
+    data: page=1&limit=10&name=&area_code=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "设备管理--设备状态管理列表筛选"
+    url: /api/mib/dev_stat
+    data: page=1&limit=10&name=%E5%BB%BA%E6%9D%90%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B0%8F%E6%9D%BE%E5%8C%85%E5%8C%85%E9%87%87&area_code=530602
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/goods_price
+ 请求参数: id=313
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': {'id': 313, 'goods_type': 1, 'goods_type_text': '建筑石料用灰岩', 'goods_id': 11, 'goods_name': '铅锌矿', 'area_code': '530621108', 'area_name': '乐红镇', 'point_id': 160, 'point_name': '云南昊龙实业集团有限公司乐红铅锌矿二分厂', 'price': 12100, 'created_at': '2022-09-02T06:49:01.774Z', 'created_by': 12, 'created_by_name': '', 'tax': 5, 'tax_type': 1, 'tax_type_text': '从价征收', 'photo': '', 'company_name': ''}, 'status': '', 'details': None, 'request_id': ''}

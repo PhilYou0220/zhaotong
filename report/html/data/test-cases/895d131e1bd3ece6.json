@@ -1,0 +1,100 @@
+{
+  "uid" : "895d131e1bd3ece6",
+  "name" : "税收监管今年累计加工量--区县",
+  "fullName" : "testcase_api.test_007_boss_belt_data_count_by_point.TestBossBeltDataCountByPoint#test_boss_belt_data_count_by_point_4",
+  "historyId" : "48b264cb59f8c5f30339aa4e5241a770",
+  "time" : {
+    "start" : 1667179504269,
+    "stop" : 1667179522875,
+    "duration" : 18606
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管今年累计加工量--区县",
+      "time" : {
+        "start" : 1667179504276,
+        "stop" : 1667179522874,
+        "duration" : 18598
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e8fcd8870496cefe",
+      "name" : "log",
+      "source" : "e8fcd8870496cefe.txt",
+      "type" : "text/plain",
+      "size" : 1198
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心顶部数据加工量详情"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=5)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_007_boss_belt_data_count_by_point"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossBeltDataCountByPoint"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_007_boss_belt_data_count_by_point"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=5)", "api" ]
+  },
+  "source" : "895d131e1bd3ece6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,28 @@
+beacon_alert_statistics:
+  - title: "税收监管--近7日告警提醒折线图--市级"
+    url: /api/beacon/alert/statistics
+    # 重点参数area_code
+    data: area_code=5306&created_ats%5B%5D=2022-10-07T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--各矿区设备在离线情况--区县"
+    url: /api/beacon/alert/statistics
+    # 重点参数area_code
+    data: area_code=530622&created_ats%5B%5D=2022-10-07T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--各矿区设备在离线情况--镇街"
+    url: /api/beacon/alert/statistics
+    # 重点参数area_code
+    data: area_code=530622100&created_ats%5B%5D=2022-10-07T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

@@ -1,0 +1,28 @@
+emergcase_uploads:
+  - title: "指挥中心应急事件上报--市级"
+    url: /api/emergcase/uploads
+    # 重点参数area_code
+    data: page=1&limit=100&user_id=&fuzz_name=&status=0&bi=true&area_code=5306&times%5B%5D=2022-08-26T16%3A00%3A00.000Z&times%5B%5D=2022-08-27T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "指挥中心应急事件上报-区县(巧家)"
+    url: /api/emergcase/uploads
+    # 重点参数area_code
+    data: page=1&limit=100&user_id=&fuzz_name=&status=0&bi=true&area_code=530621&times%5B%5D=2022-08-26T16%3A00%3A00.000Z&times%5B%5D=2022-08-27T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "指挥中心应急事件上报--镇街(白鹤滩)"
+    url: /api/emergcase/uploads
+    # 重点参数area_code
+    data: page=1&limit=100&user_id=&fuzz_name=&status=0&bi=true&area_code=530621105&times%5B%5D=2022-10-11T16%3A00%3A00.000Z&times%5B%5D=2022-10-12T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

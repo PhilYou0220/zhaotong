@@ -1,0 +1,9 @@
+boss_goods_price:
+  - title: "销售数据管理--非煤矿价格及税收管理--修改详情"
+    url: /api/boss/goods_price
+    data: id=313
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

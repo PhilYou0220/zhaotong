@@ -1,0 +1,9 @@
+moat_org_position_details:
+  - title: "组织管理--部门与成员--职位详情"
+    url: /api/moat/org/position/details
+    data: id=234
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

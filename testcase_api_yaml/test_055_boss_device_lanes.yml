@@ -1,0 +1,9 @@
+boss_device_lanes:
+  - title: "销售数据管理--联单审核区县、矿区树--通道数据"
+    url: /api/boss/device/lanes
+    data: peer_id=158
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

@@ -1,0 +1,100 @@
+{
+  "uid" : "7c7bb92ca8a6ec51",
+  "name" : "组织管理--部门与成员--职位详情",
+  "fullName" : "testcase_api.test_035_moat_org_position_details.TestMoatOrgPositionDetails#test_moat_org_position_details_0",
+  "historyId" : "c20e2f919f1b44e0da7816ad00695e12",
+  "time" : {
+    "start" : 1667179372165,
+    "stop" : 1667179372366,
+    "duration" : 201
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "组织管理--部门与成员--职位详情",
+      "time" : {
+        "start" : 1667179372169,
+        "stop" : 1667179372366,
+        "duration" : 197
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "85c15884c2fc7c6f",
+      "name" : "log",
+      "source" : "85c15884c2fc7c6f.txt",
+      "type" : "text/plain",
+      "size" : 379
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "组织管理--部门与成员--职位详情"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_035_moat_org_position_details"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgPositionDetails"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_035_moat_org_position_details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)", "api" ]
+  },
+  "source" : "7c7bb92ca8a6ec51.json",
+  "parameterValues" : [ ]
+}

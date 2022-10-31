@@ -1,0 +1,114 @@
+{
+  "total" : 61,
+  "items" : [ {
+    "uid" : "786c85de1fd6767a30d5e83e744763a9",
+    "name" : "大屏配置--web端",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "e31ab0e2aca910b84a03796f5ca328ff",
+    "name" : "矿山数据统计--加工销售数据--销售量导出",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "a3773e04fa87386296ef5b5b39f6e81f",
+    "name" : "告警中心--告警管理--告警类型",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 24,
+      "unknown" : 0,
+      "total" : 24
+    }
+  }, {
+    "uid" : "88d8a029e4661e7e6c857477d587f722",
+    "name" : "驾驶舱告警分类",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "e96a5f0829760c67e2ba173e81f3e1ec",
+    "name" : "指挥中心左部告警信息",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "9bacea3684b8835f88b5abdb2781a61c",
+    "name" : "指挥中心顶部数据加工量详情",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "e4df95b4452ffdce0d2d915c49bf173c",
+    "name" : "指挥中心顶部数据销售量详情",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "9ea4ee325bc9c95e526ad9629b5b756f",
+    "name" : "指挥中心应急事件上报",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "1674ab90558a3adea31bbfe9a90e97be",
+    "name" : "税收监管--顶部看板",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "4aec3f09654fbede5c06c06ca1189489",
+    "name" : "驾驶舱矿区实景--监控",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

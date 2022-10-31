@@ -1,0 +1,9 @@
+bda_detail:
+  - title: "销售数据管理--联单审核--加工量--点击审核旗帜"
+    url: /api/bda/detail
+    data: id=4
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

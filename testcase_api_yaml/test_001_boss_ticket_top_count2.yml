@@ -1,0 +1,28 @@
+boss_ticket_top_count2:
+  - title: "指挥中心市级权限顶部数据"
+    url: /api/boss/ticket/top_count2
+    # 重点参数area_code
+    data: out_ats%5B%5D=2022-10-09T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-10T15%3A59%3A59.999Z&area_code=5306&in_ats%5B%5D=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "指挥中心顶部数据-区县(巧家)"
+    url: /api/boss/ticket/top_count2
+    # 重点参数area_code
+    data: out_ats%5B%5D=2022-10-09T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-10T15%3A59%3A59.999Z&area_code=530622&in_ats%5B%5D=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "指挥中心顶部数据--镇街(白鹤滩)"
+    url: /api/boss/ticket/top_count2
+    # 重点参数area_code
+    data: out_ats%5B%5D=2022-10-09T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-10T15%3A59%3A59.999Z&area_code=530622100&in_ats%5B%5D=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

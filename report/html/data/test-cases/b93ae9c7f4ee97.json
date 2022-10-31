@@ -1,0 +1,100 @@
+{
+  "uid" : "b93ae9c7f4ee97",
+  "name" : "税收监管--告警分类--区县",
+  "fullName" : "testcase_api.test_015_beacon_alert_count_by_type.TestBeaconAlertCountByType#test_beacon_alert_count_by_type_4",
+  "historyId" : "4bb0e061789796d82f508de125c0130c",
+  "time" : {
+    "start" : 1667179523822,
+    "stop" : 1667179524139,
+    "duration" : 317
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--告警分类--区县",
+      "time" : {
+        "start" : 1667179523830,
+        "stop" : 1667179524138,
+        "duration" : 308
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "d724a3172f2fd60b",
+      "name" : "log",
+      "source" : "d724a3172f2fd60b.txt",
+      "type" : "text/plain",
+      "size" : 671
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱告警分类"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=5)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_015_beacon_alert_count_by_type"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBeaconAlertCountByType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_015_beacon_alert_count_by_type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=5)", "api" ]
+  },
+  "source" : "b93ae9c7f4ee97.json",
+  "parameterValues" : [ ]
+}

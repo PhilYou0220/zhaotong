@@ -1,0 +1,28 @@
+boss_ticket_produce_sale_rate:
+  - title: "税收监管--矿产加工销售占比--市级"
+    url: /api/boss/ticket/produce_sale_rate
+    # 重点参数area_code
+    data: area_code=5306&out_ats%5B%5D=2022-10-13T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--矿产加工销售占比--区县"
+    url: /api/boss/ticket/produce_sale_rate
+    # 重点参数area_code
+    data: area_code=530622&out_ats%5B%5D=2022-10-07T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--矿产加工销售占比--镇街"
+    url: /api/boss/ticket/produce_sale_rate
+    # 重点参数area_code
+    data: area_code=530622100&out_ats%5B%5D=2022-10-07T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/goods_prices
+ 请求参数: limit=10&page=1&area_code=530602109&point_id=121&has_tax=1&keyword=%E6%B0%B8%E7%9B%9B%E7%BB%8F%E8%B4%B8%E6%9C%89
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 232, 'goods_type': 1, 'goods_type_text': '建筑石料用灰岩', 'goods_id': 23, 'goods_name': '中砂', 'area_code': '530602109', 'area_name': '盘河镇', 'point_id': 121, 'point_name': '昭通市永盛经贸有限公司石灰岩矿', 'price': 24, 'created_at': '2022-08-14T11:19:03Z', 'created_by': 0, 'created_by_name': '', 'tax': 6, 'tax_type': 1, 'tax_type_text': '从价征收', 'photo': 'file/0/2022/0811/9c7c9860-34bd-4c52-9507-e73246f0931b.png', 'company_name': ''}, {'id': 231, 'goods_type': 1, 'goods_type_text': '建筑石料用灰岩', 'goods_id': 12, 'goods_name': '压裂用石英砂（细砂）', 'area_code': '530602109', 'area_name': '盘河镇', 'point_id': 121, 'point_name': '昭通市永盛经贸有限公司石灰岩矿', 'price': 24, 'created_at': '2022-08-14T11:19:03Z', 'created_by': 0, 'created_by_name': '', 'tax': 6, 'tax_type': 1, 'tax_type_text': '从价征收', 'photo': 'file/0/2022/0811/a117e71d-0f14-423d-9397-673f39527802.png', 'company_name': ''}, {'id': 230, 'goods_type': 1, 'goods_type_text': '建筑石料用灰岩', 'goods_id': 2, 'goods_name': '公分石', 'area_code': '530602109', 'area_name': '盘河镇', 'point_id': 121, 'point_name': '昭通市永盛经贸有限公司石灰岩矿', 'price': 24, 'created_at': '2022-08-14T11:19:03Z', 'created_by': 0, 'created_by_name': '', 'tax': 6, 'tax_type': 1, 'tax_type_text': '从价征收', 'photo': 'file/0/2022/0811/16f4627d-250d-441b-aa54-1a3e537cbcc1.png', 'company_name': ''}], 'page': {'page': 1, 'limit': 10, 'total': 3}, 'status': '', 'details': None, 'request_id': ''}

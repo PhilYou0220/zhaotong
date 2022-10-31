@@ -1,0 +1,100 @@
+{
+  "uid" : "bbddf859355dc40e",
+  "name" : "企业管理--矿区管理--矿区列表",
+  "fullName" : "testcase_api.test_006_boss_point_mines.TestBossPointMines#test_boss_point_mines_1",
+  "historyId" : "dedb69be73d5be30c5e7729e6925780b",
+  "time" : {
+    "start" : 1667179402846,
+    "stop" : 1667179403106,
+    "duration" : 260
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "企业管理--矿区管理--矿区列表",
+      "time" : {
+        "start" : 1667179402850,
+        "stop" : 1667179403098,
+        "duration" : 248
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "1bf63dd0aa4098cd",
+      "name" : "log",
+      "source" : "1bf63dd0aa4098cd.txt",
+      "type" : "text/plain",
+      "size" : 4430
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心顶部视频/数据接入/今日作业--详情"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_006_boss_point_mines"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossPointMines"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_006_boss_point_mines"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)", "api" ]
+  },
+  "source" : "bbddf859355dc40e.json",
+  "parameterValues" : [ ]
+}

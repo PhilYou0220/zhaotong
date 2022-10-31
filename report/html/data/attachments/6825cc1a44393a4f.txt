@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/car_inout_data/weight_summary_data_export
+ 请求参数: page=1&limit=10&area_code=530602&keyword=%E5%8D%8E%E6%96%B0%E6%B0%B4%E6%B3%A5%EF%BC%88%E6%98%AD%E9%80%9A%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9F%B3%E7%81%B0%E7%9F%B3%E7%9F%BF&summary_date%5B%5D=2022-10-22&summary_date%5B%5D=2022-10-28
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 500
+ 实际返回值: b''

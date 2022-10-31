@@ -1,0 +1,11 @@
+boss_goods_types:
+  - title: "税收监管--矿产识别能力--产品类型"
+    url: /api/boss/goods/types
+    # 重点参数area_code
+    data: ""
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+

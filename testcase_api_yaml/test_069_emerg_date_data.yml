@@ -1,0 +1,10 @@
+emerg_date_data:
+  - title: "坐席排班表--修改详情"
+    url: /api/emerg/date_data
+    data: date=2022-10-23T16%3A00%3A00.000Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+

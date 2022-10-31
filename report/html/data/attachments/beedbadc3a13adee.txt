@@ -1,0 +1,4 @@
+DEBUG    phil:log.py:43  
+ url:ws://183.224.113.211:9001/api/ws?Authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcmVhX2NvZGUiOiI1MzA2IiwiZnVsbG5hbWUiOiJlV3A2ZVE9PSIsImlhdCI6MTY2NTk5MTQ5NywiaW5zdGFuY2VfaWQiOjEwNCwibWVtYmVyX2lkIjoxMiwib3JnX2RlcHRfaWQiOjExNCwib3JnX2lkIjoxMTQsInBsYXRmb3JtX2lkIjoxLCJwb3NpdGlvbl9pZCI6MTExLCJyb2xlX2lkIjoxOCwicm9sZV90eXBlIjoyLCJzdWIiOjEyfQ.zhG99Oe5RL2KmdQnCq1DKsKk3BWzaQZCXDDN8MEyujE&platform=zt
+ 请求参数: {"route":"/heartbeat"}
+实际返回值: {"route":"/heartbeat","data":true}

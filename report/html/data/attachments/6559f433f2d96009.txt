@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/beacon/alert/count_by_type
+ 请求参数: area_code=5306&created_ats%5B%5D=2022-10-12T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-13T15%3A59%3A59.999Z&scene=1
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'type': 1, 'name': '堆场超高', 'total': 0, 'no_deal': 0}, {'type': 2, 'name': '越界开采', 'total': 0, 'no_deal': 0}, {'type': 3, 'name': '陡坡过大', 'total': 0, 'no_deal': 0}, {'type': 5, 'name': '下井超时', 'total': 0, 'no_deal': 0}], 'status': '', 'details': None, 'request_id': ''}

@@ -1,0 +1,9 @@
+moat_org_general_tree:
+  - title: "组织管理--部门与成员--组织"
+    url: /api/moat/org/general/tree
+    data: ""
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

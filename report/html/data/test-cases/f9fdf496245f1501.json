@@ -1,0 +1,100 @@
+{
+  "uid" : "f9fdf496245f1501",
+  "name" : "指挥中心应急事件上报-市级",
+  "fullName" : "testcase_api.test_009_emergcase_uploads.TestEmergcaseUploads#test_emergcase_uploads_0",
+  "historyId" : "5828fb901d9b86eeb95baf37667dbf21",
+  "time" : {
+    "start" : 1667179345136,
+    "stop" : 1667179345342,
+    "duration" : 206
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心应急事件上报--市级",
+      "time" : {
+        "start" : 1667179345146,
+        "stop" : 1667179345341,
+        "duration" : 195
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "133c8222569ede81",
+      "name" : "log",
+      "source" : "133c8222569ede81.txt",
+      "type" : "text/plain",
+      "size" : 1501
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心应急事件上报"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_009_emergcase_uploads"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmergcaseUploads"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_009_emergcase_uploads"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)", "api" ]
+  },
+  "source" : "f9fdf496245f1501.json",
+  "parameterValues" : [ ]
+}

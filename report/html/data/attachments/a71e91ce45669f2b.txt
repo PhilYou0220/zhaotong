@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/moat/org/details
+ 请求参数: id=114
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': {'id': 114, 'name': '昭通市', 'area_code': '5306', 'area_name': '', 'instance_type_id': '', 'instance_id': 104, 'number_of_members': 191, 'shape': 'none'}, 'status': '', 'details': None, 'request_id': ''}

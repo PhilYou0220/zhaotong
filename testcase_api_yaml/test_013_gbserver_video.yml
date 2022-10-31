@@ -1,0 +1,11 @@
+gbserver_video:
+  - title: "驾驶舱矿区实景--播放视频"
+    url: /api/gbserver/video
+    # 重点参数cam_type
+    data: code=53060000411320003811_53060000411180000038
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+

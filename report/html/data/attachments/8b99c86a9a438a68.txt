@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/belt_data/count_by_point
+ 请求参数: upload_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z&area_code=5306
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 91, 'name': '华新水泥（昭通）有限公司石灰石矿', 'value': 2685.4, 'important': 1, 'max_upload_at': '2022-08-23 23:11:21', 'area_code': '530602004'}, {'id': 104, 'name': '昭通市昭阳区马真良砂石料有限公司石灰岩矿山', 'value': 1457.59, 'important': 2, 'max_upload_at': '2022-08-23 23:08:11', 'area_code': '530602205'}, {'id': 137, 'name': '威信县龙洞沟矿业有限公司龙洞沟采石场', 'value': 1411.82, 'important': 2, 'max_upload_at': '2022-08-23 21:05:31', 'area_code': '530629104'}, {'id': 103, 'name': '昭通李龙云砂石料有限公司石灰岩矿', 'value': 807.32, 'important': 2, 'max_upload_at': '2022-08-23 18:28:50', 'area_code': '530602004'}, {'id': 131, 'name': '威信隆坤建材商贸有限公司穿山洞采石场', 'value': 471.57, 'important': 2, 'max_upload_at': '2022-08-23 23:01:33', 'area_code': '530629100'}, {'id': 60, 'name': '云南传勇建筑安装有限公司乌峰银盘采石场', 'value': 59.24, 'important': 2, 'max_upload_at': '2022-08-23 20:53:35', 'area_code': '530627001'}], 'page': {'total': 6}, 'status': '', 'details': None, 'request_id': ''}

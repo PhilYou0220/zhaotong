@@ -1,0 +1,100 @@
+{
+  "uid" : "7f0414e28057dbd",
+  "name" : "驾驶舱矿区--基础信息(马真良)",
+  "fullName" : "testcase_api.test_011_boss_point_mine.TestBossPointMine#test_boss_point_mine_0",
+  "historyId" : "bf6028931aa507c9cd2c7fde741410ca",
+  "time" : {
+    "start" : 1667179345555,
+    "stop" : 1667179348265,
+    "duration" : 2710
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "驾驶舱矿区--基础信息(马真良)",
+      "time" : {
+        "start" : 1667179345564,
+        "stop" : 1667179348264,
+        "duration" : 2700
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "5980a7fe9bfb794d",
+      "name" : "log",
+      "source" : "5980a7fe9bfb794d.txt",
+      "type" : "text/plain",
+      "size" : 2150
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱矿区--基础信息"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_011_boss_point_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossPointMine"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_011_boss_point_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)", "api" ]
+  },
+  "source" : "7f0414e28057dbd.json",
+  "parameterValues" : [ ]
+}

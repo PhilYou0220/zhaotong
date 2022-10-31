@@ -1,0 +1,28 @@
+boss_point_select:
+  - title: "税收监管--矿区选择--市级"
+    url: /api/boss/point/select
+    # 重点参数area_code
+    data: area_code=5306&type=mine
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--矿区选择--区县"
+    url: /api/boss/point/select
+    # 重点参数area_code
+    data: area_code=530622&type=mine
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--矿区选择--镇街"
+    url: /api/boss/point/select
+    # 重点参数area_code
+    data: area_code=530622100&type=mine
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

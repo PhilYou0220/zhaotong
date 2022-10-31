@@ -1,0 +1,20 @@
+boss_devices:
+  - title: "驾驶舱矿区实景--加工量"
+    url: /api/boss/devices
+    # 重点参数cam_type
+    data: point_id=104&type=belt
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "驾驶舱矿区实景--销售量"
+    url: /api/boss/devices
+    # 重点参数cam_type
+    data: point_id=104&type=inout
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+

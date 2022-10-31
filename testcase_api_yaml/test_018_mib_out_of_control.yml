@@ -1,0 +1,28 @@
+mib_out_of_control:
+  - title: "税收监管--各矿区设备在离线情况--市级"
+    url: /api/mib/out_of_control
+    # 重点参数area_code
+    data: page=1&limit=1000&name=&area_code=5306&green=2
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--各矿区设备在离线情况--区县"
+    url: /api/mib/out_of_control
+    # 重点参数area_code
+    data: page=1&limit=1000&name=&area_code=530622&green=2
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--各矿区设备在离线情况--镇街"
+    url: /api/mib/out_of_control
+    # 重点参数area_code
+    data: page=1&limit=1000&name=&area_code=530622100&green=2
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

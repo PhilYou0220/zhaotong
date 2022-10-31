@@ -1,0 +1,100 @@
+{
+  "uid" : "999880adc8bb5436",
+  "name" : "指挥中心应急事件上报--镇街",
+  "fullName" : "testcase_api.test_010_emerg_dispatch_list.TestEmergDispatchList#test_emerg_dispatch_list_2",
+  "historyId" : "7778622301dd9629d3db1662eec44a67",
+  "time" : {
+    "start" : 1667179432426,
+    "stop" : 1667179433649,
+    "duration" : 1223
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心应急事件上报--镇街(白鹤滩)",
+      "time" : {
+        "start" : 1667179432432,
+        "stop" : 1667179433648,
+        "duration" : 1216
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "a1535c5a3ce31a6c",
+      "name" : "log",
+      "source" : "a1535c5a3ce31a6c.txt",
+      "type" : "text/plain",
+      "size" : 431
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心应急事件上报"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_010_emerg_dispatch_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmergDispatchList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_010_emerg_dispatch_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)", "api" ]
+  },
+  "source" : "999880adc8bb5436.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/beacon/event/detail
+ 请求参数: id=91542
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': {'id': 91542, 'examine_status': 1, 'instance_name': '大关县凉水沟砂石厂', 'device_name': '大关县凉水沟砂石厂', 'image': 'file/0/2022/1021/a33df98e-655a-438c-8483-6111bd85f6cc.jpg', 'area': '寿山镇', 'alert_type': 4, 'instance_address': '大关县寿山镇小河村尤家河坝', 'examined_at': '', 'created_at': '2022-10-21 11:01:26', 'examine_userid': 0, 'examine_username': ''}, 'status': '', 'details': None, 'request_id': ''}

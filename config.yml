@@ -1,0 +1,24 @@
+zhaotong_test:
+  url_web_prefix:  http://183.224.113.211:9001
+  url_mobile_prefix: http://223.85.203.92:8001
+  url_web_login: http://183.224.113.211:9001/moat/phone/login
+  url_mobile_login: http://223.85.203.92:8001/moat/phone/login
+  url_web_confirm: http://183.224.113.211:9001/moat/position/confirm
+  url_mobile_confirm: http://223.85.203.92:8001/mb/moat/position/confirm
+log:
+  level: DEBUG
+zhaotong:
+  url_web_prefix:  http://192.168.101.184:8000
+  url_mobile_prefix: http://192.168.101.184:8001
+  url_web_login: http://192.168.101.184:8000/moat/phone/login
+  url_mobile_login: http://223.85.203.92:8001/moat/phone/login
+  url_web_confirm: http://192.168.101.184:8000/moat/position/confirm
+  url_mobile_confirm: http://223.85.203.92:8001/mb/moat/position/confirm
+zhaotong_test1:
+  url_web_prefix:  http://223.85.203.92:8004
+  url_mobile_prefix: http://223.85.203.92:8001
+  url_web_login: http://223.85.203.92:8004/moat/phone/login
+  url_mobile_login: http://223.85.203.92:8001/moat/phone/login
+  url_web_confirm: http://223.85.203.92:8000/moat/position/confirm
+  url_mobile_confirm: http://223.85.203.92:8001/mb/moat/position/confirm
+

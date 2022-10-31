@@ -1,0 +1,9 @@
+moat_org_full_tree:
+  - title: "组织管理--部门与成员--编辑成员--部门职位选项"
+    url: /api/moat/org/full/tree
+    data: org_id=0
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

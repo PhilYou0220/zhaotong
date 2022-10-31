@@ -1,0 +1,10 @@
+boss_company_select:
+  - title: "企业管理--矿企管理--编辑时的关联企业选择"
+    url: /api/boss/company/select
+    data: type=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+

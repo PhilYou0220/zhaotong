@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/ticket/top_count2
+ 请求参数: out_ats%5B%5D=2022-10-09T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-10T15%3A59%3A59.999Z&area_code=530622100&in_ats%5B%5D=
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码:200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'code': 'video', 'name': '企业总数', 'value': 3, 'value1': 0, 'value2': 0, 'unit': '家', 'data': [], 'ids': ['19,20,24'], 'value3': 0, 'title': ''}, {'code': 'work', 'name': '正常生产', 'value': 2, 'value1': 0, 'value2': 0, 'unit': '家', 'data': [], 'ids': ['19,24'], 'value3': 0, 'title': ''}, {'code': 'produce', 'name': '加工企业(0)', 'value': 0, 'value1': 0, 'value2': 0, 'unit': '吨', 'data': [], 'ids': [''], 'value3': 0, 'title': '从10月10日到10月10日'}, {'code': 'weight', 'name': '销售企业(0)', 'value': 0, 'value1': 0, 'value2': 0, 'unit': '吨', 'data': [], 'ids': [''], 'value3': 0, 'title': '从10月10日到10月10日'}, {'code': 'alarm', 'name': '疑似重车逃逸(0)', 'value': 0, 'value1': 0, 'value2': 0, 'unit': '吨', 'data': [], 'ids': [], 'value3': 0, 'title': ''}], 'status': '', 'details': None, 'request_id': ''}

@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/moat/user
+ 请求参数: id=12
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': {'id': 12, 'username': 'bbb', 'fullname': 'yjzy', 'phone': '123', 'positions': [{'org_dept_id': 114, 'position_id': 111, 'role_id': 18, 'node_type': 2, 'position_title': '昭通市 - 系统管理员', 'area_code': '5306', 'area_name': '昭通', 'instance_id': 104, 'instance_name': '', 'area_level': 2}]}, 'status': '', 'details': None, 'request_id': ''}

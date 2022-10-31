@@ -1,0 +1,9 @@
+earlywarning_details:
+  - title: "告警管理--预警中心--详情"
+    url: /api/earlywarning/details
+    data: id=1&page=1&limit=10&keyword=&area_code=&alarm_type=0&deal_type=0
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

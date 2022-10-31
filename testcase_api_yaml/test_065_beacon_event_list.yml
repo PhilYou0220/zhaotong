@@ -1,0 +1,17 @@
+beacon_event_list:
+  - title: "告警管理--事件审核--列表"
+    url: /api/beacon/event/list
+    data: page=1&limit=10&keyword=&area_code=5306&alert_type=&examine_status=&instance_id=0&instance_name=&created_ats%5B%5D=2022-10-20T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-21T03%3A01%3A37.896Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "告警管理--事件审核--列表各种筛选"
+    url: /api/beacon/event/list
+    data: page=1&limit=10&keyword=%E5%A4%A7%E5%85%B3%E5%8E%BF%E5%87%89%E6%B0%B4%E6%B2%9F%E7%A0%82%E7%9F%B3%E5%8E%82&area_code=530624&alert_type=4&examine_status=1&instance_id=0&instance_name=&created_ats%5B%5D=2022-10-20T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-21T04%3A01%3A37.896Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

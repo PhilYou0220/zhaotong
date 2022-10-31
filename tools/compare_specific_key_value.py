@@ -1,0 +1,141 @@
+# 针对{"k":[{"k1":v}]}
+# def compare(values, return_data, verify):
+#     if return_data["data"][0].get(verify):
+#         if values == return_data["data"][0].get(verify):
+#             return False
+#         else:
+#             return False
+
+
+from jsonpath import jsonpath
+
+if __name__ == '__main__':
+    a = {"data": [{"id": 226, "name": "游飞3测试砂石场", "sand_factory_type": None, "address": "1234", "lng": "93.4115987",
+                   "lat": "31.3813058", "area": "0.00", "image": None, "open_status": 1, "deleted": 0, "area_id": 8,
+                   "department_id": 584, "plan": "file\/10\/2022\/0107\/b843f996-9eaf-47a6-ada1-0d5c49924756.png",
+                   "create_time": "2022-02-14 17:27:31", "pm_2_5": None, "pm_10": 0, "temperature": None,
+                   "humidity": None,
+                   "aqi": None, "b_pm_2_5": None, "b_pm_10": None, "b_temperature": None, "b_humidity": None,
+                   "b_aqi": None,
+                   "realname": None, "street_id": None, "manager_department_id": None, "constructor_manager": None,
+                   "constructor_manager_telephone": None, "consum_type": 2, "forever": 1, "begin_time": None,
+                   "end_time": None, "other_info": "", "videos": "", "images": "", "created_by": 89089,
+                   "area_name": "高新区",
+                   "report_method": 1, "gps_polygon": 1, "user_name": "测试--游飞--总部坐席"}],
+         "page": {"page": 1, "limit": 10, "total": 1}}
+
+    b = {"data": [
+        {"id": 40007619, "carNum": "川A13131", "instanceName": "碧桂园悦海园二期", "typeText": "非名录车", "lng": 104.248038,
+         "lat": 30.89708, "address": "同华大道北侧、华逸北路东侧", "createdAt": 1650024148, "ticketNum": "2022041507288",
+         "status": 3, "statusText": "已推送", "type": 1, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 6714, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007621, "carNum": "川A13131", "instanceName": "碧桂园悦海园二期", "typeText": "违规外运", "lng": 104.248038,
+         "lat": 30.89708, "address": "同华大道北侧、华逸北路东侧", "createdAt": 1650024148, "ticketNum": "", "status": 3,
+         "statusText": "已推送", "type": 4, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 6714, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007658, "carNum": " ", "instanceName": "玺云府38亩", "typeText": "非名录车", "lng": 104.265566,
+         "lat": 30.880314, "address": "团结中路", "createdAt": 1650017910, "ticketNum": "", "status": 1,
+         "statusText": "待处理", "type": 1, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 12483, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007659, "carNum": "川AY5326", "instanceName": "玺云府38亩", "typeText": "违规外运", "lng": 104.265566,
+         "lat": 30.880314, "address": "团结中路", "createdAt": 1650017910, "ticketNum": "2022041508760", "status": 2,
+         "statusText": "已忽略", "type": 4, "transportName": "成都柠乡物流有限公司", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 12483, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007657, "carNum": "川AY5326", "instanceName": "玺云府38亩", "typeText": "违规外运", "lng": 104.265566,
+         "lat": 30.880314, "address": "团结中路", "createdAt": 1650015910, "ticketNum": "2022041503803", "status": 1,
+         "statusText": "待处理", "type": 4, "transportName": "成都柠乡物流有限公司", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 12483, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007643, "carNum": "川ADA537", "instanceName": "东方新村安置房三期项目", "typeText": "GPS离线", "lng": 104.305251,
+         "lat": 30.824252, "address": "姚渡镇东方新村", "createdAt": 1650010228, "ticketNum": "2022041506692", "status": 3,
+         "statusText": "已推送", "type": 5, "transportName": "成都市锐锋物流有限公司 ", "areaName": "青白江区", "carAreaName": "彭州市",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 12793, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007637, "carNum": "", "instanceName": "500千伏成都新都变220千伏配套线路工程电力通道建设项目", "typeText": "非名录车",
+         "lng": 104.225927, "lat": 30.896273, "address": "青白江区华金大道一段555号", "createdAt": 1650009928, "ticketNum": "",
+         "status": 1, "statusText": "待处理", "type": 1, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 12754, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007640, "carNum": "川ADA537", "instanceName": "东方新村安置房三期项目", "typeText": "非合同车", "lng": 104.305251,
+         "lat": 30.824252, "address": "姚渡镇东方新村", "createdAt": 1650009928, "ticketNum": "2022041506692", "status": 1,
+         "statusText": "待处理", "type": 2, "transportName": "成都市锐锋物流有限公司 ", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 12793, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007642, "carNum": "川A11111", "instanceName": "500千伏成都新都变220千伏配套线路工程电力通道建设项目", "typeText": "非名录车",
+         "lng": 104.225927, "lat": 30.896273, "address": "青白江区华金大道一段555号", "createdAt": 1650009828,
+         "ticketNum": "2022041507704", "status": 1, "statusText": "待处理", "type": 1, "transportName": "",
+         "areaName": "青白江区", "carAreaName": "", "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg",
+         "rssi": 1, "auth": 1, "authText": "-", "canReply": 0, "instanceId": 12754, "replyId": 0, "replyResultText": "",
+         "replyStatus": 0},
+        {"id": 40007636, "carNum": "川A11111", "instanceName": "500千伏成都新都变220千伏配套线路工程电力通道建设项目", "typeText": "非名录车",
+         "lng": 104.225927, "lat": 30.896273, "address": "青白江区华金大道一段555号", "createdAt": 1650009528,
+         "ticketNum": "2022041507704", "status": 3, "statusText": "已推送", "type": 1, "transportName": "",
+         "areaName": "青白江区", "carAreaName": "", "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg",
+         "rssi": 1, "auth": 1, "authText": "-", "canReply": 0, "instanceId": 12754, "replyId": 0, "replyResultText": "",
+         "replyStatus": 0},
+        {"id": 40007639, "carNum": "川A11111", "instanceName": "500千伏成都新都变220千伏配套线路工程电力通道建设项目", "typeText": "违规外运",
+         "lng": 104.225927, "lat": 30.896273, "address": "青白江区华金大道一段555号", "createdAt": 1650009528, "ticketNum": "",
+         "status": 3, "statusText": "已推送", "type": 4, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 12754, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007641, "carNum": " ", "instanceName": "东方新村安置房三期项目", "typeText": "非名录车", "lng": 104.305251,
+         "lat": 30.824252, "address": "姚渡镇东方新村", "createdAt": 1650009228, "ticketNum": "", "status": 1,
+         "statusText": "待处理", "type": 1, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 12793, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007635, "carNum": " ", "instanceName": "500千伏成都新都变220千伏配套线路工程电力通道建设项目", "typeText": "非名录车",
+         "lng": 104.225927, "lat": 30.896273, "address": "青白江区华金大道一段555号", "createdAt": 1650009128, "ticketNum": "",
+         "status": 1, "statusText": "待处理", "type": 1, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 12754, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007618, "carNum": "川A12121", "instanceName": "碧桂园悦海园二期", "typeText": "GPS离线", "lng": 104.248038,
+         "lat": 30.89708, "address": "同华大道北侧、华逸北路东侧", "createdAt": 1650006448, "ticketNum": "2022041505463",
+         "status": 3, "statusText": "已推送", "type": 5, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 6714, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007617, "carNum": "川A11111", "instanceName": "碧桂园悦海园二期", "typeText": "GPS离线", "lng": 104.248038,
+         "lat": 30.89708, "address": "同华大道北侧、华逸北路东侧", "createdAt": 1650006448, "ticketNum": "2022041509784",
+         "status": 3, "statusText": "已推送", "type": 5, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 6714, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007614, "carNum": "川A12121", "instanceName": "碧桂园悦海园二期", "typeText": "非名录车", "lng": 104.248038,
+         "lat": 30.89708, "address": "同华大道北侧、华逸北路东侧", "createdAt": 1650006148, "ticketNum": "2022041505463",
+         "status": 3, "statusText": "已推送", "type": 1, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 6714, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007616, "carNum": "川A12121", "instanceName": "碧桂园悦海园二期", "typeText": "违规外运", "lng": 104.248038,
+         "lat": 30.89708, "address": "同华大道北侧、华逸北路东侧", "createdAt": 1650006148, "ticketNum": "", "status": 3,
+         "statusText": "已推送", "type": 4, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 6714, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007586, "carNum": " ", "instanceName": "深业北岸城", "typeText": "非名录车", "lng": 104.266801, "lat": 30.88398,
+         "address": "青白江怡湖公园对面", "createdAt": 1649989277, "ticketNum": "", "status": 1, "statusText": "待处理", "type": 1,
+         "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 13224, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007584, "carNum": "2022041504526", "instanceName": "深业北岸城", "typeText": "非名录车", "lng": 104.266801,
+         "lat": 30.88398, "address": "青白江怡湖公园对面", "createdAt": 1649989257, "ticketNum": "2022041504526", "status": 5,
+         "statusText": "无法核实", "type": 1, "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 13224, "replyId": 0, "replyResultText": "", "replyStatus": 0},
+        {"id": 40007585, "carNum": " ", "instanceName": "深业北岸城", "typeText": "违规外运", "lng": 104.266801, "lat": 30.88398,
+         "address": "青白江怡湖公园对面", "createdAt": 1649989257, "ticketNum": "", "status": 3, "statusText": "已推送", "type": 4,
+         "transportName": "", "areaName": "青白江区", "carAreaName": "",
+         "photo": "file/5/2021/0824/ce3600ff-afe9-46a1-be31-358354634f6a.jpg", "rssi": 1, "auth": 1, "authText": "-",
+         "canReply": 0, "instanceId": 13224, "replyId": 0, "replyResultText": "", "replyStatus": 0}],
+        "page": {"page": 1, "limit": 50, "total": 20}}
+
+    # verify = "address"
+    # address = "1234"
+    # print(compare(address, a, verify))
+    # # c =a["data"][0]
+    # # print(c)
+    # # print(c.get("address"))
+
+    #
+    result = jsonpath(b, "$..id")
+    print(result)

@@ -1,0 +1,11 @@
+emerg_weather_warn_list:
+  - title: "指挥中心--预警提醒信息"
+    url: /api/emerg/weather_warn/list
+    # 重点参数area_code
+    data: ""
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+

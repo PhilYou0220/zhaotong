@@ -1,0 +1,9 @@
+boss_goods_price_select:
+  - title: "矿山数据统计--销售数据核准--详情"
+    url: /api/boss/goods_price/select
+    data: type=1&point_id=150
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

@@ -1,0 +1,17 @@
+boss_goods_prices:
+  - title: "销售数据管理--非煤矿价格及税收管理--默认列表"
+    url: /api/boss/goods_prices
+    data: type=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "销售数据管理--非煤矿价格及税收管理--列表关键字、地区、矿区筛选"
+    url: /api/boss/goods_prices
+    data: limit=10&page=1&area_code=530602109&point_id=121&has_tax=1&keyword=%E6%B0%B8%E7%9B%9B%E7%BB%8F%E8%B4%B8%E6%9C%89
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

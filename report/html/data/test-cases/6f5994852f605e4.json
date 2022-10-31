@@ -1,0 +1,100 @@
+{
+  "uid" : "6f5994852f605e4",
+  "name" : "税收监管--产矿销售种类占比--区县",
+  "fullName" : "testcase_api.test_024_boss_ticket_weight_by_goods.TestBossTicketWeightByGoods#test_boss_ticket_weight_by_goods_1",
+  "historyId" : "5c8dfe56fe016cf1acb397fe9efbf164",
+  "time" : {
+    "start" : 1667179421846,
+    "stop" : 1667179422160,
+    "duration" : 314
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--产矿销售种类占比--区县",
+      "time" : {
+        "start" : 1667179421851,
+        "stop" : 1667179422160,
+        "duration" : 309
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ffbf7850163c0062",
+      "name" : "log",
+      "source" : "ffbf7850163c0062.txt",
+      "type" : "text/plain",
+      "size" : 449
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--产矿销售种类占比"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_024_boss_ticket_weight_by_goods"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossTicketWeightByGoods"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_024_boss_ticket_weight_by_goods"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)", "api" ]
+  },
+  "source" : "6f5994852f605e4.json",
+  "parameterValues" : [ ]
+}

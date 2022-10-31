@@ -1,0 +1,100 @@
+{
+  "uid" : "57e969da03937eb8",
+  "name" : "视频监控--视频监控树--模糊搜索",
+  "fullName" : "testcase_api.test_028_gbserver_tree.TestGbserverTree#test_gbserver_tree_1",
+  "historyId" : "8817225e1869a43bcf282984472c82ee",
+  "time" : {
+    "start" : 1667179422162,
+    "stop" : 1667179422856,
+    "duration" : 694
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "视频监控--关键字搜索",
+      "time" : {
+        "start" : 1667179422167,
+        "stop" : 1667179422856,
+        "duration" : 689
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "7b1959750d67a0b7",
+      "name" : "log",
+      "source" : "7b1959750d67a0b7.txt",
+      "type" : "text/plain",
+      "size" : 3593
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "视频监控--视频监控树"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_028_gbserver_tree"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGbserverTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_028_gbserver_tree"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)", "api" ]
+  },
+  "source" : "57e969da03937eb8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,28 @@
+patrol_daily_patrol_list:
+  - title: "指挥中心左部日常巡检--市级"
+    url: /api/patrol/daily_patrol/list
+    # 重点参数area_code
+    data: page=1&limit=100&instance_name=&area_code=5306&examine_status=&created_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "指挥中心左部日常巡检--区县(昭阳)"
+    url: /api/patrol/daily_patrol/list
+    # 重点参数area_code
+    data: page=1&limit=100&instance_name=&area_code=530602&examine_status=&created_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "指挥中心左部日常巡检--镇街(凤凰)"
+    url: /api/patrol/daily_patrol/list
+    # 重点参数area_code
+    data: page=1&limit=100&instance_name=&area_code=530602002&examine_status=&created_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

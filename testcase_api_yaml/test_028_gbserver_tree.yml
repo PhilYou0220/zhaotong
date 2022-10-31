@@ -1,0 +1,26 @@
+gbserver_tree:
+  - title: "视频监控--视频监控树"
+    url: /api/gbserver/tree
+    data: keyword=&name=&area_code=&type=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "视频监控--关键字搜索"
+    url: /api/gbserver/tree
+    data: keyword=%E9%A9%AC%E7%9C%9F&name=%E9%A9%AC%E7%9C%9F&area_code=&type=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "算法布控--类型搜索"
+    url: /api/gbserver/tree
+    data: area_code=&type=2%2C3%2C4%2C5%2C6%2C7%2C1
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+

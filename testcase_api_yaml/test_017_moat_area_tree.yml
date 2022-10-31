@@ -1,0 +1,28 @@
+moat_area_tree:
+  - title: "税收监管--行政单位树--市级"
+    url: /api/moat/area/tree
+    # 重点参数area_code
+    data: level=2&code=5306
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--行政单位树--区县"
+    url: /api/moat/area/tree
+    # 重点参数area_code
+    data: level=3&code=530622
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管--行政单位树--镇街"
+    url: /api/moat/area/tree
+    # 重点参数area_code
+    data: level=4&code=530622100
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

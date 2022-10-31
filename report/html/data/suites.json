@@ -1,0 +1,3376 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase_api",
+    "children" : [ {
+      "name" : "test_001_boss_ticket_top_count2",
+      "children" : [ {
+        "name" : "TestTopCount2",
+        "children" : [ {
+          "name" : "指挥中心顶部看板市级",
+          "uid" : "e2284f8a4f1bf29b",
+          "parentUid" : "ff9cf9c4176f746aeda235b2d1a32931",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179336709,
+            "stop" : 1667179337724,
+            "duration" : 1015
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心顶部看板区县",
+          "uid" : "d1508a28f6221b3e",
+          "parentUid" : "ff9cf9c4176f746aeda235b2d1a32931",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179399243,
+            "stop" : 1667179400261,
+            "duration" : 1018
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心顶部看板镇街",
+          "uid" : "fef8b4358b7b0401",
+          "parentUid" : "ff9cf9c4176f746aeda235b2d1a32931",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179427191,
+            "stop" : 1667179428031,
+            "duration" : 840
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ff9cf9c4176f746aeda235b2d1a32931"
+      } ],
+      "uid" : "31956d60b32130bc2b9dfb93507fd36a"
+    }, {
+      "name" : "test_002_horn_district_statistics",
+      "children" : [ {
+        "name" : "TestHornDistrictStatistics",
+        "children" : [ {
+          "name" : "指挥中心中部地图数据--市级",
+          "uid" : "31e444a22b6ec39",
+          "parentUid" : "1a243cb0c244fbdf87ea21b915c25940",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179337726,
+            "stop" : 1667179339007,
+            "duration" : 1281
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心顶部看板区县",
+          "uid" : "563c4caae1f10a5c",
+          "parentUid" : "1a243cb0c244fbdf87ea21b915c25940",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179400264,
+            "stop" : 1667179401188,
+            "duration" : 924
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心顶部看板镇街",
+          "uid" : "40a55386c9ab8804",
+          "parentUid" : "1a243cb0c244fbdf87ea21b915c25940",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179428034,
+            "stop" : 1667179428738,
+            "duration" : 704
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1a243cb0c244fbdf87ea21b915c25940"
+      } ],
+      "uid" : "7cfbd509b0ee16b70b2d114d325621c0"
+    }, {
+      "name" : "test_003_patrol_daily_patrol_list",
+      "children" : [ {
+        "name" : "TestPatrolDailyPatrolList",
+        "children" : [ {
+          "name" : "指挥中心左部日常巡检--市级",
+          "uid" : "15644c291132b976",
+          "parentUid" : "f4095cf8e6f12bafd7a8b245e20fe101",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179339012,
+            "stop" : 1667179339228,
+            "duration" : 216
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心左部日常巡检区县",
+          "uid" : "f8685dc02c1bde60",
+          "parentUid" : "f4095cf8e6f12bafd7a8b245e20fe101",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179401190,
+            "stop" : 1667179401415,
+            "duration" : 225
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心左部日常巡检镇街",
+          "uid" : "26a62cff63f57e2f",
+          "parentUid" : "f4095cf8e6f12bafd7a8b245e20fe101",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179428740,
+            "stop" : 1667179428931,
+            "duration" : 191
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f4095cf8e6f12bafd7a8b245e20fe101"
+      } ],
+      "uid" : "a70d8013117dc1cdd1e00fd0914a5544"
+    }, {
+      "name" : "test_004_beacon_alert_list",
+      "children" : [ {
+        "name" : "TestBeaconAlertList",
+        "children" : [ {
+          "name" : "指挥中心左部告警信息--市级",
+          "uid" : "5c30b4b40d6adc44",
+          "parentUid" : "94dc492506c4f0d67ae94590f8e67be7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179339230,
+            "stop" : 1667179340681,
+            "duration" : 1451
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心左部告警信息--区县",
+          "uid" : "6442e1e3cb3a3f9d",
+          "parentUid" : "94dc492506c4f0d67ae94590f8e67be7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179401417,
+            "stop" : 1667179402843,
+            "duration" : 1426
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心左部告警信息--镇街",
+          "uid" : "d3e6baeb1fdca43e",
+          "parentUid" : "94dc492506c4f0d67ae94590f8e67be7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179428934,
+            "stop" : 1667179430342,
+            "duration" : 1408
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管左部告警信息--市级",
+          "uid" : "c0ee13c859a8fd09",
+          "parentUid" : "94dc492506c4f0d67ae94590f8e67be7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179451830,
+            "stop" : 1667179453407,
+            "duration" : 1577
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管左部告警信息--区县",
+          "uid" : "e20cf7aa3d3ea3cf",
+          "parentUid" : "94dc492506c4f0d67ae94590f8e67be7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179502788,
+            "stop" : 1667179504267,
+            "duration" : 1479
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管左部告警信息--镇街",
+          "uid" : "b31726e9d1657d7",
+          "parentUid" : "94dc492506c4f0d67ae94590f8e67be7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179524147,
+            "stop" : 1667179525568,
+            "duration" : 1421
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "告警管理--告警中心--联合筛选",
+          "uid" : "c7109ede4436d0e4",
+          "parentUid" : "94dc492506c4f0d67ae94590f8e67be7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179543723,
+            "stop" : 1667179545121,
+            "duration" : 1398
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "94dc492506c4f0d67ae94590f8e67be7"
+      } ],
+      "uid" : "d9a51cc88ca1bf01b85c4c61e312f6df"
+    }, {
+      "name" : "test_005_beacon_alert_detail",
+      "children" : [ {
+        "name" : "TestBeaconAlertDetail",
+        "children" : [ {
+          "name" : "指挥中心左部告警信息--详情",
+          "uid" : "104b11f8ba698ebf",
+          "parentUid" : "b5680a07d14abe77328be77fdd17a323",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179340684,
+            "stop" : 1667179343520,
+            "duration" : 2836
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b5680a07d14abe77328be77fdd17a323"
+      } ],
+      "uid" : "998e6b17bc0c458af15d78e2ad7664d8"
+    }, {
+      "name" : "test_006_boss_point_mines",
+      "children" : [ {
+        "name" : "TestBossPointMines",
+        "children" : [ {
+          "name" : "指挥中心顶部视频/数据接入/今日作业--详情",
+          "uid" : "d73d27b72d358f19",
+          "parentUid" : "cabb0d131998a2a2ee64e66c99272664",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179343523,
+            "stop" : 1667179344103,
+            "duration" : 580
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "企业管理--矿区管理--矿区列表",
+          "uid" : "bbddf859355dc40e",
+          "parentUid" : "cabb0d131998a2a2ee64e66c99272664",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179402846,
+            "stop" : 1667179403106,
+            "duration" : 260
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cabb0d131998a2a2ee64e66c99272664"
+      } ],
+      "uid" : "d2ebbaac42ab83b0835c8faae6864728"
+    }, {
+      "name" : "test_007_boss_belt_data_count_by_point",
+      "children" : [ {
+        "name" : "TestBossBeltDataCountByPoint",
+        "children" : [ {
+          "name" : "指挥中心顶部数据加工量详情--市级",
+          "uid" : "5e0d0d352fb14e13",
+          "parentUid" : "66dc80c4fa4c648462fb5ab35dae5373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179344106,
+            "stop" : 1667179344686,
+            "duration" : 580
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心顶部数据加工量详情--区县",
+          "uid" : "459ece4f551b0d3",
+          "parentUid" : "66dc80c4fa4c648462fb5ab35dae5373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179403110,
+            "stop" : 1667179403614,
+            "duration" : 504
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心顶部数据加工量详情--镇街",
+          "uid" : "49d541ab03ccc032",
+          "parentUid" : "66dc80c4fa4c648462fb5ab35dae5373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179430344,
+            "stop" : 1667179430871,
+            "duration" : 527
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管今年累计加工量--市级",
+          "uid" : "2f82642b793ed6d6",
+          "parentUid" : "66dc80c4fa4c648462fb5ab35dae5373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179453409,
+            "stop" : 1667179500263,
+            "duration" : 46854
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管今年累计加工量--区县",
+          "uid" : "895d131e1bd3ece6",
+          "parentUid" : "66dc80c4fa4c648462fb5ab35dae5373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179504269,
+            "stop" : 1667179522875,
+            "duration" : 18606
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管今年累计加工量--镇街",
+          "uid" : "90bb21b8d26c5cfa",
+          "parentUid" : "66dc80c4fa4c648462fb5ab35dae5373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179525570,
+            "stop" : 1667179542765,
+            "duration" : 17195
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "66dc80c4fa4c648462fb5ab35dae5373"
+      } ],
+      "uid" : "df9dd0a4a88717ccb05df2effaead999"
+    }, {
+      "name" : "test_008_boss_ticket_count_by_point",
+      "children" : [ {
+        "name" : "TestBossTicketCountByPoint",
+        "children" : [ {
+          "name" : "指挥中心顶部数据销售量详情--市级",
+          "uid" : "81f21ecb1d827528",
+          "parentUid" : "3a69af8b3d88fcea447aa198292fdb8a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179344689,
+            "stop" : 1667179345133,
+            "duration" : 444
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心顶部数据销售量详情--区县",
+          "uid" : "7e9c8e8889ba926f",
+          "parentUid" : "3a69af8b3d88fcea447aa198292fdb8a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179403617,
+            "stop" : 1667179403926,
+            "duration" : 309
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心顶部数据销售量详情--镇街",
+          "uid" : "c5e71100ff4a2a9c",
+          "parentUid" : "3a69af8b3d88fcea447aa198292fdb8a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179430874,
+            "stop" : 1667179431192,
+            "duration" : 318
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管今年累计销售量列表--市级",
+          "uid" : "3fd9271c324dd750",
+          "parentUid" : "3a69af8b3d88fcea447aa198292fdb8a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179500266,
+            "stop" : 1667179501364,
+            "duration" : 1098
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管今年累计销售量列表--区县",
+          "uid" : "9cc54e6188031f4a",
+          "parentUid" : "3a69af8b3d88fcea447aa198292fdb8a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179522877,
+            "stop" : 1667179523595,
+            "duration" : 718
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管今年累计销售量列表--镇街",
+          "uid" : "9b73d05ef4cd24e8",
+          "parentUid" : "3a69af8b3d88fcea447aa198292fdb8a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179542768,
+            "stop" : 1667179543411,
+            "duration" : 643
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3a69af8b3d88fcea447aa198292fdb8a"
+      } ],
+      "uid" : "e31c2f4d0bcba8e2401450ddef9c52f9"
+    }, {
+      "name" : "test_009_emergcase_uploads",
+      "children" : [ {
+        "name" : "TestEmergcaseUploads",
+        "children" : [ {
+          "name" : "指挥中心应急事件上报-市级",
+          "uid" : "f9fdf496245f1501",
+          "parentUid" : "d8cf703441715e809c230a4a28e240be",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179345136,
+            "stop" : 1667179345342,
+            "duration" : 206
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心应急事件上报--区县",
+          "uid" : "ba677508f4c462a8",
+          "parentUid" : "d8cf703441715e809c230a4a28e240be",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179403928,
+            "stop" : 1667179404130,
+            "duration" : 202
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心应急事件上报--镇街",
+          "uid" : "5107c3ce3d426ef9",
+          "parentUid" : "d8cf703441715e809c230a4a28e240be",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179431194,
+            "stop" : 1667179432423,
+            "duration" : 1229
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d8cf703441715e809c230a4a28e240be"
+      } ],
+      "uid" : "8544fb5ea0000f7406ef064346af7123"
+    }, {
+      "name" : "test_010_emerg_dispatch_list",
+      "children" : [ {
+        "name" : "TestEmergDispatchList",
+        "children" : [ {
+          "name" : "指挥中心应急事件上报-市级",
+          "uid" : "49f2ea7ec60e06ab",
+          "parentUid" : "77ce92eaef5bc7347d672f5630f5f902",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179345344,
+            "stop" : 1667179345553,
+            "duration" : 209
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心应急事件上报--区县",
+          "uid" : "aa8cfd097df5478c",
+          "parentUid" : "77ce92eaef5bc7347d672f5630f5f902",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179404132,
+            "stop" : 1667179404338,
+            "duration" : 206
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心应急事件上报--镇街",
+          "uid" : "999880adc8bb5436",
+          "parentUid" : "77ce92eaef5bc7347d672f5630f5f902",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179432426,
+            "stop" : 1667179433649,
+            "duration" : 1223
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "77ce92eaef5bc7347d672f5630f5f902"
+      } ],
+      "uid" : "a7bc1b1ccad2a52c8b64270dbef11486"
+    }, {
+      "name" : "test_011_boss_point_mine",
+      "children" : [ {
+        "name" : "TestBossPointMine",
+        "children" : [ {
+          "name" : "驾驶舱矿区--基础信息(马真良)",
+          "uid" : "7f0414e28057dbd",
+          "parentUid" : "d7ca684ca408873ff60e126c96f7cea8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179345555,
+            "stop" : 1667179348265,
+            "duration" : 2710
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d7ca684ca408873ff60e126c96f7cea8"
+      } ],
+      "uid" : "2c831d1d2e4cc34082a4ecfca3420997"
+    }, {
+      "name" : "test_012_gbserver_device",
+      "children" : [ {
+        "name" : "TestGbserverDevice",
+        "children" : [ {
+          "name" : "驾驶舱矿区实景--全部监控(马真良为例)",
+          "uid" : "9ea182eadd1c577b",
+          "parentUid" : "75dc1dec5626de4adcfec2d2dfd40eb4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179348268,
+            "stop" : 1667179348510,
+            "duration" : 242
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "驾驶舱矿区实景--全域监管监控(马真良为例)",
+          "uid" : "24a497b7e9ac0e6b",
+          "parentUid" : "75dc1dec5626de4adcfec2d2dfd40eb4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179404340,
+            "stop" : 1667179404546,
+            "duration" : 206
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "驾驶舱矿区实景--进出口监控(马真良为例)",
+          "uid" : "fbdfcab81b00cd0d",
+          "parentUid" : "75dc1dec5626de4adcfec2d2dfd40eb4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179433651,
+            "stop" : 1667179433853,
+            "duration" : 202
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "驾驶舱矿区实景--加工区监控(马真良为例)",
+          "uid" : "8fd30ae7b24590eb",
+          "parentUid" : "75dc1dec5626de4adcfec2d2dfd40eb4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179501366,
+            "stop" : 1667179501802,
+            "duration" : 436
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "驾驶舱矿区实景--破碎机(马真良为例)",
+          "uid" : "c8ab7fe57b72becb",
+          "parentUid" : "75dc1dec5626de4adcfec2d2dfd40eb4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179523598,
+            "stop" : 1667179523819,
+            "duration" : 221
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "75dc1dec5626de4adcfec2d2dfd40eb4"
+      } ],
+      "uid" : "a4219c1711a10233e5abb2ba0bc3bd79"
+    }, {
+      "name" : "test_013_gbserver_video",
+      "children" : [ {
+        "name" : "TestGbserverVideo",
+        "children" : [ {
+          "name" : "驾驶舱矿区实景--播放视频",
+          "uid" : "bb318ac11539d88f",
+          "parentUid" : "c2e9513764fd4033f739e1855d0586c0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179348520,
+            "stop" : 1667179348797,
+            "duration" : 277
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c2e9513764fd4033f739e1855d0586c0"
+      } ],
+      "uid" : "d90d02909e33745df0897dfd7356a8b3"
+    }, {
+      "name" : "test_014_boss_devices",
+      "children" : [ {
+        "name" : "TestBossDevices",
+        "children" : [ {
+          "name" : "驾驶舱矿区实景--加工量",
+          "uid" : "6b0781745e8d637b",
+          "parentUid" : "2291cf14be25f4c1ca1a52f21931b588",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179348799,
+            "stop" : 1667179349178,
+            "duration" : 379
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "驾驶舱矿区实景--销售量",
+          "uid" : "be67ae730c224797",
+          "parentUid" : "2291cf14be25f4c1ca1a52f21931b588",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179404548,
+            "stop" : 1667179404920,
+            "duration" : 372
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2291cf14be25f4c1ca1a52f21931b588"
+      } ],
+      "uid" : "c98ae0ff5720e836cbb0ba59a59ac3de"
+    }, {
+      "name" : "test_015_beacon_alert_count_by_type",
+      "children" : [ {
+        "name" : "TestBeaconAlertCountByType",
+        "children" : [ {
+          "name" : "指挥中心--告警分类--市级",
+          "uid" : "abeb2e36d323cc38",
+          "parentUid" : "0b9fae07a0b23dea0eab5fc38cbbec6d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179349182,
+            "stop" : 1667179349524,
+            "duration" : 342
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心--告警分类--区县",
+          "uid" : "800a11ca8a8d0942",
+          "parentUid" : "0b9fae07a0b23dea0eab5fc38cbbec6d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179404922,
+            "stop" : 1667179405267,
+            "duration" : 345
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心--告警分类--镇街",
+          "uid" : "5cac1e65b0a6bac1",
+          "parentUid" : "0b9fae07a0b23dea0eab5fc38cbbec6d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179433856,
+            "stop" : 1667179434168,
+            "duration" : 312
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--告警分类--市级",
+          "uid" : "77caf1cca5877ba9",
+          "parentUid" : "0b9fae07a0b23dea0eab5fc38cbbec6d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179501804,
+            "stop" : 1667179502123,
+            "duration" : 319
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--告警分类--区县",
+          "uid" : "b93ae9c7f4ee97",
+          "parentUid" : "0b9fae07a0b23dea0eab5fc38cbbec6d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179523822,
+            "stop" : 1667179524139,
+            "duration" : 317
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--告警分类--镇街",
+          "uid" : "ea9430e04b7a1023",
+          "parentUid" : "0b9fae07a0b23dea0eab5fc38cbbec6d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179543414,
+            "stop" : 1667179543719,
+            "duration" : 305
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "指挥中心--某个具体的矿区告警分类",
+          "uid" : "b165dbda5896524a",
+          "parentUid" : "0b9fae07a0b23dea0eab5fc38cbbec6d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179545123,
+            "stop" : 1667179545447,
+            "duration" : 324
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--某个具体的矿区告警分类",
+          "uid" : "a6364f97521fa833",
+          "parentUid" : "0b9fae07a0b23dea0eab5fc38cbbec6d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179545453,
+            "stop" : 1667179545759,
+            "duration" : 306
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0b9fae07a0b23dea0eab5fc38cbbec6d"
+      } ],
+      "uid" : "516eb329cfdece10936229ac0f472b50"
+    }, {
+      "name" : "test_016_boss_tickets",
+      "children" : [ {
+        "name" : "TestBossTickets",
+        "children" : [ {
+          "name" : "税收监管--右侧电子联单",
+          "uid" : "a3dd191860be2fd9",
+          "parentUid" : "a49413b929a74c78f93b25f052478229",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179349527,
+            "stop" : 1667179350272,
+            "duration" : 745
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--矿产数据详情列表",
+          "uid" : "2cc249f8d1e29a2e",
+          "parentUid" : "a49413b929a74c78f93b25f052478229",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179405269,
+            "stop" : 1667179405863,
+            "duration" : 594
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "矿山数据统计--销售数据--列表",
+          "uid" : "a20918bb27ad5d24",
+          "parentUid" : "a49413b929a74c78f93b25f052478229",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179434171,
+            "stop" : 1667179434788,
+            "duration" : 617
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "矿山数据统计--销售数据--列表时间、关键字、区域、产品名称、产品类型综合搜索",
+          "uid" : "95a001123844e0de",
+          "parentUid" : "a49413b929a74c78f93b25f052478229",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179502126,
+            "stop" : 1667179502786,
+            "duration" : 660
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a49413b929a74c78f93b25f052478229"
+      } ],
+      "uid" : "fbdc7f511ef45eaaf1baa4b43871b515"
+    }, {
+      "name" : "test_017_moat_area_tree",
+      "children" : [ {
+        "name" : "TestMoatAreaTree",
+        "children" : [ {
+          "name" : "税收监管--行政单位树--市级",
+          "uid" : "dfc3caa8bdb2a396",
+          "parentUid" : "31e15e1b48566e1b0ad3c057f3270e39",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179350276,
+            "stop" : 1667179351051,
+            "duration" : 775
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--行政单位树--区县",
+          "uid" : "3729bec93e0e92b4",
+          "parentUid" : "31e15e1b48566e1b0ad3c057f3270e39",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179405865,
+            "stop" : 1667179406111,
+            "duration" : 246
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--行政单位树--镇街",
+          "uid" : "694e266d260350e9",
+          "parentUid" : "31e15e1b48566e1b0ad3c057f3270e39",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179434791,
+            "stop" : 1667179434982,
+            "duration" : 191
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "31e15e1b48566e1b0ad3c057f3270e39"
+      } ],
+      "uid" : "352b906af6acb5b278795f59c44dcd34"
+    }, {
+      "name" : "test_018_mib_out_of_control",
+      "children" : [ {
+        "name" : "TestMibOutOfControl",
+        "children" : [ {
+          "name" : "税收监管--各矿区设备在离线情况--市级",
+          "uid" : "e545a5fb38c3d8fe",
+          "parentUid" : "beebba2771a8d8cc50648215d369f3aa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179351054,
+            "stop" : 1667179351302,
+            "duration" : 248
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--各矿区设备在离线情况--区县",
+          "uid" : "3b510bcddd96fb5b",
+          "parentUid" : "beebba2771a8d8cc50648215d369f3aa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179406113,
+            "stop" : 1667179406306,
+            "duration" : 193
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--各矿区设备在离线情况--镇街",
+          "uid" : "4bdc471d3d946666",
+          "parentUid" : "beebba2771a8d8cc50648215d369f3aa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179434985,
+            "stop" : 1667179435187,
+            "duration" : 202
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "beebba2771a8d8cc50648215d369f3aa"
+      } ],
+      "uid" : "23fdbc224e2867b1229e1b93069c0e5d"
+    }, {
+      "name" : "test_019_beacon_alert_statistics",
+      "children" : [ {
+        "name" : "TestBeaconAlertStatistics",
+        "children" : [ {
+          "name" : "税收监管--近7日告警提醒--市级",
+          "uid" : "798e780f8ed4d693",
+          "parentUid" : "7443f408159c783dfa46debd1524aa38",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179351305,
+            "stop" : 1667179351555,
+            "duration" : 250
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--近7日告警提醒--区县",
+          "uid" : "9c018648d6434ed3",
+          "parentUid" : "7443f408159c783dfa46debd1524aa38",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179406308,
+            "stop" : 1667179406543,
+            "duration" : 235
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--近7日告警提醒--镇街",
+          "uid" : "c4fb0f662d0fc808",
+          "parentUid" : "7443f408159c783dfa46debd1524aa38",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179435190,
+            "stop" : 1667179435419,
+            "duration" : 229
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7443f408159c783dfa46debd1524aa38"
+      } ],
+      "uid" : "83cfe333130350d63bb88d434244a1ca"
+    }, {
+      "name" : "test_020_boss_point_select",
+      "children" : [ {
+        "name" : "TestBossPointSelect",
+        "children" : [ {
+          "name" : "税收监管--矿区选择--市级",
+          "uid" : "f243969993cabb1a",
+          "parentUid" : "82178005fcfe93bf51b3d22e73bda521",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179351557,
+            "stop" : 1667179351762,
+            "duration" : 205
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--矿区选择--区县",
+          "uid" : "3d716d23aeac755",
+          "parentUid" : "82178005fcfe93bf51b3d22e73bda521",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179406545,
+            "stop" : 1667179406738,
+            "duration" : 193
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--矿区选择--镇街",
+          "uid" : "6c0da51393766fa9",
+          "parentUid" : "82178005fcfe93bf51b3d22e73bda521",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179435422,
+            "stop" : 1667179435611,
+            "duration" : 189
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "82178005fcfe93bf51b3d22e73bda521"
+      } ],
+      "uid" : "d28f9a601fb3d98c5d7db0a5ff00d847"
+    }, {
+      "name" : "test_021_boss_ticket_top_count",
+      "children" : [ {
+        "name" : "TestBossTicketTopCount",
+        "children" : [ {
+          "name" : "税收监管--顶部看板--市级",
+          "uid" : "e7c5e49018744bef",
+          "parentUid" : "f2b14176f93a1d13e7336a9e415db35f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179351765,
+            "stop" : 1667179362862,
+            "duration" : 11097
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--顶部看板--区县",
+          "uid" : "5f751b339611147a",
+          "parentUid" : "f2b14176f93a1d13e7336a9e415db35f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179406741,
+            "stop" : 1667179417323,
+            "duration" : 10582
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--顶部看板--镇街",
+          "uid" : "12dab5bcff4b2e83",
+          "parentUid" : "f2b14176f93a1d13e7336a9e415db35f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179435613,
+            "stop" : 1667179445965,
+            "duration" : 10352
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f2b14176f93a1d13e7336a9e415db35f"
+      } ],
+      "uid" : "ad8a6769cd892c470203e98e6029b0d8"
+    }, {
+      "name" : "test_022_boss_ticket_tax_by_time",
+      "children" : [ {
+        "name" : "TestBossTicketTaxByTime",
+        "children" : [ {
+          "name" : "税收监管--顶部看板--市级",
+          "uid" : "b628560da0bb20ee",
+          "parentUid" : "ed7c946d156228a163a28b5d812989ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179362864,
+            "stop" : 1667179367269,
+            "duration" : 4405
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--顶部看板--区县",
+          "uid" : "6fc7294ae5b4d27c",
+          "parentUid" : "ed7c946d156228a163a28b5d812989ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179417326,
+            "stop" : 1667179421508,
+            "duration" : 4182
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--顶部看板--镇街",
+          "uid" : "f20fbd2d54751a49",
+          "parentUid" : "ed7c946d156228a163a28b5d812989ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179445968,
+            "stop" : 1667179450044,
+            "duration" : 4076
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ed7c946d156228a163a28b5d812989ca"
+      } ],
+      "uid" : "4cb822994983603eac97682b3d9f4908"
+    }, {
+      "name" : "test_023_boss_ticket_produce_sale_rate",
+      "children" : [ {
+        "name" : "TestBossTicketProduceSaleRate",
+        "children" : [ {
+          "name" : "税收监管--矿产加工销售占比--市级",
+          "uid" : "e0ee8ab7151356c8",
+          "parentUid" : "16fa3c5637586bc694d1ac8f31ad06c9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179367271,
+            "stop" : 1667179367630,
+            "duration" : 359
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--矿产加工销售占比--区县",
+          "uid" : "e9171ad0aee8f772",
+          "parentUid" : "16fa3c5637586bc694d1ac8f31ad06c9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179421510,
+            "stop" : 1667179421844,
+            "duration" : 334
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--矿产加工销售占比--镇街",
+          "uid" : "e4cc33552bf56ee7",
+          "parentUid" : "16fa3c5637586bc694d1ac8f31ad06c9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179450046,
+            "stop" : 1667179450484,
+            "duration" : 438
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "16fa3c5637586bc694d1ac8f31ad06c9"
+      } ],
+      "uid" : "c7c4bdf2934a47025c819551bb3bbefe"
+    }, {
+      "name" : "test_024_boss_ticket_weight_by_goods",
+      "children" : [ {
+        "name" : "TestBossTicketWeightByGoods",
+        "children" : [ {
+          "name" : "税收监管--产矿销售种类占比--市级",
+          "uid" : "71caa92aff8ca358",
+          "parentUid" : "540ce84abe529287cb3addaf50a144d0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179367632,
+            "stop" : 1667179367950,
+            "duration" : 318
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--产矿销售种类占比--区县",
+          "uid" : "6f5994852f605e4",
+          "parentUid" : "540ce84abe529287cb3addaf50a144d0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179421846,
+            "stop" : 1667179422160,
+            "duration" : 314
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "税收监管--产矿销售种类占比--镇街",
+          "uid" : "edcf07b1657b3628",
+          "parentUid" : "540ce84abe529287cb3addaf50a144d0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179450494,
+            "stop" : 1667179450784,
+            "duration" : 290
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "540ce84abe529287cb3addaf50a144d0"
+      } ],
+      "uid" : "de36fb532be1a6771817b700bb679c50"
+    }, {
+      "name" : "test_025_boss_point_tree",
+      "children" : [ {
+        "name" : "TestBossPointTree",
+        "children" : [ {
+          "name" : "税收监管--识别能力",
+          "uid" : "3b3efcbc377f577",
+          "parentUid" : "408098857ff32cf2addffa07c97209f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179368092,
+            "stop" : 1667179368774,
+            "duration" : 682
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "408098857ff32cf2addffa07c97209f0"
+      } ],
+      "uid" : "1be3cd62116662184d7d5ca966955b4c"
+    }, {
+      "name" : "test_026_boss_goods_types",
+      "children" : [ {
+        "name" : "TestBossPointTree",
+        "children" : [ {
+          "name" : "税收监管--识别能力",
+          "uid" : "a573df63ca7e769d",
+          "parentUid" : "c3b68dc0694f40be5f370c57cf2a5f46",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179368777,
+            "stop" : 1667179368966,
+            "duration" : 189
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c3b68dc0694f40be5f370c57cf2a5f46"
+      } ],
+      "uid" : "aad458f2eee7540955469e389242ef6e"
+    }, {
+      "name" : "test_027_emerg_weather_warn_list",
+      "children" : [ {
+        "name" : "TestEmergWeatherWarnList",
+        "children" : [ {
+          "name" : "指挥中心--预警提醒信息",
+          "uid" : "ee2ed160d9c2e3b4",
+          "parentUid" : "e8bddbd3b816d3bde0e728a69a4e4750",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179368968,
+            "stop" : 1667179369161,
+            "duration" : 193
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e8bddbd3b816d3bde0e728a69a4e4750"
+      } ],
+      "uid" : "49cefe2e3c9f5b537cf1cc52d83c01f6"
+    }, {
+      "name" : "test_028_gbserver_tree",
+      "children" : [ {
+        "name" : "TestGbserverTree",
+        "children" : [ {
+          "name" : "视频监控--视频监控树",
+          "uid" : "4abe2d6b1c7d041d",
+          "parentUid" : "db1975aa3b2631c3cadc6420d7059030",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179369164,
+            "stop" : 1667179370291,
+            "duration" : 1127
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "视频监控--视频监控树--模糊搜索",
+          "uid" : "57e969da03937eb8",
+          "parentUid" : "db1975aa3b2631c3cadc6420d7059030",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179422162,
+            "stop" : 1667179422856,
+            "duration" : 694
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "视频监控--视频监控树--模糊搜索",
+          "uid" : "68d0ed21fa15e3f5",
+          "parentUid" : "db1975aa3b2631c3cadc6420d7059030",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179450786,
+            "stop" : 1667179451827,
+            "duration" : 1041
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "db1975aa3b2631c3cadc6420d7059030"
+      } ],
+      "uid" : "14af4a56f7b467e11e179e414e25f608"
+    }, {
+      "name" : "test_029_bi_board_list",
+      "children" : [ {
+        "name" : "TestGbserverTree",
+        "children" : [ {
+          "name" : "大屏配置--web端",
+          "uid" : "dbc826af38ea876b",
+          "parentUid" : "63fff1de0a05986b28e19a781091f1b3",
+          "status" : "failed",
+          "time" : {
+            "start" : 1667179370293,
+            "stop" : 1667179370858,
+            "duration" : 565
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "大屏配置--app端",
+          "uid" : "9458bcad49b96532",
+          "parentUid" : "63fff1de0a05986b28e19a781091f1b3",
+          "status" : "failed",
+          "time" : {
+            "start" : 1667179422859,
+            "stop" : 1667179423043,
+            "duration" : 184
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "63fff1de0a05986b28e19a781091f1b3"
+      } ],
+      "uid" : "40e672d301cbfdf701e03f7a44282e93"
+    }, {
+      "name" : "test_030_moat_org_general_tree",
+      "children" : [ {
+        "name" : "TestMoatOrgGeneralTree",
+        "children" : [ {
+          "name" : "组织管理--部门与成员--组织",
+          "uid" : "a830568fd4542154",
+          "parentUid" : "a833c5f46a9cc09402dbe9a15011deb4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179370860,
+            "stop" : 1667179371046,
+            "duration" : 186
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a833c5f46a9cc09402dbe9a15011deb4"
+      } ],
+      "uid" : "5cd2047e30f6ef0f07dbe340e8ac7649"
+    }, {
+      "name" : "test_031_moat_org_details",
+      "children" : [ {
+        "name" : "TestMoatOrgGeneralTree",
+        "children" : [ {
+          "name" : "组织管理--部门与成员--组织--详情",
+          "uid" : "96d8d5d29da8f887",
+          "parentUid" : "1c5697a8e16925a04707eb9dfe99ca8e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179371056,
+            "stop" : 1667179371436,
+            "duration" : 380
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1c5697a8e16925a04707eb9dfe99ca8e"
+      } ],
+      "uid" : "01b3fcf498fd7febfdd2bd2349ffa50c"
+    }, {
+      "name" : "test_032_moat_org_full_child_tree",
+      "children" : [ {
+        "name" : "TestMoatOrgFullChildTree",
+        "children" : [ {
+          "name" : "组织管理--部门与成员--所有部门",
+          "uid" : "bcc95e0dc67e5937",
+          "parentUid" : "df3df34e92bd80f19b257b528c9816a7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179371439,
+            "stop" : 1667179371782,
+            "duration" : 343
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "df3df34e92bd80f19b257b528c9816a7"
+      } ],
+      "uid" : "bc0e1f8823b7f69bcc0e6db5d9571ec2"
+    }, {
+      "name" : "test_033_moat_user_page",
+      "children" : [ {
+        "name" : "TestMoatUserPage",
+        "children" : [ {
+          "name" : "组织管理--部门与成员--具体职位下的所有用户",
+          "uid" : "7601acdb95b9312e",
+          "parentUid" : "2d438f1959e6b5f9610ccb0cd7527d07",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179371785,
+            "stop" : 1667179371981,
+            "duration" : 196
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2d438f1959e6b5f9610ccb0cd7527d07"
+      } ],
+      "uid" : "9633248a2e3c6260821af98c6778452a"
+    }, {
+      "name" : "test_034_moat_role_general",
+      "children" : [ {
+        "name" : "TestMoatRoleGeneral",
+        "children" : [ {
+          "name" : "组织管理--部门与成员--所有角色",
+          "uid" : "dab344f23a875b0d",
+          "parentUid" : "f47d776593c25ed6dfbf883d55e9c90f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179371983,
+            "stop" : 1667179372163,
+            "duration" : 180
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f47d776593c25ed6dfbf883d55e9c90f"
+      } ],
+      "uid" : "b1d45a47f1b7640748340b5b1f91fe9f"
+    }, {
+      "name" : "test_035_moat_org_position_details",
+      "children" : [ {
+        "name" : "TestMoatOrgPositionDetails",
+        "children" : [ {
+          "name" : "组织管理--部门与成员--职位详情",
+          "uid" : "7c7bb92ca8a6ec51",
+          "parentUid" : "dbedf2d5413a22f01eb3cbe7f6694f91",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179372165,
+            "stop" : 1667179372366,
+            "duration" : 201
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "dbedf2d5413a22f01eb3cbe7f6694f91"
+      } ],
+      "uid" : "e22f359a20f7208e9dd5f9d05e17d575"
+    }, {
+      "name" : "test_036_moat_org_full_tree",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "组织管理--部门与成员--编辑成员--部门职位选项",
+          "uid" : "36a20dff7de20568",
+          "parentUid" : "11ae91c48cb89cb7e72319a028f20f22",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179372369,
+            "stop" : 1667179372829,
+            "duration" : 460
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "11ae91c48cb89cb7e72319a028f20f22"
+      } ],
+      "uid" : "f3a8a4732026b2d1012d7ebebc712ded"
+    }, {
+      "name" : "test_037_moat_user",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "组织管理--部门与成员--编辑成员--该成员信息",
+          "uid" : "a475241f1e80c09c",
+          "parentUid" : "ffde7ee1d2a799ed7723ae6f9fcd00fc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179372831,
+            "stop" : 1667179373024,
+            "duration" : 193
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ffde7ee1d2a799ed7723ae6f9fcd00fc"
+      } ],
+      "uid" : "9666134a0026e2729e49eda907363e21"
+    }, {
+      "name" : "test_038_moat_role_system",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "组织管理--角色管理--系统管理员",
+          "uid" : "5ccb42dfbc456b67",
+          "parentUid" : "9f522b968ee17b39b79b877e0404cf1f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179373026,
+            "stop" : 1667179373211,
+            "duration" : 185
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9f522b968ee17b39b79b877e0404cf1f"
+      } ],
+      "uid" : "2d08ae4d8000eadda8f14454fd2ca022"
+    }, {
+      "name" : "test_039_moat_permission_tree",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "组织管理--角色管理--权限树",
+          "uid" : "701d6da4f4b74b50",
+          "parentUid" : "8a82320dbb87e674cdb90cff004f3cc3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179373214,
+            "stop" : 1667179373494,
+            "duration" : 280
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8a82320dbb87e674cdb90cff004f3cc3"
+      } ],
+      "uid" : "a05edd6c76e0d8d678a74b56b6348c6c"
+    }, {
+      "name" : "test_040_moat_role_permission",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "组织管理--角色管理--具体角色权限树",
+          "uid" : "4e5c5362ba7a5a5c",
+          "parentUid" : "7edfcf7e0db454c98e41dde2ff9cd731",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179373505,
+            "stop" : 1667179373699,
+            "duration" : 194
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7edfcf7e0db454c98e41dde2ff9cd731"
+      } ],
+      "uid" : "14104acb25443fb6c2adbf538eb747a2"
+    }, {
+      "name" : "test_041_moat_role_details",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "组织管理--角色管理--角色名称详情",
+          "uid" : "531e6e3230d80019",
+          "parentUid" : "37a5b4240a02b4f40202bea98b4a5789",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179373702,
+            "stop" : 1667179373893,
+            "duration" : 191
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "37a5b4240a02b4f40202bea98b4a5789"
+      } ],
+      "uid" : "e640769f7cfb95d29575efca16ba523b"
+    }, {
+      "name" : "test_042_boss_belt_datas",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--生产数据--列表及关键字搜索",
+          "uid" : "dd9bef28795b2163",
+          "parentUid" : "5d208430da4f4dbcd2a3a01a1aed7d92",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179373896,
+            "stop" : 1667179374384,
+            "duration" : 488
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "矿山数据统计--生产数据--列表及关键字搜索",
+          "uid" : "1ec9b8c3213a2bd6",
+          "parentUid" : "5d208430da4f4dbcd2a3a01a1aed7d92",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179423045,
+            "stop" : 1667179423526,
+            "duration" : 481
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5d208430da4f4dbcd2a3a01a1aed7d92"
+      } ],
+      "uid" : "c02f8aa87511db39c55b579884bc5d19"
+    }, {
+      "name" : "test_043_boss_belt_data",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--生产数据--详情",
+          "uid" : "a25339185174e5c9",
+          "parentUid" : "8819fa6d5d8036bed44c6f33c51f8793",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179374386,
+            "stop" : 1667179377042,
+            "duration" : 2656
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8819fa6d5d8036bed44c6f33c51f8793"
+      } ],
+      "uid" : "bc2e4135a59724bf1eeacf8d4187310a"
+    }, {
+      "name" : "test_044_boss_goods_select",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--生产数据--详情",
+          "uid" : "7e6c5da8e8fcb127",
+          "parentUid" : "cf1435cdfc01213e3d52e890dd3742a9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179377049,
+            "stop" : 1667179377255,
+            "duration" : 206
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cf1435cdfc01213e3d52e890dd3742a9"
+      } ],
+      "uid" : "14ce3b119f8ad38e73f02397a4c88f86"
+    }, {
+      "name" : "test_045_boss_ticket",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--生产数据--详情",
+          "uid" : "d09248c3f6e14336",
+          "parentUid" : "c83acebd0150751a84c9cb3b05ab2ac8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179377258,
+            "stop" : 1667179377463,
+            "duration" : 205
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c83acebd0150751a84c9cb3b05ab2ac8"
+      } ],
+      "uid" : "ef0c8ddd3e083c91d61106befc1f03b8"
+    }, {
+      "name" : "test_046_boss_car_inout_datas",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--销售数据核准--列表及搜索",
+          "uid" : "469b5eacb8f7eb40",
+          "parentUid" : "379985790e86fb7ef59585b27f34c0b1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179377466,
+            "stop" : 1667179377707,
+            "duration" : 241
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "379985790e86fb7ef59585b27f34c0b1"
+      } ],
+      "uid" : "41a86a4e0a3b6df21f317e0462bc862b"
+    }, {
+      "name" : "test_047_boss_car_inout_data",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--销售数据核准--详情",
+          "uid" : "93ecf362cd9c3e51",
+          "parentUid" : "269aef1a28b0b0465718dac3b4595462",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179377710,
+            "stop" : 1667179377904,
+            "duration" : 194
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "269aef1a28b0b0465718dac3b4595462"
+      } ],
+      "uid" : "c7f7b6347870e82e04557ae890b2e490"
+    }, {
+      "name" : "test_048_boss_goods_price_select",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--销售数据核准--详情--产品名称",
+          "uid" : "1fe90e49a054332d",
+          "parentUid" : "0c591d025b97cc55abcb20699b18bb4c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179377907,
+            "stop" : 1667179378092,
+            "duration" : 185
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0c591d025b97cc55abcb20699b18bb4c"
+      } ],
+      "uid" : "dede8a2a3da7d7cb4915faba817b53a5"
+    }, {
+      "name" : "test_049_boss_companys",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "企业管理--矿企管理--默认列表",
+          "uid" : "9bae0bdaa8e45bd",
+          "parentUid" : "7f3cafeb5b04c0973e7fa927ff55ac56",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179378095,
+            "stop" : 1667179378291,
+            "duration" : 196
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "企业管理--矿企管理--关键字及区域搜索",
+          "uid" : "277b083502b36c2d",
+          "parentUid" : "7f3cafeb5b04c0973e7fa927ff55ac56",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179423528,
+            "stop" : 1667179423726,
+            "duration" : 198
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7f3cafeb5b04c0973e7fa927ff55ac56"
+      } ],
+      "uid" : "4294921132c54f16845a94d4ccea8161"
+    }, {
+      "name" : "test_050_boss_company",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "企业管理--矿企管理--企业详情",
+          "uid" : "f1a154c7ad4885d1",
+          "parentUid" : "bd1b4f965e6438519e7b87bafb9e63cd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179378294,
+            "stop" : 1667179378478,
+            "duration" : 184
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bd1b4f965e6438519e7b87bafb9e63cd"
+      } ],
+      "uid" : "9103241bab4800c9e007232aa6e74655"
+    }, {
+      "name" : "test_051_boss_company_select",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "企业管理--矿企管理--编辑时的关联企业选择",
+          "uid" : "c8d03f0cf7934af3",
+          "parentUid" : "201f26852af004f4f155ea02f7d98644",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179378480,
+            "stop" : 1667179378688,
+            "duration" : 208
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "201f26852af004f4f155ea02f7d98644"
+      } ],
+      "uid" : "07d7791dee64b505b5c5871390f77e5f"
+    }, {
+      "name" : "test_052_boss_goods_prices",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--非煤矿价格及税收管理--默认列表",
+          "uid" : "bbaa480605e5cfd2",
+          "parentUid" : "088c741d12c50b57997a6ee83dc19dcb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179378691,
+            "stop" : 1667179379519,
+            "duration" : 828
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "销售数据管理--非煤矿价格及税收管理--列表关键字、地区、矿区筛选",
+          "uid" : "204834a312612159",
+          "parentUid" : "088c741d12c50b57997a6ee83dc19dcb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179423728,
+            "stop" : 1667179423924,
+            "duration" : 196
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "088c741d12c50b57997a6ee83dc19dcb"
+      } ],
+      "uid" : "60cfa5174fc8e3e1c3584948f04ba160"
+    }, {
+      "name" : "test_053_boss_goods_price",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--非煤矿价格及税收管理--修改详情",
+          "uid" : "29c85fac37c361c2",
+          "parentUid" : "eabd4d8b121c3197ed7e8486c19516d4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179379521,
+            "stop" : 1667179379723,
+            "duration" : 202
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eabd4d8b121c3197ed7e8486c19516d4"
+      } ],
+      "uid" : "d7bc22234d96d494720b24de82a600fa"
+    }, {
+      "name" : "test_054_boss_weight_data_point_tree",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--联单审核树",
+          "uid" : "e314237bd46e0c14",
+          "parentUid" : "22c88f03675f259e16368db38dc177b4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179379725,
+            "stop" : 1667179380960,
+            "duration" : 1235
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "22c88f03675f259e16368db38dc177b4"
+      } ],
+      "uid" : "270a7b5105a11e94c9b9c325c13d184a"
+    }, {
+      "name" : "test_055_boss_device_lanes",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--联单审核区县、矿区树",
+          "uid" : "e421e0b7159323aa",
+          "parentUid" : "f212de511f1d279a4cf53bfb64d7cbec",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179380962,
+            "stop" : 1667179381153,
+            "duration" : 191
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f212de511f1d279a4cf53bfb64d7cbec"
+      } ],
+      "uid" : "28dd245cf185c418fccc3a3e9d360d9e"
+    }, {
+      "name" : "test_056_boss_weight_data_timeline",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--某个实际的矿区审核数据",
+          "uid" : "7c7231fadc8ef0ac",
+          "parentUid" : "4f851e410605258cd239bf49b9233f28",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179381155,
+            "stop" : 1667179384518,
+            "duration" : 3363
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4f851e410605258cd239bf49b9233f28"
+      } ],
+      "uid" : "635b7aab8bb60e184f8ff46e055de658"
+    }, {
+      "name" : "test_057_boss_belt_data_belt_by_point",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--某个实际的矿区审核数据",
+          "uid" : "5188f2794412fa8f",
+          "parentUid" : "a78500c41ea47097c78c7fa352fb96ed",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179384525,
+            "stop" : 1667179384704,
+            "duration" : 179
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a78500c41ea47097c78c7fa352fb96ed"
+      } ],
+      "uid" : "973e46f8cd54de69bde976092d6415ae"
+    }, {
+      "name" : "test_058_bda_count_by_belt",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--加工量--所有分类",
+          "uid" : "752d5626bee78cc5",
+          "parentUid" : "1e5d397ff8044006a048bd694637b629",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179384706,
+            "stop" : 1667179384904,
+            "duration" : 198
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1e5d397ff8044006a048bd694637b629"
+      } ],
+      "uid" : "cb4a7db26fa5c8e38ddc89f55e57acdd"
+    }, {
+      "name" : "test_059_bda_list",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--审核的旗帜数据--审核的旗帜数据",
+          "uid" : "556f06182b7f4997",
+          "parentUid" : "db4f4f84a35e44df6b3ce29ceb54c92b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179384906,
+            "stop" : 1667179387196,
+            "duration" : 2290
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "销售数据管理--审核的旗帜数据--审核的旗帜数据",
+          "uid" : "2f5225f7dc72289f",
+          "parentUid" : "db4f4f84a35e44df6b3ce29ceb54c92b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179423926,
+            "stop" : 1667179424199,
+            "duration" : 273
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "db4f4f84a35e44df6b3ce29ceb54c92b"
+      } ],
+      "uid" : "68fb65036038a6dd0359b7329f160f13"
+    }, {
+      "name" : "test_060_boss_belt_data_trend",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--加工量--皮带秤流速和流量",
+          "uid" : "b3bab7aee4709e99",
+          "parentUid" : "fc980ac6cf9751b9a3bf0bbd37dcebb1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179387199,
+            "stop" : 1667179389268,
+            "duration" : 2069
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fc980ac6cf9751b9a3bf0bbd37dcebb1"
+      } ],
+      "uid" : "ebc88346444878cfe4a6612a4464d6fe"
+    }, {
+      "name" : "test_061_bda_detail",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "销售数据管理--加工量--点击审核旗帜",
+          "uid" : "cc777e324d357225",
+          "parentUid" : "71d9612a2a21fadbfadba2c7ba48280e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179389305,
+            "stop" : 1667179389585,
+            "duration" : 280
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "71d9612a2a21fadbfadba2c7ba48280e"
+      } ],
+      "uid" : "658b7146dd7be93f31f492fa0c7b94ad"
+    }, {
+      "name" : "test_062_beacon_alert_types",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "242e3139f4376ce4",
+          "parentUid" : "1154defa9a65a847422c2f91b5400afd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179389588,
+            "stop" : 1667179389785,
+            "duration" : 197
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1154defa9a65a847422c2f91b5400afd"
+      } ],
+      "uid" : "22d9c4843a93448c2219d4aa70690b07"
+    }, {
+      "name" : "test_063_earlywarning_list",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "76642dbf6ce8257a",
+          "parentUid" : "cf903900033711844126c2c128e57b42",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179389787,
+            "stop" : 1667179389965,
+            "duration" : 178
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cf903900033711844126c2c128e57b42"
+      } ],
+      "uid" : "da0b046a51451a648dffae8c185dab2a"
+    }, {
+      "name" : "test_064_earlywarning_details",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "50ab3eddddd80247",
+          "parentUid" : "9d6dff8fc396908b9020b5d94f0a4e8d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179389968,
+            "stop" : 1667179390161,
+            "duration" : 193
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9d6dff8fc396908b9020b5d94f0a4e8d"
+      } ],
+      "uid" : "1a83a32e6abcf9b49671504d1f20b7ca"
+    }, {
+      "name" : "test_065_beacon_event_list",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "6175f88b0a8c3519",
+          "parentUid" : "0c3c90795e8802b2fb440b7fb8282930",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179390164,
+            "stop" : 1667179391463,
+            "duration" : 1299
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0c3c90795e8802b2fb440b7fb8282930"
+      } ],
+      "uid" : "02b2f24503b6138739dfac3cf708f10f"
+    }, {
+      "name" : "test_066_beacon_event_detail",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "8909fff651757fa5",
+          "parentUid" : "1de8510f0f0426537c7bfa24bac5b84b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179391465,
+            "stop" : 1667179391661,
+            "duration" : 196
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1de8510f0f0426537c7bfa24bac5b84b"
+      } ],
+      "uid" : "d5e1751f28efe90292939b2346289fed"
+    }, {
+      "name" : "test_067_iot_zengshi_brake_page",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "dfcf5f182392b58b",
+          "parentUid" : "b22d8cad34eae999bf66f79d757c5585",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179391663,
+            "stop" : 1667179391885,
+            "duration" : 222
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "10e9004e3cac1606",
+          "parentUid" : "b22d8cad34eae999bf66f79d757c5585",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179424201,
+            "stop" : 1667179424410,
+            "duration" : 209
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b22d8cad34eae999bf66f79d757c5585"
+      } ],
+      "uid" : "73dc3a77be2e84ff95181c00eba5da26"
+    }, {
+      "name" : "test_068_emerg_date_data_list",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "89fea3420c8eabde",
+          "parentUid" : "4003c8dc373e8a956767fbfa2d38e8f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179391887,
+            "stop" : 1667179392091,
+            "duration" : 204
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4003c8dc373e8a956767fbfa2d38e8f0"
+      } ],
+      "uid" : "b06e87b234418fef07f6a8cc0bc85b4b"
+    }, {
+      "name" : "test_069_emerg_date_data",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "9e490c9c70375ff1",
+          "parentUid" : "b46361896f9daa2a2fe00a3946413be4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179392093,
+            "stop" : 1667179392279,
+            "duration" : 186
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b46361896f9daa2a2fe00a3946413be4"
+      } ],
+      "uid" : "bbdb16a2a00555ffbe42263f08ec262a"
+    }, {
+      "name" : "test_070_mib_face",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "b950d1a82b908d2a",
+          "parentUid" : "fc236f5a51d820fdff7172ce391c8a17",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179392281,
+            "stop" : 1667179392478,
+            "duration" : 197
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fc236f5a51d820fdff7172ce391c8a17"
+      } ],
+      "uid" : "91610e9fe563d6454ffd7e8c599e32a2"
+    }, {
+      "name" : "test_071_mib_face1",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "954e448833c49cfa",
+          "parentUid" : "2908f65302d40a516eab4e795ef9ee55",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179392481,
+            "stop" : 1667179392662,
+            "duration" : 181
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2908f65302d40a516eab4e795ef9ee55"
+      } ],
+      "uid" : "0674759712a2d22a02827e47598946f2"
+    }, {
+      "name" : "test_072_iot_belt_page",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "d4ef46d0f561b287",
+          "parentUid" : "f9093a560701969c700304ad74c81ace",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179392670,
+            "stop" : 1667179392879,
+            "duration" : 209
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "2d419cdd81773890",
+          "parentUid" : "f9093a560701969c700304ad74c81ace",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179424412,
+            "stop" : 1667179424613,
+            "duration" : 201
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f9093a560701969c700304ad74c81ace"
+      } ],
+      "uid" : "9209a6bd305c027f1f18fef91f8898d7"
+    }, {
+      "name" : "test_073_iot_alert_belt_page",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "f2df5c8a4f67f9ee",
+          "parentUid" : "8d6e4801560c2831077bd10feb2d775b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179392882,
+            "stop" : 1667179393077,
+            "duration" : 195
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "af366d8f1f2ad0f1",
+          "parentUid" : "8d6e4801560c2831077bd10feb2d775b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179424616,
+            "stop" : 1667179424833,
+            "duration" : 217
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8d6e4801560c2831077bd10feb2d775b"
+      } ],
+      "uid" : "e36069f0978042ca6fa2bd2b165f9c29"
+    }, {
+      "name" : "test_074_mib_central_control_page1",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "6158ce34fd41bc0f",
+          "parentUid" : "2d22212534371c4045ea283eae76d23a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179393080,
+            "stop" : 1667179393285,
+            "duration" : 205
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2d22212534371c4045ea283eae76d23a"
+      } ],
+      "uid" : "c64a86b1fa2f93178ff323bb719d4d03"
+    }, {
+      "name" : "test_075_mib_dev_stat",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "9f1d1f7dfbd8641a",
+          "parentUid" : "eb0e17e40eb195533e7d7cda1d318341",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179393287,
+            "stop" : 1667179393589,
+            "duration" : 302
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "e17027ee1a788251",
+          "parentUid" : "eb0e17e40eb195533e7d7cda1d318341",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179424835,
+            "stop" : 1667179425093,
+            "duration" : 258
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eb0e17e40eb195533e7d7cda1d318341"
+      } ],
+      "uid" : "389a6f84d299ad1df16cd39462768c54"
+    }, {
+      "name" : "test_076_gbserver_list",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "5dd5263b685c07a",
+          "parentUid" : "9b8ad8bcddb5f887ee3922e83b5c5e2f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179393591,
+            "stop" : 1667179394214,
+            "duration" : 623
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "800d0a3c42a513f9",
+          "parentUid" : "9b8ad8bcddb5f887ee3922e83b5c5e2f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179425095,
+            "stop" : 1667179425798,
+            "duration" : 703
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9b8ad8bcddb5f887ee3922e83b5c5e2f"
+      } ],
+      "uid" : "ab8ce93e68c96feedcfb965cc8c9f1ed"
+    }, {
+      "name" : "test_077_iot_ipc_page",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "226349b11bbcb335",
+          "parentUid" : "9b9b1b28fca31562b765357c5b03c086",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179394217,
+            "stop" : 1667179394461,
+            "duration" : 244
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "c3fe634f9aef2351",
+          "parentUid" : "9b9b1b28fca31562b765357c5b03c086",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179425801,
+            "stop" : 1667179426049,
+            "duration" : 248
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9b9b1b28fca31562b765357c5b03c086"
+      } ],
+      "uid" : "4e1a640de3ce190f22a9158a3749c022"
+    }, {
+      "name" : "test_078_iot_alert_ipc_page",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "965bb91527f56d0e",
+          "parentUid" : "03af7f8f938379302f596420583aab1d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179394463,
+            "stop" : 1667179394731,
+            "duration" : 268
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "告警中心--告警管理--告警类型",
+          "uid" : "dad1ccef35d4bb30",
+          "parentUid" : "03af7f8f938379302f596420583aab1d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179426051,
+            "stop" : 1667179426296,
+            "duration" : 245
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "03af7f8f938379302f596420583aab1d"
+      } ],
+      "uid" : "b8ae5953ca3072c2710d17fd649c767c"
+    }, {
+      "name" : "test_079_web_socket",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "昭通web_socket心跳测试",
+          "uid" : "6eae1bc80b1efb05",
+          "parentUid" : "7a84c7db2b446af0cce61d6f170b6ae7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179394734,
+            "stop" : 1667179397815,
+            "duration" : 3081
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7a84c7db2b446af0cce61d6f170b6ae7"
+      } ],
+      "uid" : "22f41ed677417c24ed316b8fddded72c"
+    }, {
+      "name" : "test_080_boss_belt_data_belt_summary_data",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--加工销售数据统计列表",
+          "uid" : "491b6bfe11229dc",
+          "parentUid" : "6c5edc54697c1c4dceaf03a6decb2357",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179397817,
+            "stop" : 1667179398062,
+            "duration" : 245
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "矿山数据统计--加工销售数据统计列表筛选",
+          "uid" : "9f9b7ca38f81f40d",
+          "parentUid" : "6c5edc54697c1c4dceaf03a6decb2357",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179426298,
+            "stop" : 1667179426514,
+            "duration" : 216
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6c5edc54697c1c4dceaf03a6decb2357"
+      } ],
+      "uid" : "bf2a22f1d8aa6f122b74b364c386c04d"
+    }, {
+      "name" : "test_081_boss_belt_data_belt_summary_data_export",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--加工销售数据--加工量导出",
+          "uid" : "b60d6232329ffb9a",
+          "parentUid" : "e3d52125448cfe376d3e04c79a815da8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179398064,
+            "stop" : 1667179398647,
+            "duration" : 583
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "矿山数据统计--加工销售数据统计列表筛选--加工量导出",
+          "uid" : "7e1b43a8a57349fd",
+          "parentUid" : "e3d52125448cfe376d3e04c79a815da8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179426516,
+            "stop" : 1667179426755,
+            "duration" : 239
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e3d52125448cfe376d3e04c79a815da8"
+      } ],
+      "uid" : "8c745c85f4752f4c371ac73394cfd816"
+    }, {
+      "name" : "test_082_boss_car_inout_data_weight_summary_data",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--加工销售数据--销售量列表",
+          "uid" : "b4a6345e736ac84b",
+          "parentUid" : "1cf0f69a5dbd36134471d42e8e61e911",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179398649,
+            "stop" : 1667179398951,
+            "duration" : 302
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "矿山数据统计--加工销售数据统计列表筛选--销售量",
+          "uid" : "982bd5e012a72343",
+          "parentUid" : "1cf0f69a5dbd36134471d42e8e61e911",
+          "status" : "passed",
+          "time" : {
+            "start" : 1667179426757,
+            "stop" : 1667179426967,
+            "duration" : 210
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1cf0f69a5dbd36134471d42e8e61e911"
+      } ],
+      "uid" : "525a81833b8dcb93c2d8d531c1d60e69"
+    }, {
+      "name" : "test_083_boss_car_inout_data_weight_summary_data_export",
+      "children" : [ {
+        "name" : "TestMoatOrgFullTree",
+        "children" : [ {
+          "name" : "矿山数据统计--加工销售数据--销售量导出",
+          "uid" : "7a3a684932efff65",
+          "parentUid" : "1aaab2b88534398ca451ce399f0ed1e7",
+          "status" : "failed",
+          "time" : {
+            "start" : 1667179398954,
+            "stop" : 1667179399239,
+            "duration" : 285
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "矿山数据统计--加工销售数据统计列表筛选--销售量导出",
+          "uid" : "5c333baafff1e86a",
+          "parentUid" : "1aaab2b88534398ca451ce399f0ed1e7",
+          "status" : "failed",
+          "time" : {
+            "start" : 1667179426969,
+            "stop" : 1667179427189,
+            "duration" : 220
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1aaab2b88534398ca451ce399f0ed1e7"
+      } ],
+      "uid" : "3e496c0eaa947ad301e34fe06efe1bd0"
+    } ],
+    "uid" : "d17889fac3550ef29ae79719e52fa691"
+  } ]
+}

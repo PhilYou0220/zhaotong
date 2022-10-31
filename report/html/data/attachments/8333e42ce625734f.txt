@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/moat/area/tree
+ 请求参数: level=4&code=530622100
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'code': '530622100', 'parent_code': '530622', 'level': 4, 'name': '白鹤滩', 'pinyin_prefix': 'b', 'pinyin': 'bai he tan', 'fullcode': '530622100000', 'fullname': '白鹤滩镇', 'children': None}], 'status': '', 'details': None, 'request_id': ''}

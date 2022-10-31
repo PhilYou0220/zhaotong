@@ -1,0 +1,10 @@
+mib_central_control_page1:
+  - title: "设备管理--车辆抓拍数据列表"
+    url: /api/mib/central_control/page1
+    data: ""
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+

@@ -1,0 +1,100 @@
+{
+  "uid" : "fef8b4358b7b0401",
+  "name" : "指挥中心顶部看板镇街",
+  "fullName" : "testcase_api.test_001_boss_ticket_top_count2.TestTopCount2#test_top_count2_2",
+  "historyId" : "d161a6fb6a2c2a74b6af1c53d4e9f211",
+  "time" : {
+    "start" : 1667179427191,
+    "stop" : 1667179428031,
+    "duration" : 840
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心顶部数据--镇街(白鹤滩)",
+      "time" : {
+        "start" : 1667179427196,
+        "stop" : 1667179428031,
+        "duration" : 835
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "19f83866085e10c3",
+      "name" : "log",
+      "source" : "19f83866085e10c3.txt",
+      "type" : "text/plain",
+      "size" : 1224
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心顶部看板"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_001_boss_ticket_top_count2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTopCount2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_001_boss_ticket_top_count2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)", "api" ]
+  },
+  "source" : "fef8b4358b7b0401.json",
+  "parameterValues" : [ ]
+}

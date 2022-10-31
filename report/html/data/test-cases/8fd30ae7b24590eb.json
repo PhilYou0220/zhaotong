@@ -1,0 +1,100 @@
+{
+  "uid" : "8fd30ae7b24590eb",
+  "name" : "驾驶舱矿区实景--加工区监控(马真良为例)",
+  "fullName" : "testcase_api.test_012_gbserver_device.TestGbserverDevice#test_gbserver_device_3",
+  "historyId" : "6fa467e0438622bbf4b24904ccaf868c",
+  "time" : {
+    "start" : 1667179501366,
+    "stop" : 1667179501802,
+    "duration" : 436
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "驾驶舱矿区实景--加工区监控(马真良为例)",
+      "time" : {
+        "start" : 1667179501372,
+        "stop" : 1667179501801,
+        "duration" : 429
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "49b0e0c7ee0bde18",
+      "name" : "log",
+      "source" : "49b0e0c7ee0bde18.txt",
+      "type" : "text/plain",
+      "size" : 799
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱矿区实景--监控"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=4)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_012_gbserver_device"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGbserverDevice"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_012_gbserver_device"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=4)", "api" ]
+  },
+  "source" : "8fd30ae7b24590eb.json",
+  "parameterValues" : [ ]
+}

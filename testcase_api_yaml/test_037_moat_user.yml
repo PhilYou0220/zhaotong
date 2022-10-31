@@ -1,0 +1,9 @@
+moat_user:
+  - title: "组织管理--部门与成员--编辑成员--该成员信息"
+    url: /api/moat/user
+    data: id=12
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

@@ -1,0 +1,55 @@
+boss_ticket_count_by_point:
+  - title: "指挥中心顶部数据销售量详情--市级"
+    url: /api/boss/ticket/count_by_point
+    # 重点参数area_code
+    data: upload_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z&area_code=5306
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "指挥中心顶部数据销售量详情-区县(巧家)"
+    url: /api/boss/ticket/count_by_point
+    # 重点参数area_code
+    data: upload_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z&area_code=530622
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "指挥中心顶部数据销售量详情--镇街(白鹤滩)"
+    url: /api/boss/ticket/count_by_point
+    # 重点参数area_code
+    data: upload_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z&area_code=530622100
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管今年累计销售量列表--市级"
+    url: /api/boss/ticket/count_by_point
+    # 重点参数area_code
+    data: area_code=5306
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管今年累计销售量列表--区县"
+    url: /api/boss/ticket/count_by_point
+    # 重点参数area_code
+    data: area_code=530622
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "税收监管今年累计销售量列表--镇街"
+    url: /api/boss/ticket/count_by_point
+    # 重点参数area_code
+    data: area_code=530622100
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

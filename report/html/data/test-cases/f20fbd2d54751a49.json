@@ -1,0 +1,100 @@
+{
+  "uid" : "f20fbd2d54751a49",
+  "name" : "税收监管--顶部看板--镇街",
+  "fullName" : "testcase_api.test_022_boss_ticket_tax_by_time.TestBossTicketTaxByTime#test_boss_ticket_tax_by_time_2",
+  "historyId" : "f62a28d1ba92c2aeb72dec830a1c431d",
+  "time" : {
+    "start" : 1667179445968,
+    "stop" : 1667179450044,
+    "duration" : 4076
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--近7日加工量和销售量--镇街",
+      "time" : {
+        "start" : 1667179445973,
+        "stop" : 1667179450043,
+        "duration" : 4070
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "14191fbcdbece3b",
+      "name" : "log",
+      "source" : "14191fbcdbece3b.txt",
+      "type" : "text/plain",
+      "size" : 1438
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--顶部看板"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_022_boss_ticket_tax_by_time"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossTicketTaxByTime"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "48184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_022_boss_ticket_tax_by_time"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)", "api" ]
+  },
+  "source" : "f20fbd2d54751a49.json",
+  "parameterValues" : [ ]
+}

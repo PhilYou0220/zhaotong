@@ -1,0 +1,9 @@
+boss_belt_data_trend:
+  - title: "销售数据管理--联单审核--加工量--皮带秤流速和流量"
+    url: /api/boss/belt_data/trend
+    data: created_ats%5B%5D=2022-10-16T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-17T15%3A59%3A59.999Z&point_id=158&device_code=005400315646501420373732
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

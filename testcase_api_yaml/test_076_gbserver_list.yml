@@ -1,0 +1,17 @@
+gbserver_list:
+  - title: "设备管理--摄像头管理列表"
+    url: /api/gbserver/list
+    data: page=1&limit=10&keyword=&search_key=&area_code=&instance_id=&cam_type=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "设备管理--摄像头管理列表筛选"
+    url: /api/gbserver/list
+    data: page=1&limit=10&keyword=%E4%BA%8C%E5%88%86%E5%8E%82&search_key=&area_code=&instance_id=&cam_type=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/tickets
+ 请求参数: page=1&limit=1&goods_type=0&goods_id=0&keyword=&area_code=5306&out_ats%5B%5D=2022-10-13T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+ 账号：123
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 41222, 'number': '2022101401170078', 'car_num': '2022101401170078', 'company_name': '昭通市林予商贸有限责任公司', 'area_name': '布嘎回族乡', 'goods_type': 1, 'goods_type_text': '建筑石料用灰岩', 'goods_id': 8, 'goods_name': '无法核实', 'in_at': '2022-10-13T16:00:00Z', 'out_at': '2022-10-14T13:00:04Z', 'in_weight': 0, 'in_car_weight': 0, 'out_weight': 93.24, 'out_car_weight': 0, 'mine_name': '昭通市林予商贸有限责任公司新街石灰岩', 'in_photo': '', 'in_goods_photo': '', 'out_photo': 'file/0/2022/1014/1a3f38e1-0b5b-4886-a001-61c144d1c480.jpg', 'out_goods_photo': 'file/0/2022/1014/f6a07936-2fae-4eef-8bb0-a2974c48f692.jpg', 'price': 100, 'add_tax': 0.13, 'add_tax_price': 1212.1200000000001, 'tax_type': 1, 'tax_rate': 0.06, 'tax_price': 559.4399999999999, 'address': '', 'ticket_type': 1, 'user_price': 0, 'enabled_fee': 1, 'type': 1}], 'page': {'page': 1, 'limit': 1, 'total': 288}, 'status': '', 'details': None, 'request_id': ''}

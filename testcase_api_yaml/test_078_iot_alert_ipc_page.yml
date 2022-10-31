@@ -1,0 +1,17 @@
+iot_alert_ipc_page:
+  - title: "设备管理--工控机数据列表"
+    url: /api/iot/alert/ipc/page
+    data: alert_date%5B%5D=2022-10-20T16%3A00%3A00.000Z&alert_date%5B%5D=2022-10-21T15%3A59%3A59.999Z&page=1&limit=10&area_code=5306&instance_name=
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200
+  - title: "设备管理--工控机数据列表筛选"
+    url: /api/iot/alert/ipc/page
+    data: alert_date%5B%5D=2022-10-20T16%3A00%3A00.000Z&alert_date%5B%5D=2022-10-21T15%3A59%3A59.999Z&page=1&limit=10&area_code=5306&instance_name=%E9%95%87%E9%9B%84%E5%8E%BF%E7%89%9B%E5%9C%BA%E6%B2%99%E5%9D%9D2%E5%8F%B7%E9%87%87%E7%9F%B3%E5%9C%BA
+    username: "123"
+    password: "123456"
+    method: GET
+    type: 1
+    status_code: 200

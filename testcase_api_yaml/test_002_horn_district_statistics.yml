@@ -3,7 +3,7 @@ horn_district_statistics:
     url: /api/horn/district/statistics
     # 重点参数area_code
     data: areaCode=5306&out_ats%5B%5D=2022-10-10T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-11T15%3A59%3A59.999Z
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -12,7 +12,7 @@ horn_district_statistics:
     url: /api/horn/county/statistics
     # 重点参数area_code
     data: areaCode=530622&out_ats%5B%5D=2022-10-10T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-11T15%3A59%3A59.999Z
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -21,7 +21,7 @@ horn_district_statistics:
     url: /api/horn/street/statistics
     # 重点参数area_code
     data: areaCode=530622100&out_ats%5B%5D=2022-10-10T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-11T15%3A59%3A59.999Z
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -15,12 +15,12 @@ filename = os.path.join(CASEYAML, "test_057_boss_belt_data_belt_by_point.yml")
 api_name = "boss_belt_data_belt_by_point"
 
 
-@allure.epic("销售数据管理--某个实际的矿区审核数据")
+@allure.epic("销售数据管理--联单审核--加工量--某个实际的矿区的皮带设备")
 class TestMoatOrgFullTree:
 
-    @allure.title("销售数据管理--某个实际的矿区审核数据")
+    @allure.title("销售数据管理--联单审核--加工量--某个实际的矿区的皮带设备")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_moat_org_full_tree_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

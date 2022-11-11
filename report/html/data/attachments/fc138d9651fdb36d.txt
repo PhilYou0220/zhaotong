@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/bda/detail
+ 请求参数: id=4
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': {'id': 4, 'type': 3, 'instance_name': '昭通市昭阳区宏伟砂石料开发有限公司石灰岩矿', 'type_text': '作业无数据', 'status': 1, 'status_text': '未审核', 'video_url': 'http://183.224.113.211:20003/rtp/53060000411320004108_tBZzcjVwbM.live.flv', 'base_rate': 0, 'base_speed': 0, 'belt_data': [{'type': '皮带秤数据流量', 'name': '23:59:40', 'value': 0}, {'type': '皮带秤数据流速', 'name': '23:59:40', 'value': 0}, {'type': '皮带秤数据流量', 'name': '23:59:50', 'value': 0}, {'type': '皮带秤数据流速', 'name': '23:59:50', 'value': 0}, {'type': '皮带秤数据流量', 'name': '00:00:00', 'value': 0}, {'type': '皮带秤数据流速', 'name': '00:00:00', 'value': 0}, {'type': '皮带秤数据流量', 'name': '00:00:10', 'value': 0}, {'type': '皮带秤数据流速', 'name': '00:00:10', 'value': 0}, {'type': '皮带秤数据流量', 'name': '00:00:20', 'value': 0}, {'type': '皮带秤数据流速', 'name': '00:00:20', 'value': 0}, {'type': '皮带秤数据流量', 'name': '00:00:30', 'value': 0}, {'type': '皮带秤数据流速', 'name': '00:00:30', 'value': 0}, {'type': '皮带秤数据流量', 'name': '00:00:40', 'value': 0}, {'type': '皮带秤数据流速', 'name': '00:00:40', 'value': 0}, {'type': '皮带秤数据流量', 'name': '00:00:50', 'value': 0}, {'type': '皮带秤数据流速', 'name': '00:00:50', 'value': 0}, {'type': '皮带秤数据流量', 'name': '00:01:00', 'value': 0}, {'type': '皮带秤数据流速', 'name': '00:01:00', 'value': 0}, {'type': '皮带秤数据流量', 'name': '00:01:10', 'value': 0}, {'type': '皮带秤数据流速', 'name': '00:01:10', 'value': 0}, {'type': '皮带秤数据流量', 'name': '00:01:20', 'value': 0}, {'type': '皮带秤数据流速', 'name': '00:01:20', 'value': 0}]}, 'status': '', 'details': None, 'request_id': ''}

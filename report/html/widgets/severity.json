@@ -1,1590 +1,1590 @@
 [ {
-  "uid" : "4e5c5362ba7a5a5c",
-  "name" : "组织管理--角色管理--具体角色权限树",
-  "time" : {
-    "start" : 1667179373505,
-    "stop" : 1667179373699,
-    "duration" : 194
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5cac1e65b0a6bac1",
-  "name" : "指挥中心--告警分类--镇街",
-  "time" : {
-    "start" : 1667179433856,
-    "stop" : 1667179434168,
-    "duration" : 312
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4bdc471d3d946666",
-  "name" : "税收监管--各矿区设备在离线情况--镇街",
-  "time" : {
-    "start" : 1667179434985,
-    "stop" : 1667179435187,
-    "duration" : 202
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "96d8d5d29da8f887",
-  "name" : "组织管理--部门与成员--组织--详情",
-  "time" : {
-    "start" : 1667179371056,
-    "stop" : 1667179371436,
-    "duration" : 380
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bbddf859355dc40e",
-  "name" : "企业管理--矿区管理--矿区列表",
-  "time" : {
-    "start" : 1667179402846,
-    "stop" : 1667179403106,
-    "duration" : 260
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a573df63ca7e769d",
-  "name" : "税收监管--识别能力",
-  "time" : {
-    "start" : 1667179368777,
-    "stop" : 1667179368966,
-    "duration" : 189
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "89fea3420c8eabde",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179391887,
-    "stop" : 1667179392091,
-    "duration" : 204
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b628560da0bb20ee",
-  "name" : "税收监管--顶部看板--市级",
-  "time" : {
-    "start" : 1667179362864,
-    "stop" : 1667179367269,
-    "duration" : 4405
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5c333baafff1e86a",
-  "name" : "矿山数据统计--加工销售数据统计列表筛选--销售量导出",
-  "time" : {
-    "start" : 1667179426969,
-    "stop" : 1667179427189,
-    "duration" : 220
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "6c0da51393766fa9",
-  "name" : "税收监管--矿区选择--镇街",
-  "time" : {
-    "start" : 1667179435422,
-    "stop" : 1667179435611,
-    "duration" : 189
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "93ecf362cd9c3e51",
-  "name" : "矿山数据统计--销售数据核准--详情",
-  "time" : {
-    "start" : 1667179377710,
-    "stop" : 1667179377904,
-    "duration" : 194
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e421e0b7159323aa",
-  "name" : "销售数据管理--联单审核区县、矿区树",
-  "time" : {
-    "start" : 1667179380962,
-    "stop" : 1667179381153,
-    "duration" : 191
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1fe90e49a054332d",
-  "name" : "矿山数据统计--销售数据核准--详情--产品名称",
-  "time" : {
-    "start" : 1667179377907,
-    "stop" : 1667179378092,
-    "duration" : 185
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c8d03f0cf7934af3",
-  "name" : "企业管理--矿企管理--编辑时的关联企业选择",
-  "time" : {
-    "start" : 1667179378480,
-    "stop" : 1667179378688,
-    "duration" : 208
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2f82642b793ed6d6",
-  "name" : "税收监管今年累计加工量--市级",
-  "time" : {
-    "start" : 1667179453409,
-    "stop" : 1667179500263,
-    "duration" : 46854
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "752d5626bee78cc5",
-  "name" : "销售数据管理--加工量--所有分类",
-  "time" : {
-    "start" : 1667179384706,
-    "stop" : 1667179384904,
-    "duration" : 198
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "556f06182b7f4997",
-  "name" : "销售数据管理--审核的旗帜数据--审核的旗帜数据",
-  "time" : {
-    "start" : 1667179384906,
-    "stop" : 1667179387196,
-    "duration" : 2290
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f243969993cabb1a",
-  "name" : "税收监管--矿区选择--市级",
-  "time" : {
-    "start" : 1667179351557,
-    "stop" : 1667179351762,
-    "duration" : 205
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "68d0ed21fa15e3f5",
-  "name" : "视频监控--视频监控树--模糊搜索",
-  "time" : {
-    "start" : 1667179450786,
-    "stop" : 1667179451827,
-    "duration" : 1041
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "aa8cfd097df5478c",
-  "name" : "指挥中心应急事件上报--区县",
-  "time" : {
-    "start" : 1667179404132,
-    "stop" : 1667179404338,
-    "duration" : 206
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e4cc33552bf56ee7",
-  "name" : "税收监管--矿产加工销售占比--镇街",
-  "time" : {
-    "start" : 1667179450046,
-    "stop" : 1667179450484,
-    "duration" : 438
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9bae0bdaa8e45bd",
-  "name" : "企业管理--矿企管理--默认列表",
-  "time" : {
-    "start" : 1667179378095,
-    "stop" : 1667179378291,
-    "duration" : 196
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7c7bb92ca8a6ec51",
-  "name" : "组织管理--部门与成员--职位详情",
-  "time" : {
-    "start" : 1667179372165,
-    "stop" : 1667179372366,
-    "duration" : 201
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6eae1bc80b1efb05",
-  "name" : "昭通web_socket心跳测试",
-  "time" : {
-    "start" : 1667179394734,
-    "stop" : 1667179397815,
-    "duration" : 3081
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3b3efcbc377f577",
-  "name" : "税收监管--识别能力",
-  "time" : {
-    "start" : 1667179368092,
-    "stop" : 1667179368774,
-    "duration" : 682
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b4a6345e736ac84b",
-  "name" : "矿山数据统计--加工销售数据--销售量列表",
-  "time" : {
-    "start" : 1667179398649,
-    "stop" : 1667179398951,
-    "duration" : 302
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f20fbd2d54751a49",
-  "name" : "税收监管--顶部看板--镇街",
-  "time" : {
-    "start" : 1667179445968,
-    "stop" : 1667179450044,
-    "duration" : 4076
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6b0781745e8d637b",
-  "name" : "驾驶舱矿区实景--加工量",
-  "time" : {
-    "start" : 1667179348799,
-    "stop" : 1667179349178,
-    "duration" : 379
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f8685dc02c1bde60",
-  "name" : "指挥中心左部日常巡检区县",
-  "time" : {
-    "start" : 1667179401190,
-    "stop" : 1667179401415,
-    "duration" : 225
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dbc826af38ea876b",
-  "name" : "大屏配置--web端",
-  "time" : {
-    "start" : 1667179370293,
-    "stop" : 1667179370858,
-    "duration" : 565
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "e314237bd46e0c14",
-  "name" : "销售数据管理--联单审核树",
-  "time" : {
-    "start" : 1667179379725,
-    "stop" : 1667179380960,
-    "duration" : 1235
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bbaa480605e5cfd2",
-  "name" : "销售数据管理--非煤矿价格及税收管理--默认列表",
-  "time" : {
-    "start" : 1667179378691,
-    "stop" : 1667179379519,
-    "duration" : 828
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cc777e324d357225",
-  "name" : "销售数据管理--加工量--点击审核旗帜",
-  "time" : {
-    "start" : 1667179389305,
-    "stop" : 1667179389585,
-    "duration" : 280
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b60d6232329ffb9a",
-  "name" : "矿山数据统计--加工销售数据--加工量导出",
-  "time" : {
-    "start" : 1667179398064,
-    "stop" : 1667179398647,
-    "duration" : 583
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6fc7294ae5b4d27c",
-  "name" : "税收监管--顶部看板--区县",
-  "time" : {
-    "start" : 1667179417326,
-    "stop" : 1667179421508,
-    "duration" : 4182
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "50ab3eddddd80247",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179389968,
-    "stop" : 1667179390161,
-    "duration" : 193
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5f751b339611147a",
-  "name" : "税收监管--顶部看板--区县",
-  "time" : {
-    "start" : 1667179406741,
-    "stop" : 1667179417323,
-    "duration" : 10582
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "57e969da03937eb8",
-  "name" : "视频监控--视频监控树--模糊搜索",
-  "time" : {
-    "start" : 1667179422162,
-    "stop" : 1667179422856,
-    "duration" : 694
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7e6c5da8e8fcb127",
-  "name" : "矿山数据统计--生产数据--详情",
-  "time" : {
-    "start" : 1667179377049,
-    "stop" : 1667179377255,
-    "duration" : 206
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "10e9004e3cac1606",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179424201,
-    "stop" : 1667179424410,
-    "duration" : 209
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a475241f1e80c09c",
-  "name" : "组织管理--部门与成员--编辑成员--该成员信息",
-  "time" : {
-    "start" : 1667179372831,
-    "stop" : 1667179373024,
-    "duration" : 193
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a3dd191860be2fd9",
-  "name" : "税收监管--右侧电子联单",
-  "time" : {
-    "start" : 1667179349527,
-    "stop" : 1667179350272,
-    "duration" : 745
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bb318ac11539d88f",
-  "name" : "驾驶舱矿区实景--播放视频",
-  "time" : {
-    "start" : 1667179348520,
-    "stop" : 1667179348797,
-    "duration" : 277
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a6364f97521fa833",
-  "name" : "税收监管--某个具体的矿区告警分类",
-  "time" : {
-    "start" : 1667179545453,
-    "stop" : 1667179545759,
-    "duration" : 306
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dab344f23a875b0d",
-  "name" : "组织管理--部门与成员--所有角色",
-  "time" : {
-    "start" : 1667179371983,
-    "stop" : 1667179372163,
-    "duration" : 180
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "49d541ab03ccc032",
-  "name" : "指挥中心顶部数据加工量详情--镇街",
-  "time" : {
-    "start" : 1667179430344,
-    "stop" : 1667179430871,
-    "duration" : 527
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b93ae9c7f4ee97",
-  "name" : "税收监管--告警分类--区县",
-  "time" : {
-    "start" : 1667179523822,
-    "stop" : 1667179524139,
-    "duration" : 317
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e545a5fb38c3d8fe",
-  "name" : "税收监管--各矿区设备在离线情况--市级",
-  "time" : {
-    "start" : 1667179351054,
-    "stop" : 1667179351302,
-    "duration" : 248
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c4fb0f662d0fc808",
-  "name" : "税收监管--近7日告警提醒--镇街",
-  "time" : {
-    "start" : 1667179435190,
-    "stop" : 1667179435419,
-    "duration" : 229
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "277b083502b36c2d",
-  "name" : "企业管理--矿企管理--关键字及区域搜索",
-  "time" : {
-    "start" : 1667179423528,
-    "stop" : 1667179423726,
-    "duration" : 198
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8fd30ae7b24590eb",
-  "name" : "驾驶舱矿区实景--加工区监控(马真良为例)",
-  "time" : {
-    "start" : 1667179501366,
-    "stop" : 1667179501802,
-    "duration" : 436
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6f5994852f605e4",
-  "name" : "税收监管--产矿销售种类占比--区县",
-  "time" : {
-    "start" : 1667179421846,
-    "stop" : 1667179422160,
-    "duration" : 314
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dfc3caa8bdb2a396",
-  "name" : "税收监管--行政单位树--市级",
-  "time" : {
-    "start" : 1667179350276,
-    "stop" : 1667179351051,
-    "duration" : 775
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "26a62cff63f57e2f",
-  "name" : "指挥中心左部日常巡检镇街",
-  "time" : {
-    "start" : 1667179428740,
-    "stop" : 1667179428931,
-    "duration" : 191
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "999880adc8bb5436",
-  "name" : "指挥中心应急事件上报--镇街",
-  "time" : {
-    "start" : 1667179432426,
-    "stop" : 1667179433649,
-    "duration" : 1223
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f9fdf496245f1501",
-  "name" : "指挥中心应急事件上报-市级",
-  "time" : {
-    "start" : 1667179345136,
-    "stop" : 1667179345342,
-    "duration" : 206
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2f5225f7dc72289f",
-  "name" : "销售数据管理--审核的旗帜数据--审核的旗帜数据",
-  "time" : {
-    "start" : 1667179423926,
-    "stop" : 1667179424199,
-    "duration" : 273
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c5e71100ff4a2a9c",
-  "name" : "指挥中心顶部数据销售量详情--镇街",
-  "time" : {
-    "start" : 1667179430874,
-    "stop" : 1667179431192,
-    "duration" : 318
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5188f2794412fa8f",
-  "name" : "销售数据管理--某个实际的矿区审核数据",
-  "time" : {
-    "start" : 1667179384525,
-    "stop" : 1667179384704,
-    "duration" : 179
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "800d0a3c42a513f9",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179425095,
-    "stop" : 1667179425798,
-    "duration" : 703
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6158ce34fd41bc0f",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179393080,
-    "stop" : 1667179393285,
-    "duration" : 205
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fbdfcab81b00cd0d",
-  "name" : "驾驶舱矿区实景--进出口监控(马真良为例)",
-  "time" : {
-    "start" : 1667179433651,
-    "stop" : 1667179433853,
-    "duration" : 202
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d4ef46d0f561b287",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179392670,
-    "stop" : 1667179392879,
-    "duration" : 209
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3729bec93e0e92b4",
-  "name" : "税收监管--行政单位树--区县",
-  "time" : {
-    "start" : 1667179405865,
-    "stop" : 1667179406111,
-    "duration" : 246
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9c018648d6434ed3",
-  "name" : "税收监管--近7日告警提醒--区县",
-  "time" : {
-    "start" : 1667179406308,
-    "stop" : 1667179406543,
-    "duration" : 235
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "abeb2e36d323cc38",
-  "name" : "指挥中心--告警分类--市级",
-  "time" : {
-    "start" : 1667179349182,
-    "stop" : 1667179349524,
-    "duration" : 342
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2d419cdd81773890",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179424412,
-    "stop" : 1667179424613,
-    "duration" : 201
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5107c3ce3d426ef9",
-  "name" : "指挥中心应急事件上报--镇街",
-  "time" : {
-    "start" : 1667179431194,
-    "stop" : 1667179432423,
-    "duration" : 1229
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b165dbda5896524a",
-  "name" : "指挥中心--某个具体的矿区告警分类",
-  "time" : {
-    "start" : 1667179545123,
-    "stop" : 1667179545447,
-    "duration" : 324
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e0ee8ab7151356c8",
-  "name" : "税收监管--矿产加工销售占比--市级",
-  "time" : {
-    "start" : 1667179367271,
-    "stop" : 1667179367630,
-    "duration" : 359
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7a3a684932efff65",
-  "name" : "矿山数据统计--加工销售数据--销售量导出",
-  "time" : {
-    "start" : 1667179398954,
-    "stop" : 1667179399239,
-    "duration" : 285
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "90bb21b8d26c5cfa",
-  "name" : "税收监管今年累计加工量--镇街",
-  "time" : {
-    "start" : 1667179525570,
-    "stop" : 1667179542765,
-    "duration" : 17195
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "226349b11bbcb335",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179394217,
-    "stop" : 1667179394461,
-    "duration" : 244
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ea9430e04b7a1023",
-  "name" : "税收监管--告警分类--镇街",
-  "time" : {
-    "start" : 1667179543414,
-    "stop" : 1667179543719,
-    "duration" : 305
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c7109ede4436d0e4",
-  "name" : "告警管理--告警中心--联合筛选",
-  "time" : {
-    "start" : 1667179543723,
-    "stop" : 1667179545121,
-    "duration" : 1398
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8909fff651757fa5",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179391465,
-    "stop" : 1667179391661,
-    "duration" : 196
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "491b6bfe11229dc",
-  "name" : "矿山数据统计--加工销售数据统计列表",
-  "time" : {
-    "start" : 1667179397817,
-    "stop" : 1667179398062,
-    "duration" : 245
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d1508a28f6221b3e",
-  "name" : "指挥中心顶部看板区县",
-  "time" : {
-    "start" : 1667179399243,
-    "stop" : 1667179400261,
-    "duration" : 1018
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e9171ad0aee8f772",
+  "uid" : "259507ba01ee9a36",
   "name" : "税收监管--矿产加工销售占比--区县",
   "time" : {
-    "start" : 1667179421510,
-    "stop" : 1667179421844,
-    "duration" : 334
+    "start" : 1668081404255,
+    "stop" : 1668081404659,
+    "duration" : 404
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e7c5e49018744bef",
-  "name" : "税收监管--顶部看板--市级",
+  "uid" : "ffa104503b4b3282",
+  "name" : "税收监管--近7日告警提醒--市级",
   "time" : {
-    "start" : 1667179351765,
-    "stop" : 1667179362862,
-    "duration" : 11097
+    "start" : 1668081388412,
+    "stop" : 1668081388723,
+    "duration" : 311
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "15644c291132b976",
-  "name" : "指挥中心左部日常巡检--市级",
+  "uid" : "6b0b210d7110dcbd",
+  "name" : "税收监管左部告警信息--市级",
   "time" : {
-    "start" : 1667179339012,
-    "stop" : 1667179339228,
-    "duration" : 216
+    "start" : 1668081232572,
+    "stop" : 1668081233653,
+    "duration" : 1081
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "982bd5e012a72343",
-  "name" : "矿山数据统计--加工销售数据统计列表筛选--销售量",
+  "uid" : "7e777f7316ebe1f6",
+  "name" : "企业管理--矿区管理--矿区列表",
   "time" : {
-    "start" : 1667179426757,
-    "stop" : 1667179426967,
+    "start" : 1668081239813,
+    "stop" : 1668081240023,
     "duration" : 210
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "800a11ca8a8d0942",
-  "name" : "指挥中心--告警分类--区县",
-  "time" : {
-    "start" : 1667179404922,
-    "stop" : 1667179405267,
-    "duration" : 345
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3fd9271c324dd750",
-  "name" : "税收监管今年累计销售量列表--市级",
-  "time" : {
-    "start" : 1667179500266,
-    "stop" : 1667179501364,
-    "duration" : 1098
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1ec9b8c3213a2bd6",
-  "name" : "矿山数据统计--生产数据--列表及关键字搜索",
-  "time" : {
-    "start" : 1667179423045,
-    "stop" : 1667179423526,
-    "duration" : 481
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "12dab5bcff4b2e83",
-  "name" : "税收监管--顶部看板--镇街",
-  "time" : {
-    "start" : 1667179435613,
-    "stop" : 1667179445965,
-    "duration" : 10352
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a830568fd4542154",
-  "name" : "组织管理--部门与成员--组织",
-  "time" : {
-    "start" : 1667179370860,
-    "stop" : 1667179371046,
-    "duration" : 186
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "694e266d260350e9",
-  "name" : "税收监管--行政单位树--镇街",
-  "time" : {
-    "start" : 1667179434791,
-    "stop" : 1667179434982,
-    "duration" : 191
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ee2ed160d9c2e3b4",
-  "name" : "指挥中心--预警提醒信息",
-  "time" : {
-    "start" : 1667179368968,
-    "stop" : 1667179369161,
-    "duration" : 193
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6442e1e3cb3a3f9d",
-  "name" : "指挥中心左部告警信息--区县",
-  "time" : {
-    "start" : 1667179401417,
-    "stop" : 1667179402843,
-    "duration" : 1426
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b31726e9d1657d7",
-  "name" : "税收监管左部告警信息--镇街",
-  "time" : {
-    "start" : 1667179524147,
-    "stop" : 1667179525568,
-    "duration" : 1421
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d3e6baeb1fdca43e",
-  "name" : "指挥中心左部告警信息--镇街",
-  "time" : {
-    "start" : 1667179428934,
-    "stop" : 1667179430342,
-    "duration" : 1408
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f2df5c8a4f67f9ee",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179392882,
-    "stop" : 1667179393077,
-    "duration" : 195
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "95a001123844e0de",
-  "name" : "矿山数据统计--销售数据--列表时间、关键字、区域、产品名称、产品类型综合搜索",
-  "time" : {
-    "start" : 1667179502126,
-    "stop" : 1667179502786,
-    "duration" : 660
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a25339185174e5c9",
-  "name" : "矿山数据统计--生产数据--详情",
-  "time" : {
-    "start" : 1667179374386,
-    "stop" : 1667179377042,
-    "duration" : 2656
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f1a154c7ad4885d1",
-  "name" : "企业管理--矿企管理--企业详情",
-  "time" : {
-    "start" : 1667179378294,
-    "stop" : 1667179378478,
-    "duration" : 184
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "76642dbf6ce8257a",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179389787,
-    "stop" : 1667179389965,
-    "duration" : 178
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7e1b43a8a57349fd",
-  "name" : "矿山数据统计--加工销售数据统计列表筛选--加工量导出",
-  "time" : {
-    "start" : 1667179426516,
-    "stop" : 1667179426755,
-    "duration" : 239
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dd9bef28795b2163",
-  "name" : "矿山数据统计--生产数据--列表及关键字搜索",
-  "time" : {
-    "start" : 1667179373896,
-    "stop" : 1667179374384,
-    "duration" : 488
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "469b5eacb8f7eb40",
-  "name" : "矿山数据统计--销售数据核准--列表及搜索",
-  "time" : {
-    "start" : 1667179377466,
-    "stop" : 1667179377707,
-    "duration" : 241
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "701d6da4f4b74b50",
-  "name" : "组织管理--角色管理--权限树",
-  "time" : {
-    "start" : 1667179373214,
-    "stop" : 1667179373494,
-    "duration" : 280
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5dd5263b685c07a",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179393591,
-    "stop" : 1667179394214,
-    "duration" : 623
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "531e6e3230d80019",
-  "name" : "组织管理--角色管理--角色名称详情",
-  "time" : {
-    "start" : 1667179373702,
-    "stop" : 1667179373893,
-    "duration" : 191
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5c30b4b40d6adc44",
-  "name" : "指挥中心左部告警信息--市级",
-  "time" : {
-    "start" : 1667179339230,
-    "stop" : 1667179340681,
-    "duration" : 1451
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "563c4caae1f10a5c",
-  "name" : "指挥中心顶部看板区县",
-  "time" : {
-    "start" : 1667179400264,
-    "stop" : 1667179401188,
-    "duration" : 924
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "895d131e1bd3ece6",
-  "name" : "税收监管今年累计加工量--区县",
-  "time" : {
-    "start" : 1667179504269,
-    "stop" : 1667179522875,
-    "duration" : 18606
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "24a497b7e9ac0e6b",
-  "name" : "驾驶舱矿区实景--全域监管监控(马真良为例)",
-  "time" : {
-    "start" : 1667179404340,
-    "stop" : 1667179404546,
-    "duration" : 206
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "965bb91527f56d0e",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179394463,
-    "stop" : 1667179394731,
-    "duration" : 268
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b950d1a82b908d2a",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179392281,
-    "stop" : 1667179392478,
-    "duration" : 197
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e20cf7aa3d3ea3cf",
+  "uid" : "eeb38f0df770b208",
   "name" : "税收监管左部告警信息--区县",
   "time" : {
-    "start" : 1667179502788,
-    "stop" : 1667179504267,
-    "duration" : 1479
+    "start" : 1668081233655,
+    "stop" : 1668081234397,
+    "duration" : 742
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "dfcf5f182392b58b",
-  "name" : "告警中心--告警管理--告警类型",
+  "uid" : "ea55eacaa1c1bc2b",
+  "name" : "税收监管--顶部看板--区县",
   "time" : {
-    "start" : 1667179391663,
-    "stop" : 1667179391885,
-    "duration" : 222
+    "start" : 1668081392747,
+    "stop" : 1668081394634,
+    "duration" : 1887
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "242e3139f4376ce4",
-  "name" : "告警中心--告警管理--告警类型",
+  "uid" : "aa6e969223a8f10a",
+  "name" : "销售数据管理--加工量--点击审核旗帜",
   "time" : {
-    "start" : 1667179389588,
-    "stop" : 1667179389785,
-    "duration" : 197
+    "start" : 1668081433238,
+    "stop" : 1668081433502,
+    "duration" : 264
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "954e448833c49cfa",
-  "name" : "告警中心--告警管理--告警类型",
+  "uid" : "a4267ed6d5bba348",
+  "name" : "组织管理--部门与成员--编辑成员--该成员信息",
   "time" : {
-    "start" : 1667179392481,
-    "stop" : 1667179392662,
-    "duration" : 181
+    "start" : 1668081413314,
+    "stop" : 1668081413510,
+    "duration" : 196
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9ea182eadd1c577b",
-  "name" : "驾驶舱矿区实景--全部监控(马真良为例)",
+  "uid" : "568fcc297ebd200f",
+  "name" : "指挥中心应急事件上报-市级",
   "time" : {
-    "start" : 1667179348268,
-    "stop" : 1667179348510,
-    "duration" : 242
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9458bcad49b96532",
-  "name" : "大屏配置--app端",
-  "time" : {
-    "start" : 1667179422859,
-    "stop" : 1667179423043,
-    "duration" : 184
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "e2284f8a4f1bf29b",
-  "name" : "指挥中心顶部看板市级",
-  "time" : {
-    "start" : 1667179336709,
-    "stop" : 1667179337724,
-    "duration" : 1015
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "104b11f8ba698ebf",
-  "name" : "指挥中心左部告警信息--详情",
-  "time" : {
-    "start" : 1667179340684,
-    "stop" : 1667179343520,
-    "duration" : 2836
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bcc95e0dc67e5937",
-  "name" : "组织管理--部门与成员--所有部门",
-  "time" : {
-    "start" : 1667179371439,
-    "stop" : 1667179371782,
-    "duration" : 343
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fef8b4358b7b0401",
-  "name" : "指挥中心顶部看板镇街",
-  "time" : {
-    "start" : 1667179427191,
-    "stop" : 1667179428031,
-    "duration" : 840
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "81f21ecb1d827528",
-  "name" : "指挥中心顶部数据销售量详情--市级",
-  "time" : {
-    "start" : 1667179344689,
-    "stop" : 1667179345133,
-    "duration" : 444
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7c7231fadc8ef0ac",
-  "name" : "销售数据管理--某个实际的矿区审核数据",
-  "time" : {
-    "start" : 1667179381155,
-    "stop" : 1667179384518,
-    "duration" : 3363
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9cc54e6188031f4a",
-  "name" : "税收监管今年累计销售量列表--区县",
-  "time" : {
-    "start" : 1667179522877,
-    "stop" : 1667179523595,
-    "duration" : 718
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "798e780f8ed4d693",
-  "name" : "税收监管--近7日告警提醒--市级",
-  "time" : {
-    "start" : 1667179351305,
-    "stop" : 1667179351555,
+    "start" : 1668081370682,
+    "stop" : 1668081370932,
     "duration" : 250
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "dad1ccef35d4bb30",
+  "uid" : "c35b30ccecd4cf47",
+  "name" : "税收监管左部告警信息--镇街",
+  "time" : {
+    "start" : 1668081234399,
+    "stop" : 1668081234809,
+    "duration" : 410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4096ea450f7c7833",
+  "name" : "驾驶舱矿区实景--全部监控(马真良为例)",
+  "time" : {
+    "start" : 1668081376354,
+    "stop" : 1668081376577,
+    "duration" : 223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "baaaf50881709156",
   "name" : "告警中心--告警管理--告警类型",
   "time" : {
-    "start" : 1667179426051,
-    "stop" : 1667179426296,
-    "duration" : 245
+    "start" : 1668081438403,
+    "stop" : 1668081438868,
+    "duration" : 465
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d09248c3f6e14336",
-  "name" : "矿山数据统计--生产数据--详情",
-  "time" : {
-    "start" : 1667179377258,
-    "stop" : 1667179377463,
-    "duration" : 205
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "204834a312612159",
-  "name" : "销售数据管理--非煤矿价格及税收管理--列表关键字、地区、矿区筛选",
-  "time" : {
-    "start" : 1667179423728,
-    "stop" : 1667179423924,
-    "duration" : 196
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "af366d8f1f2ad0f1",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179424616,
-    "stop" : 1667179424833,
-    "duration" : 217
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4abe2d6b1c7d041d",
-  "name" : "视频监控--视频监控树",
-  "time" : {
-    "start" : 1667179369164,
-    "stop" : 1667179370291,
-    "duration" : 1127
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c3fe634f9aef2351",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179425801,
-    "stop" : 1667179426049,
-    "duration" : 248
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ba677508f4c462a8",
-  "name" : "指挥中心应急事件上报--区县",
-  "time" : {
-    "start" : 1667179403928,
-    "stop" : 1667179404130,
-    "duration" : 202
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7e9c8e8889ba926f",
-  "name" : "指挥中心顶部数据销售量详情--区县",
-  "time" : {
-    "start" : 1667179403617,
-    "stop" : 1667179403926,
-    "duration" : 309
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7601acdb95b9312e",
-  "name" : "组织管理--部门与成员--具体职位下的所有用户",
-  "time" : {
-    "start" : 1667179371785,
-    "stop" : 1667179371981,
-    "duration" : 196
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9f1d1f7dfbd8641a",
-  "name" : "告警中心--告警管理--告警类型",
-  "time" : {
-    "start" : 1667179393287,
-    "stop" : 1667179393589,
-    "duration" : 302
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c8ab7fe57b72becb",
-  "name" : "驾驶舱矿区实景--破碎机(马真良为例)",
-  "time" : {
-    "start" : 1667179523598,
-    "stop" : 1667179523819,
-    "duration" : 221
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "29c85fac37c361c2",
-  "name" : "销售数据管理--非煤矿价格及税收管理--修改详情",
-  "time" : {
-    "start" : 1667179379521,
-    "stop" : 1667179379723,
-    "duration" : 202
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "be67ae730c224797",
-  "name" : "驾驶舱矿区实景--销售量",
-  "time" : {
-    "start" : 1667179404548,
-    "stop" : 1667179404920,
-    "duration" : 372
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "459ece4f551b0d3",
-  "name" : "指挥中心顶部数据加工量详情--区县",
-  "time" : {
-    "start" : 1667179403110,
-    "stop" : 1667179403614,
-    "duration" : 504
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7f0414e28057dbd",
+  "uid" : "e7496564dbbebf39",
   "name" : "驾驶舱矿区--基础信息(马真良)",
   "time" : {
-    "start" : 1667179345555,
-    "stop" : 1667179348265,
-    "duration" : 2710
+    "start" : 1668081372403,
+    "stop" : 1668081376351,
+    "duration" : 3948
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "edcf07b1657b3628",
-  "name" : "税收监管--产矿销售种类占比--镇街",
+  "uid" : "9c89bca114d3f18d",
+  "name" : "矿山数据统计--销售数据--列表",
   "time" : {
-    "start" : 1667179450494,
-    "stop" : 1667179450784,
-    "duration" : 290
+    "start" : 1668081384199,
+    "stop" : 1668081385358,
+    "duration" : 1159
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "36a20dff7de20568",
-  "name" : "组织管理--部门与成员--编辑成员--部门职位选项",
+  "uid" : "d1ed01821c4467f0",
+  "name" : "驾驶舱矿区实景--破碎机(马真良为例)",
   "time" : {
-    "start" : 1667179372369,
-    "stop" : 1667179372829,
+    "start" : 1668081377372,
+    "stop" : 1668081377582,
+    "duration" : 210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6303574a1230819d",
+  "name" : "组织管理--部门与成员--所有部门",
+  "time" : {
+    "start" : 1668081411753,
+    "stop" : 1668081412213,
     "duration" : 460
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9f9b7ca38f81f40d",
-  "name" : "矿山数据统计--加工销售数据统计列表筛选",
+  "uid" : "7e1779929dcabbd3",
+  "name" : "税收监管今年累计加工量--镇街",
   "time" : {
-    "start" : 1667179426298,
-    "stop" : 1667179426514,
-    "duration" : 216
+    "start" : 1668081338163,
+    "stop" : 1668081363030,
+    "duration" : 24867
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "40a55386c9ab8804",
-  "name" : "指挥中心顶部看板镇街",
+  "uid" : "a7a93c5eb0bb4bf3",
+  "name" : "税收监管--顶部看板--市级",
   "time" : {
-    "start" : 1667179428034,
-    "stop" : 1667179428738,
-    "duration" : 704
+    "start" : 1668081396769,
+    "stop" : 1668081399698,
+    "duration" : 2929
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "31e444a22b6ec39",
-  "name" : "指挥中心中部地图数据--市级",
+  "uid" : "90089a455d3e2a6e",
+  "name" : "指挥中心顶部数据加工量详情--区县",
   "time" : {
-    "start" : 1667179337726,
-    "stop" : 1667179339007,
-    "duration" : 1281
+    "start" : 1668081240594,
+    "stop" : 1668081241347,
+    "duration" : 753
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d73d27b72d358f19",
-  "name" : "指挥中心顶部视频/数据接入/今日作业--详情",
-  "time" : {
-    "start" : 1667179343523,
-    "stop" : 1667179344103,
-    "duration" : 580
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9e490c9c70375ff1",
+  "uid" : "16f53a652d5d9336",
   "name" : "告警中心--告警管理--告警类型",
   "time" : {
-    "start" : 1667179392093,
-    "stop" : 1667179392279,
-    "duration" : 186
+    "start" : 1668081433716,
+    "stop" : 1668081433921,
+    "duration" : 205
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a20918bb27ad5d24",
-  "name" : "矿山数据统计--销售数据--列表",
+  "uid" : "56be86571db67a7f",
+  "name" : "税收监管--矿区选择--市级",
   "time" : {
-    "start" : 1667179434171,
-    "stop" : 1667179434788,
-    "duration" : 617
+    "start" : 1668081389234,
+    "stop" : 1668081389478,
+    "duration" : 244
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "77caf1cca5877ba9",
+  "uid" : "fc7c3687a1788b70",
+  "name" : "驾驶舱矿区实景--加工区监控(马真良为例)",
+  "time" : {
+    "start" : 1668081377025,
+    "stop" : 1668081377370,
+    "duration" : 345
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "210d3ec892eaf172",
+  "name" : "税收监管--右侧电子联单",
+  "time" : {
+    "start" : 1668081381992,
+    "stop" : 1668081383144,
+    "duration" : 1152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "902d31d71ae5596d",
   "name" : "税收监管--告警分类--市级",
   "time" : {
-    "start" : 1667179501804,
-    "stop" : 1667179502123,
-    "duration" : 319
+    "start" : 1668081380261,
+    "stop" : 1668081380590,
+    "duration" : 329
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "71caa92aff8ca358",
-  "name" : "税收监管--产矿销售种类占比--市级",
+  "uid" : "53370abd2daf2e98",
+  "name" : "矿山数据统计--加工销售数据--销售量导出",
   "time" : {
-    "start" : 1667179367632,
-    "stop" : 1667179367950,
-    "duration" : 318
+    "start" : 1668081447484,
+    "stop" : 1668081447774,
+    "duration" : 290
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b3bab7aee4709e99",
-  "name" : "销售数据管理--加工量--皮带秤流速和流量",
+  "uid" : "adb2b8ee882c110e",
+  "name" : "矿山数据统计--生产数据--详情",
   "time" : {
-    "start" : 1667179387199,
-    "stop" : 1667179389268,
-    "duration" : 2069
+    "start" : 1668081415813,
+    "stop" : 1668081420136,
+    "duration" : 4323
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5e0d0d352fb14e13",
-  "name" : "指挥中心顶部数据加工量详情--市级",
+  "uid" : "a92da47af588f51c",
+  "name" : "税收监管--行政单位树--市级",
   "time" : {
-    "start" : 1667179344106,
-    "stop" : 1667179344686,
-    "duration" : 580
+    "start" : 1668081386660,
+    "stop" : 1668081387331,
+    "duration" : 671
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2cc249f8d1e29a2e",
-  "name" : "税收监管--矿产数据详情列表",
+  "uid" : "1b8a6df6d76ecb24",
+  "name" : "组织管理--角色管理--角色名称详情",
   "time" : {
-    "start" : 1667179405269,
-    "stop" : 1667179405863,
-    "duration" : 594
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5ccb42dfbc456b67",
-  "name" : "组织管理--角色管理--系统管理员",
-  "time" : {
-    "start" : 1667179373026,
-    "stop" : 1667179373211,
+    "start" : 1668081414232,
+    "stop" : 1668081414417,
     "duration" : 185
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c0ee13c859a8fd09",
-  "name" : "税收监管左部告警信息--市级",
-  "time" : {
-    "start" : 1667179451830,
-    "stop" : 1667179453407,
-    "duration" : 1577
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3d716d23aeac755",
-  "name" : "税收监管--矿区选择--区县",
-  "time" : {
-    "start" : 1667179406545,
-    "stop" : 1667179406738,
-    "duration" : 193
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e17027ee1a788251",
+  "uid" : "4b864a41c04f3580",
   "name" : "告警中心--告警管理--告警类型",
   "time" : {
-    "start" : 1667179424835,
-    "stop" : 1667179425093,
-    "duration" : 258
+    "start" : 1668081436374,
+    "stop" : 1668081437380,
+    "duration" : 1006
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "49f2ea7ec60e06ab",
+  "uid" : "d92855293b20d0ac",
+  "name" : "矿山数据统计--生产数据--详情",
+  "time" : {
+    "start" : 1668081420138,
+    "stop" : 1668081420342,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9bc8ddbf58eecb7",
+  "name" : "税收监管--产矿销售种类占比--镇街",
+  "time" : {
+    "start" : 1668081406136,
+    "stop" : 1668081406503,
+    "duration" : 367
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea08e76e19c041b0",
+  "name" : "税收监管--近7日告警提醒--镇街",
+  "time" : {
+    "start" : 1668081388980,
+    "stop" : 1668081389232,
+    "duration" : 252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "139bd83604dee17e",
+  "name" : "销售数据管理--非煤矿价格及税收管理--列表关键字、地区、矿区筛选",
+  "time" : {
+    "start" : 1668081422245,
+    "stop" : 1668081422475,
+    "duration" : 230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50d1c4c0ecd7b73b",
+  "name" : "组织管理--部门与成员--组织--详情",
+  "time" : {
+    "start" : 1668081411291,
+    "stop" : 1668081411751,
+    "duration" : 460
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26c68ca8c935b8d8",
+  "name" : "税收监管--某个具体的矿区告警分类",
+  "time" : {
+    "start" : 1668081381640,
+    "stop" : 1668081381991,
+    "duration" : 351
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b1c9110d32d237d",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081438870,
+    "stop" : 1668081439301,
+    "duration" : 431
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10f0813593549035",
+  "name" : "销售数据管理--某个实际的矿区审核数据",
+  "time" : {
+    "start" : 1668081424188,
+    "stop" : 1668081427742,
+    "duration" : 3554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a3733f09ecf6c9e",
+  "name" : "税收监管今年累计销售量列表--镇街",
+  "time" : {
+    "start" : 1668081367655,
+    "stop" : 1668081368682,
+    "duration" : 1027
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdfedb00ac6ab244",
+  "name" : "税收监管--矿产加工销售占比--镇街",
+  "time" : {
+    "start" : 1668081404661,
+    "stop" : 1668081405035,
+    "duration" : 374
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eab8836879c9109d",
+  "name" : "指挥中心左部日常巡检--市级",
+  "time" : {
+    "start" : 1668081229653,
+    "stop" : 1668081229837,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7b532bcb67f79a",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081434128,
+    "stop" : 1668081435725,
+    "duration" : 1597
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a5b2bb73046db17",
+  "name" : "组织管理--部门与成员--所有角色",
+  "time" : {
+    "start" : 1668081412433,
+    "stop" : 1668081412622,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a522778d447499c",
+  "name" : "税收监管--行政单位树--镇街",
+  "time" : {
+    "start" : 1668081387595,
+    "stop" : 1668081387798,
+    "duration" : 203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "236ed536cd6cc0aa",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081439500,
+    "stop" : 1668081439785,
+    "duration" : 285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a1e26633c958cb0",
+  "name" : "组织管理--部门与成员--编辑成员--部门职位选项",
+  "time" : {
+    "start" : 1668081412825,
+    "stop" : 1668081413312,
+    "duration" : 487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48c22ee1be84608e",
+  "name" : "销售数据管理--审核的旗帜数据--审核的旗帜数据",
+  "time" : {
+    "start" : 1668081430492,
+    "stop" : 1668081430756,
+    "duration" : 264
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa6f2a5d0d530be5",
+  "name" : "矿山数据统计--加工销售数据统计列表筛选--加工量导出",
+  "time" : {
+    "start" : 1668081446731,
+    "stop" : 1668081446969,
+    "duration" : 238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1109f923fb9b79f7",
+  "name" : "企业管理--矿企管理--关键字及区域搜索",
+  "time" : {
+    "start" : 1668081421412,
+    "stop" : 1668081421619,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9467c9a193c2056d",
+  "name" : "税收监管--各矿区设备在离线情况--市级",
+  "time" : {
+    "start" : 1668081387800,
+    "stop" : 1668081388023,
+    "duration" : 223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63f17ddee5e2f961",
+  "name" : "指挥中心应急事件上报--镇街",
+  "time" : {
+    "start" : 1668081371163,
+    "stop" : 1668081372401,
+    "duration" : 1238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6c7ff0203671d58",
   "name" : "指挥中心应急事件上报-市级",
   "time" : {
-    "start" : 1667179345344,
-    "stop" : 1667179345553,
+    "start" : 1668081368684,
+    "stop" : 1668081368961,
+    "duration" : 277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f2de875ede987ca",
+  "name" : "销售数据管理--非煤矿价格及税收管理--修改详情",
+  "time" : {
+    "start" : 1668081422477,
+    "stop" : 1668081422682,
+    "duration" : 205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96eeffa62b0fad43",
+  "name" : "指挥中心顶部看板镇街",
+  "time" : {
+    "start" : 1668081225050,
+    "stop" : 1668081226091,
+    "duration" : 1041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7599c87227799111",
+  "name" : "矿山数据统计--生产数据--列表及关键字搜索",
+  "time" : {
+    "start" : 1668081414420,
+    "stop" : 1668081415021,
+    "duration" : 601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52c506384ad9ec23",
+  "name" : "税收监管--告警分类--镇街",
+  "time" : {
+    "start" : 1668081380947,
+    "stop" : 1668081381288,
+    "duration" : 341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa62c90b4ef7fac7",
+  "name" : "指挥中心左部日常巡检区县",
+  "time" : {
+    "start" : 1668081229840,
+    "stop" : 1668081230048,
+    "duration" : 208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84b893887f1d15ac",
+  "name" : "矿山数据统计--加工销售数据统计列表",
+  "time" : {
+    "start" : 1668081445665,
+    "stop" : 1668081445953,
+    "duration" : 288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66ebb4aaec6ae4c2",
+  "name" : "税收监管--顶部看板--市级",
+  "time" : {
+    "start" : 1668081389880,
+    "stop" : 1668081392745,
+    "duration" : 2865
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24c6ff9f786f8a9",
+  "name" : "大屏配置--web端",
+  "time" : {
+    "start" : 1668081410457,
+    "stop" : 1668081410867,
+    "duration" : 410
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bfbeae40fcd7c05",
+  "name" : "矿山数据统计--销售数据核准--列表及搜索",
+  "time" : {
+    "start" : 1668081420550,
+    "stop" : 1668081420801,
+    "duration" : 251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd76cc5d42b56094",
+  "name" : "矿山数据统计--销售数据--列表时间、关键字、区域、产品名称、产品类型综合搜索",
+  "time" : {
+    "start" : 1668081385360,
+    "stop" : 1668081386658,
+    "duration" : 1298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28fd9f3f18b19d4b",
+  "name" : "税收监管--矿产数据详情列表",
+  "time" : {
+    "start" : 1668081383146,
+    "stop" : 1668081384197,
+    "duration" : 1051
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2b1647892cb8a35",
+  "name" : "指挥中心--告警分类--区县",
+  "time" : {
+    "start" : 1668081379577,
+    "stop" : 1668081379920,
+    "duration" : 343
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30ae58c4e1b89e32",
+  "name" : "组织管理--角色管理--系统管理员",
+  "time" : {
+    "start" : 1668081413512,
+    "stop" : 1668081413721,
     "duration" : 209
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3b510bcddd96fb5b",
-  "name" : "税收监管--各矿区设备在离线情况--区县",
+  "uid" : "8cb74ffd10d6a0df",
+  "name" : "组织管理--角色管理--权限树",
   "time" : {
-    "start" : 1667179406113,
-    "stop" : 1667179406306,
-    "duration" : 193
+    "start" : 1668081413723,
+    "stop" : 1668081414021,
+    "duration" : 298
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6175f88b0a8c3519",
+  "uid" : "6454ffe9619191a6",
+  "name" : "视频监控--视频监控树--模糊搜索",
+  "time" : {
+    "start" : 1668081408739,
+    "stop" : 1668081409451,
+    "duration" : 712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9488fc6ceaf06451",
+  "name" : "矿山数据统计--加工销售数据统计列表筛选--销售量导出",
+  "time" : {
+    "start" : 1668081447775,
+    "stop" : 1668081448016,
+    "duration" : 241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "228b41c5f194dc7c",
   "name" : "告警中心--告警管理--告警类型",
   "time" : {
-    "start" : 1667179390164,
-    "stop" : 1667179391463,
-    "duration" : 1299
+    "start" : 1668081442224,
+    "stop" : 1668081442564,
+    "duration" : 340
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9b73d05ef4cd24e8",
-  "name" : "税收监管今年累计销售量列表--镇街",
+  "uid" : "adcc3105ca139c29",
+  "name" : "税收监管--近7日告警提醒--区县",
   "time" : {
-    "start" : 1667179542768,
-    "stop" : 1667179543411,
-    "duration" : 643
+    "start" : 1668081388725,
+    "stop" : 1668081388978,
+    "duration" : 253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c85bb03b269b21e",
+  "name" : "税收监管--识别能力",
+  "time" : {
+    "start" : 1668081406506,
+    "stop" : 1668081407192,
+    "duration" : 686
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b0c9422b4afffbf",
+  "name" : "矿山数据统计--销售数据核准--详情--产品名称",
+  "time" : {
+    "start" : 1668081421000,
+    "stop" : 1668081421189,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca221834f489b5d7",
+  "name" : "指挥中心左部告警信息--镇街",
+  "time" : {
+    "start" : 1668081231104,
+    "stop" : 1668081232570,
+    "duration" : 1466
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c01b157f5f01254b",
+  "name" : "指挥中心左部告警信息--区县",
+  "time" : {
+    "start" : 1668081230704,
+    "stop" : 1668081231101,
+    "duration" : 397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab68d651015e3f48",
+  "name" : "指挥中心顶部数据加工量详情--市级",
+  "time" : {
+    "start" : 1668081240025,
+    "stop" : 1668081240591,
+    "duration" : 566
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac32c50cc33a1446",
+  "name" : "税收监管今年累计销售量列表--区县",
+  "time" : {
+    "start" : 1668081366557,
+    "stop" : 1668081367653,
+    "duration" : 1096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac1b41add26e6bcd",
+  "name" : "税收监管今年累计加工量--区县",
+  "time" : {
+    "start" : 1668081311185,
+    "stop" : 1668081338161,
+    "duration" : 26976
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b75f8e672e63a6ae",
+  "name" : "税收监管--告警分类--区县",
+  "time" : {
+    "start" : 1668081380592,
+    "stop" : 1668081380945,
+    "duration" : 353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "417682142cbed703",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081437778,
+    "stop" : 1668081437981,
+    "duration" : 203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c28938e1f1a1642c",
+  "name" : "税收监管今年累计加工量--市级",
+  "time" : {
+    "start" : 1668081241857,
+    "stop" : 1668081311183,
+    "duration" : 69326
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fffc9a1b1961a355",
+  "name" : "税收监管--识别能力",
+  "time" : {
+    "start" : 1668081407194,
+    "stop" : 1668081407385,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "980d5185157bfa67",
+  "name" : "税收监管--顶部看板--区县",
+  "time" : {
+    "start" : 1668081399701,
+    "stop" : 1668081401693,
+    "duration" : 1992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7474436f6dbcaec9",
+  "name" : "企业管理--矿企管理--企业详情",
+  "time" : {
+    "start" : 1668081421621,
+    "stop" : 1668081421817,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21a31f3f53f0a258",
+  "name" : "税收监管--产矿销售种类占比--市级",
+  "time" : {
+    "start" : 1668081405037,
+    "stop" : 1668081405747,
+    "duration" : 710
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "121c5b4cffc085cf",
+  "name" : "组织管理--部门与成员--具体职位下的所有用户",
+  "time" : {
+    "start" : 1668081412215,
+    "stop" : 1668081412431,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5f8dfc289fa81d9",
+  "name" : "驾驶舱矿区实景--进出口监控(马真良为例)",
+  "time" : {
+    "start" : 1668081376807,
+    "stop" : 1668081377023,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87bb1bea61c61c46",
+  "name" : "指挥中心左部日常巡检镇街",
+  "time" : {
+    "start" : 1668081230054,
+    "stop" : 1668081230277,
+    "duration" : 223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31a497b2b1105f18",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081441352,
+    "stop" : 1668081441598,
+    "duration" : 246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b50f0a1757d7c5f",
+  "name" : "税收监管--矿区选择--镇街",
+  "time" : {
+    "start" : 1668081389676,
+    "stop" : 1668081389878,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f69f53e23f094ab8",
+  "name" : "指挥中心顶部数据加工量详情--镇街",
+  "time" : {
+    "start" : 1668081241349,
+    "stop" : 1668081241855,
+    "duration" : 506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a416183f8ce4a4c5",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081440699,
+    "stop" : 1668081441350,
+    "duration" : 651
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ee8025c8266c2ca",
+  "name" : "销售数据管理--联单审核--加工量--某个实际的矿区的皮带设备",
+  "time" : {
+    "start" : 1668081427745,
+    "stop" : 1668081427952,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48e9986238a033cd",
+  "name" : "指挥中心顶部看板市级",
+  "time" : {
+    "start" : 1668081222505,
+    "stop" : 1668081224066,
+    "duration" : 1561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "771bd69fa03d8f4e",
+  "name" : "销售数据管理--加工量--所有分类",
+  "time" : {
+    "start" : 1668081427955,
+    "stop" : 1668081428180,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "797d3d221c051fc3",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081438199,
+    "stop" : 1668081438394,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a871c662b46ba9c",
+  "name" : "大屏配置--app端",
+  "time" : {
+    "start" : 1668081410869,
+    "stop" : 1668081411082,
+    "duration" : 213
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "edb5f60a664a5a39",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081440037,
+    "stop" : 1668081440697,
+    "duration" : 660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f970da32e2a2bb0d",
+  "name" : "指挥中心应急事件上报--区县",
+  "time" : {
+    "start" : 1668081368963,
+    "stop" : 1668081369169,
+    "duration" : 206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13692bb903f3ac34",
+  "name" : "驾驶舱矿区实景--加工量",
+  "time" : {
+    "start" : 1668081377872,
+    "stop" : 1668081378505,
+    "duration" : 633
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a1d9347c5391e6a",
+  "name" : "视频监控--视频监控树--模糊搜索",
+  "time" : {
+    "start" : 1668081409453,
+    "stop" : 1668081410455,
+    "duration" : 1002
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91fccf4b9bcbc8ae",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081433504,
+    "stop" : 1668081433714,
+    "duration" : 210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6af160cb09682254",
+  "name" : "指挥中心--预警提醒信息",
+  "time" : {
+    "start" : 1668081407387,
+    "stop" : 1668081407598,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37ff997bb6865078",
+  "name" : "矿山数据统计--加工销售数据--加工量导出",
+  "time" : {
+    "start" : 1668081446169,
+    "stop" : 1668081446729,
+    "duration" : 560
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "119017a2b495aa",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081439787,
+    "stop" : 1668081440035,
+    "duration" : 248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbaf54b61b4dcf80",
+  "name" : "指挥中心顶部看板镇街",
+  "time" : {
+    "start" : 1668081228902,
+    "stop" : 1668081229644,
+    "duration" : 742
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98937bddff63f01a",
+  "name" : "矿山数据统计--销售数据核准--详情",
+  "time" : {
+    "start" : 1668081420803,
+    "stop" : 1668081420998,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae8a4bab3e56a9d3",
+  "name" : "指挥中心顶部数据销售量详情--市级",
+  "time" : {
+    "start" : 1668081363033,
+    "stop" : 1668081363721,
+    "duration" : 688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65dbdf3a44dd921f",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081437569,
+    "stop" : 1668081437776,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62e51cff7734bdc2",
+  "name" : "指挥中心中部地图数据--市级",
+  "time" : {
+    "start" : 1668081226093,
+    "stop" : 1668081227884,
+    "duration" : 1791
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4784c1b73ea735be",
+  "name" : "税收监管--各矿区设备在离线情况--区县",
+  "time" : {
+    "start" : 1668081388025,
+    "stop" : 1668081388219,
+    "duration" : 194
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f212e2d7a3163d68",
+  "name" : "税收监管--矿区选择--区县",
+  "time" : {
+    "start" : 1668081389480,
+    "stop" : 1668081389674,
+    "duration" : 194
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "424eb97455196a45",
+  "name" : "矿山数据统计--生产数据--列表及关键字搜索",
+  "time" : {
+    "start" : 1668081415023,
+    "stop" : 1668081415811,
+    "duration" : 788
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b98bfbb3980696c1",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081436151,
+    "stop" : 1668081436372,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c05bce88040fcbb3",
+  "name" : "指挥中心顶部视频/数据接入/今日作业--详情",
+  "time" : {
+    "start" : 1668081239283,
+    "stop" : 1668081239811,
+    "duration" : 528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f51914570f9e941",
+  "name" : "指挥中心应急事件上报--区县",
+  "time" : {
+    "start" : 1668081370934,
+    "stop" : 1668081371161,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed95cb010aa970b4",
+  "name" : "税收监管--行政单位树--区县",
+  "time" : {
+    "start" : 1668081387333,
+    "stop" : 1668081387593,
+    "duration" : 260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "378883943c8800e8",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081437982,
+    "stop" : 1668081438197,
+    "duration" : 215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a38c1a10c89806ab",
+  "name" : "驾驶舱矿区实景--播放视频",
+  "time" : {
+    "start" : 1668081377584,
+    "stop" : 1668081377870,
+    "duration" : 286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b030e5d46b12f25",
+  "name" : "企业管理--矿企管理--编辑时的关联企业选择",
+  "time" : {
+    "start" : 1668081421819,
+    "stop" : 1668081422025,
+    "duration" : 206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f45b47f4cf271194",
+  "name" : "销售数据管理--审核的旗帜数据--审核的旗帜数据",
+  "time" : {
+    "start" : 1668081428182,
+    "stop" : 1668081430491,
+    "duration" : 2309
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6665a145c9adab6",
+  "name" : "销售数据管理--加工量--皮带秤流速和流量",
+  "time" : {
+    "start" : 1668081430758,
+    "stop" : 1668081433236,
+    "duration" : 2478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc8af5e257b31518",
+  "name" : "驾驶舱矿区实景--全域监管监控(马真良为例)",
+  "time" : {
+    "start" : 1668081376579,
+    "stop" : 1668081376805,
+    "duration" : 226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d3a9a5bc1d7019",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081435944,
+    "stop" : 1668081436148,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed984f38b94459a2",
+  "name" : "指挥中心左部告警信息--市级",
+  "time" : {
+    "start" : 1668081230285,
+    "stop" : 1668081230702,
+    "duration" : 417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df8d6904ad62510e",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081433924,
+    "stop" : 1668081434126,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77b857a5afe31c6a",
+  "name" : "矿山数据统计--加工销售数据--销售量列表",
+  "time" : {
+    "start" : 1668081446971,
+    "stop" : 1668081447248,
+    "duration" : 277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ea120ee20980069",
+  "name" : "指挥中心--某个具体的矿区告警分类",
+  "time" : {
+    "start" : 1668081381290,
+    "stop" : 1668081381638,
+    "duration" : 348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "694a62f80735542",
+  "name" : "税收监管--矿产加工销售占比--市级",
+  "time" : {
+    "start" : 1668081403558,
+    "stop" : 1668081404253,
+    "duration" : 695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c918e48f5ad89886",
+  "name" : "组织管理--部门与成员--组织",
+  "time" : {
+    "start" : 1668081411086,
+    "stop" : 1668081411289,
+    "duration" : 203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3b9242d8f1580ef",
+  "name" : "指挥中心顶部数据销售量详情--镇街",
+  "time" : {
+    "start" : 1668081364100,
+    "stop" : 1668081364469,
+    "duration" : 369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d2301e4b34dc675",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081441600,
+    "stop" : 1668081441872,
+    "duration" : 272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20baa53e2220a2f4",
+  "name" : "指挥中心--告警分类--镇街",
+  "time" : {
+    "start" : 1668081379923,
+    "stop" : 1668081380259,
+    "duration" : 336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9194a7d8baa4a97c",
+  "name" : "组织管理--角色管理--具体角色权限树",
+  "time" : {
+    "start" : 1668081414022,
+    "stop" : 1668081414230,
+    "duration" : 208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79f9ed5e1dabc1d8",
+  "name" : "指挥中心顶部看板区县",
+  "time" : {
+    "start" : 1668081227888,
+    "stop" : 1668081228899,
+    "duration" : 1011
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4c04c0de0aac198",
+  "name" : "驾驶舱矿区实景--销售量",
+  "time" : {
+    "start" : 1668081378514,
+    "stop" : 1668081379151,
+    "duration" : 637
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eff0de584a2115eb",
+  "name" : "销售数据管理--联单审核区县、矿区树",
+  "time" : {
+    "start" : 1668081423997,
+    "stop" : 1668081424186,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "354061784d56e5ff",
+  "name" : "税收监管--各矿区设备在离线情况--镇街",
+  "time" : {
+    "start" : 1668081388221,
+    "stop" : 1668081388410,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75a69b015916aa19",
+  "name" : "销售数据管理--非煤矿价格及税收管理--默认列表",
+  "time" : {
+    "start" : 1668081422027,
+    "stop" : 1668081422243,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59674e01dc3f1221",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081435727,
+    "stop" : 1668081435943,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ea5aac13d177fcf",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081439303,
+    "stop" : 1668081439498,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbe85c311e3b804a",
+  "name" : "税收监管--顶部看板--镇街",
+  "time" : {
+    "start" : 1668081401695,
+    "stop" : 1668081403555,
+    "duration" : 1860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af92b79f42b268cf",
+  "name" : "矿山数据统计--生产数据--详情",
+  "time" : {
+    "start" : 1668081420344,
+    "stop" : 1668081420548,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d87198d0d714e08f",
+  "name" : "指挥中心应急事件上报--镇街",
+  "time" : {
+    "start" : 1668081369171,
+    "stop" : 1668081370680,
+    "duration" : 1509
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97737eb740ac50f8",
+  "name" : "指挥中心顶部看板区县",
+  "time" : {
+    "start" : 1668081224069,
+    "stop" : 1668081225041,
+    "duration" : 972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef8bfe741efba97b",
+  "name" : "视频监控--视频监控树",
+  "time" : {
+    "start" : 1668081407600,
+    "stop" : 1668081408737,
+    "duration" : 1137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a89b22f24aea2b0",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081441874,
+    "stop" : 1668081442222,
+    "duration" : 348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e2da86ce087c4be",
+  "name" : "矿山数据统计--加工销售数据统计列表筛选",
+  "time" : {
+    "start" : 1668081445955,
+    "stop" : 1668081446167,
+    "duration" : 212
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60b88b0760d3acb4",
+  "name" : "告警管理--告警中心--联合筛选",
+  "time" : {
+    "start" : 1668081234811,
+    "stop" : 1668081235215,
+    "duration" : 404
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69a375c278100878",
+  "name" : "指挥中心--告警分类--市级",
+  "time" : {
+    "start" : 1668081379153,
+    "stop" : 1668081379574,
+    "duration" : 421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a0495850f06a61f",
+  "name" : "税收监管--产矿销售种类占比--区县",
+  "time" : {
+    "start" : 1668081405749,
+    "stop" : 1668081406134,
+    "duration" : 385
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f41e4f36fdb9db2c",
+  "name" : "税收监管今年累计销售量列表--市级",
+  "time" : {
+    "start" : 1668081364477,
+    "stop" : 1668081366555,
+    "duration" : 2078
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a13e36d82fafe102",
+  "name" : "销售数据管理--联单审核树",
+  "time" : {
+    "start" : 1668081422684,
+    "stop" : 1668081423988,
+    "duration" : 1304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86e8db9057b36f37",
+  "name" : "告警中心--告警管理--告警类型",
+  "time" : {
+    "start" : 1668081437382,
+    "stop" : 1668081437567,
+    "duration" : 185
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c33deb97864783ac",
+  "name" : "税收监管--顶部看板--镇街",
+  "time" : {
+    "start" : 1668081394636,
+    "stop" : 1668081396767,
+    "duration" : 2131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15947f1361ff2d7b",
+  "name" : "组织管理--部门与成员--职位详情",
+  "time" : {
+    "start" : 1668081412625,
+    "stop" : 1668081412823,
+    "duration" : 198
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "228a8d51a4437871",
+  "name" : "昭通web_socket心跳测试",
+  "time" : {
+    "start" : 1668081442571,
+    "stop" : 1668081445663,
+    "duration" : 3092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2125bfaec75067de",
+  "name" : "企业管理--矿企管理--默认列表",
+  "time" : {
+    "start" : 1668081421192,
+    "stop" : 1668081421410,
+    "duration" : 218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3005f4defa4384e0",
+  "name" : "指挥中心左部告警信息--详情",
+  "time" : {
+    "start" : 1668081235217,
+    "stop" : 1668081239281,
+    "duration" : 4064
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7667d850b4b3d769",
+  "name" : "指挥中心顶部数据销售量详情--区县",
+  "time" : {
+    "start" : 1668081363731,
+    "stop" : 1668081364094,
+    "duration" : 363
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c3030c6e50e4824",
+  "name" : "矿山数据统计--加工销售数据统计列表筛选--销售量",
+  "time" : {
+    "start" : 1668081447250,
+    "stop" : 1668081447483,
+    "duration" : 233
   },
   "status" : "passed",
   "severity" : "normal"

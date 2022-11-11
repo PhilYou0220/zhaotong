@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/emergcase/uploads
+ 请求参数: page=1&limit=100&user_id=&fuzz_name=&status=0&bi=true&area_code=5306&times%5B%5D=2022-08-26T16%3A00%3A00.000Z&times%5B%5D=2022-08-27T15%3A59%3A59.999Z
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 58, 'event_name': '问题上报3', 'area_name': '龙头山', 'instance_name': '', 'upload_user_name': 'yjzy', 'org_dpt_name': '测试1,应急管理局,巧家县,市应急管理局,彝良县', 'status': 0, 'created_at': '2022-08-27T05:34:21Z', 'can_receipt': 0}, {'id': 57, 'event_name': '问题上报2', 'area_name': '凤凰', 'instance_name': '', 'upload_user_name': 'yjzy', 'org_dpt_name': '应急管理局,鲁甸县', 'status': 0, 'created_at': '2022-08-27T05:33:04Z', 'can_receipt': 0}, {'id': 56, 'event_name': '上报问题', 'area_name': '凤凰', 'instance_name': '昭通李龙云砂石料有限公司石灰岩矿', 'upload_user_name': 'yjzy', 'org_dpt_name': '', 'status': 0, 'created_at': '2022-08-27T04:51:36Z', 'can_receipt': 0}, {'id': 55, 'event_name': '安全事故上报', 'area_name': '洒渔', 'instance_name': '威信宏顺建材有限公司宏顺采石场', 'upload_user_name': 'yjzy', 'org_dpt_name': '应急管理局', 'status': 0, 'created_at': '2022-08-27T03:13:09Z', 'can_receipt': 0}], 'page': {'total': 4, 'page': 1, 'limit': 100}, 'status': '', 'details': None, 'request_id': ''}

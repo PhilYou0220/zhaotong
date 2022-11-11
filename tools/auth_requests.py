@@ -107,33 +107,37 @@ class Auth(object):
         resp = None
         if method == "POST":
             try:
-                resp = requests.post(url=url, json=json.loads(data2), headers=headers)
+                resp = requests.post(url=url, json=json.loads(data2), headers=headers, timeout=120)
             except Exception as e:
                 log.error(f"报错类型：{e}  ")
+                return e, -1
             real_r = resp.json()
             real_status_code = resp.status_code
             return real_r, real_status_code
         elif method == "PUT":
             try:
-                resp = requests.put(url=url, json=json.loads(data2), headers=headers)
+                resp = requests.put(url=url, json=json.loads(data2), headers=headers, timeout=120)
             except Exception as e:
                 log.error(f"报错类型：{e}  ")
+                return e, -1
             real_r = resp.json()
             real_status_code = resp.status_code
             return real_r, real_status_code
         elif method == "DELETE":
             try:
-                resp = requests.delete(url=url, json=json.loads(data2), headers=headers)
+                resp = requests.delete(url=url, json=json.loads(data2), headers=headers, timeout=120)
             except Exception as e:
                 log.error(f"报错类型：{e}  ")
+                return e, -1
             real_r = resp.json()
             real_status_code = resp.status_code
             return real_r, real_status_code
         elif method == "GET":
             try:
-                resp = requests.get(url=url, params=data2, headers=headers)
+                resp = requests.get(url=url, params=data2, headers=headers, timeout=120)
             except Exception as e:
                 log.error(f"报错类型：{e}  ")
+                return e, -1
             #  解决二进制文件问题
             if export is None:
                 real_r = resp.json()

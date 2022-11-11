@@ -20,7 +20,7 @@ class TestMoatUserPage:
 
     @allure.title("组织管理--部门与成员--具体职位下的所有用户")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_moat_user_page_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

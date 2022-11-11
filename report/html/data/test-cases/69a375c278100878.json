@@ -1,0 +1,97 @@
+{
+  "uid" : "69a375c278100878",
+  "name" : "指挥中心--告警分类--市级",
+  "fullName" : "testcase_api.test_015_beacon_alert_count_by_type.TestBeaconAlertCountByType#test_beacon_alert_count_by_type_0",
+  "historyId" : "223d5d8556244dd2b775af5e6a05cc55",
+  "time" : {
+    "start" : 1668081379153,
+    "stop" : 1668081379574,
+    "duration" : 421
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心--告警分类--市级",
+      "time" : {
+        "start" : 1668081379170,
+        "stop" : 1668081379574,
+        "duration" : 404
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "e0a19dde676b04f7",
+      "name" : "log",
+      "source" : "e0a19dde676b04f7.txt",
+      "type" : "text/plain",
+      "size" : 665
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱告警分类"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_015_beacon_alert_count_by_type"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBeaconAlertCountByType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_015_beacon_alert_count_by_type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "69a375c278100878.json",
+  "parameterValues" : [ ]
+}

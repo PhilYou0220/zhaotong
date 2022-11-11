@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/boss/company
- 请求参数: id=143
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': {'id': 143, 'name': '威信县岩湾头建材有限公司', 'area_code': '530629', 'address': '云南省昭通市威信县扎西镇小坝村半林组', 'phone': '', 'contact': '尹厚文', 'contact_phone': '15198550616', 'lng': 105.05639, 'lat': 27.866998, 'social_code': '91530629316269604X', 'legal_user': '李红燕', 'license': 'file/0/2022/0812/c9cc715b-c0fe-431f-8525-c4956b6dd842.jpg'}, 'status': '', 'details': None, 'request_id': ''}

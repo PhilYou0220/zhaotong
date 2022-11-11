@@ -2,7 +2,7 @@ moat_role_system:
   - title: "组织管理--角色管理--系统管理员"
     url: /api/moat/role/system
     data: ""
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/moat/org/general/tree
- 请求参数: 
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 114, 'parent_id': 0, 'node_type': 1, 'name': '昭通市', 'leaf': False, 'children': None}], 'status': '', 'details': None, 'request_id': ''}

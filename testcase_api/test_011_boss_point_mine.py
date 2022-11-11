@@ -21,7 +21,7 @@ class TestBossPointMine:
 
     @allure.title("驾驶舱矿区--基础信息(马真良)")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_boss_point_mine_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

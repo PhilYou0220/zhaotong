@@ -2,7 +2,7 @@ boss_companys:
   - title: "企业管理--矿企管理--默认列表"
     url: /api/boss/companys
     data: page=1&limit=10&keyword=&area_code=5306
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -10,7 +10,7 @@ boss_companys:
   - title: "企业管理--矿企管理--关键字及区域搜索"
     url: /api/boss/companys
     data: page=1&limit=10&keyword=%E5%A8%81%E4%BF%A1%E5%8E%BF%E5%B2%A9%E6%B9%BE%E5%A4%B4%E5%BB%BA%E6%9D%90%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&area_code=530629
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -1,0 +1,97 @@
+{
+  "uid" : "bd76cc5d42b56094",
+  "name" : "矿山数据统计--销售数据--列表时间、关键字、区域、产品名称、产品类型综合搜索",
+  "fullName" : "testcase_api.test_016_boss_tickets.TestBossTickets#test_boss_tickets_3",
+  "historyId" : "76b155f0d193479fbb478074eb96e099",
+  "time" : {
+    "start" : 1668081385360,
+    "stop" : 1668081386658,
+    "duration" : 1298
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "矿山数据统计--销售数据--列表时间、关键字、区域、产品名称、产品类型综合搜索",
+      "time" : {
+        "start" : 1668081385365,
+        "stop" : 1668081386650,
+        "duration" : 1285
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "b6bc0e087cc2f88c",
+      "name" : "log",
+      "source" : "b6bc0e087cc2f88c.txt",
+      "type" : "text/plain",
+      "size" : 9045
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--右侧电子联单"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_016_boss_tickets"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossTickets"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_016_boss_tickets"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "bd76cc5d42b56094.json",
+  "parameterValues" : [ ]
+}

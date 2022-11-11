@@ -19,7 +19,7 @@ api_name = "emerg_weather_warn_list"
 class TestEmergWeatherWarnList:
     @allure.title("指挥中心--预警提醒信息")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_emerg_weather_warn_list_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

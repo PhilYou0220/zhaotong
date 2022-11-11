@@ -20,7 +20,7 @@ class TestBossDevices:
 
     @allure.title("驾驶舱矿区实景--加工量")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_boss_devices_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -31,7 +31,7 @@ class TestBossDevices:
 
     @allure.title("驾驶舱矿区实景--销售量")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_boss_devices_1(cls):
         case_index = 1
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

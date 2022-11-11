@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/beacon/alert/types
- 请求参数: 
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'name': '堆场超高', 'value': 1}, {'name': '越界开采', 'value': 2}, {'name': '陡坡过大', 'value': 3}, {'name': '重车逃逸', 'value': 4}, {'name': '下井超时', 'value': 5}, {'name': '采销异常', 'value': 6}, {'name': '地磅数据异常', 'value': 7}, {'name': '重车遮蔽', 'value': 8}], 'status': '', 'details': None, 'request_id': ''}

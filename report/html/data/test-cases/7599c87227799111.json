@@ -1,0 +1,97 @@
+{
+  "uid" : "7599c87227799111",
+  "name" : "矿山数据统计--生产数据--列表及关键字搜索",
+  "fullName" : "testcase_api.test_042_boss_belt_datas.TestMoatOrgFullTree#test_moat_org_full_tree_0",
+  "historyId" : "d7cc3ff89aa0be72747af0542a1ea9c1",
+  "time" : {
+    "start" : 1668081414420,
+    "stop" : 1668081415021,
+    "duration" : 601
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "矿山数据统计--生产数据--列表及关键字搜索",
+      "time" : {
+        "start" : 1668081414433,
+        "stop" : 1668081415013,
+        "duration" : 580
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "bc51de1e00691f02",
+      "name" : "log",
+      "source" : "bc51de1e00691f02.txt",
+      "type" : "text/plain",
+      "size" : 4927
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "矿山数据统计--生产数据--列表及关键字搜索"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_042_boss_belt_datas"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_042_boss_belt_datas"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "7599c87227799111.json",
+  "parameterValues" : [ ]
+}

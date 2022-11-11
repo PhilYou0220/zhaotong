@@ -1,0 +1,97 @@
+{
+  "uid" : "a38c1a10c89806ab",
+  "name" : "驾驶舱矿区实景--播放视频",
+  "fullName" : "testcase_api.test_013_gbserver_video.TestGbserverVideo#test_gbserver_video_0",
+  "historyId" : "83e0c8ff360fb65ec1ba60df9d255ef0",
+  "time" : {
+    "start" : 1668081377584,
+    "stop" : 1668081377870,
+    "duration" : 286
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "驾驶舱矿区实景--播放视频",
+      "time" : {
+        "start" : 1668081377592,
+        "stop" : 1668081377870,
+        "duration" : 278
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "f2b9c59cdd6230ab",
+      "name" : "log",
+      "source" : "f2b9c59cdd6230ab.txt",
+      "type" : "text/plain",
+      "size" : 497
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱矿区实景--播放视频"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_013_gbserver_video"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGbserverVideo"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_013_gbserver_video"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "a38c1a10c89806ab.json",
+  "parameterValues" : [ ]
+}

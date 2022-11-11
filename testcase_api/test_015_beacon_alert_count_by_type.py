@@ -20,7 +20,7 @@ class TestBeaconAlertCountByType:
 
     @allure.title("指挥中心--告警分类--市级")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_beacon_alert_count_by_type_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -31,7 +31,7 @@ class TestBeaconAlertCountByType:
 
     @allure.title("指挥中心--告警分类--区县")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_beacon_alert_count_by_type_1(cls):
         case_index = 1
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -42,7 +42,7 @@ class TestBeaconAlertCountByType:
 
     @allure.title("指挥中心--告警分类--镇街")
     @pytest.mark.api
-    @pytest.mark.run(order=3)
+    # @pytest.mark.run(order=3)
     def test_beacon_alert_count_by_type_2(cls):
         case_index = 2
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -53,7 +53,7 @@ class TestBeaconAlertCountByType:
 
     @allure.title("税收监管--告警分类--市级")
     @pytest.mark.api
-    @pytest.mark.run(order=4)
+    # @pytest.mark.run(order=4)
     def test_beacon_alert_count_by_type_3(cls):
         case_index = 3
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -64,7 +64,7 @@ class TestBeaconAlertCountByType:
 
     @allure.title("税收监管--告警分类--区县")
     @pytest.mark.api
-    @pytest.mark.run(order=5)
+    # @pytest.mark.run(order=5)
     def test_beacon_alert_count_by_type_4(cls):
         case_index = 4
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -75,7 +75,7 @@ class TestBeaconAlertCountByType:
 
     @allure.title("税收监管--告警分类--镇街")
     @pytest.mark.api
-    @pytest.mark.run(order=6)
+    # @pytest.mark.run(order=6)
     def test_beacon_alert_count_by_type_5(cls):
         case_index = 5
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -86,7 +86,7 @@ class TestBeaconAlertCountByType:
 
     @allure.title("指挥中心--某个具体的矿区告警分类")
     @pytest.mark.api
-    @pytest.mark.run(order=7)
+    # @pytest.mark.run(order=7)
     def test_beacon_alert_count_by_type_6(cls):
         case_index = 6
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -97,7 +97,7 @@ class TestBeaconAlertCountByType:
 
     @allure.title("税收监管--某个具体的矿区告警分类")
     @pytest.mark.api
-    @pytest.mark.run(order=8)
+    # @pytest.mark.run(order=8)
     def test_beacon_alert_count_by_type_7(cls):
         case_index = 7
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

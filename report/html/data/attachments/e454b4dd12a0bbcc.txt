@@ -1,0 +1,7 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/weight_data/timeline
+ 请求参数: lane_id=55&date=2022-10-18T10%3A29%3A10.260Z&hours%5B%5D=0&hours%5B%5D=24&point_id=158
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200

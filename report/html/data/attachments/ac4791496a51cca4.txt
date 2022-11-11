@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/earlywarning/list
- 请求参数: 
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 1, 'early_warning_types': '低温天气、霜冻预警', 'early_warning_time': '2022-04-24 10:25:33', 'description': '请及时强化现场管理，做好安全生产条件检查和保温防范措施检查，对设备做好保温防冻处理，及时达到安全生产条件。'}, {'id': 2, 'early_warning_types': '高温天气预警', 'early_warning_time': '2022-04-27 11:25:33', 'description': '请加强对现场加强巡查力度，监督高温防暑措施落实情况。'}, {'id': 3, 'early_warning_types': '大风（扬沙）天气预警', 'early_warning_time': '2022-04-28 10:25:33', 'description': '请组织相关人员做好预防工作，大风天气后应对各种用电线路进行检查，确保生产作业安全。'}], 'status': '', 'details': None, 'request_id': ''}

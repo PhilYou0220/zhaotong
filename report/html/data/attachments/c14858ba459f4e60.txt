@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/ticket/weight_by_goods
+ 请求参数: area_code=5306&out_ats%5B%5D=2022-10-13T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'type': '无法核实', 'value': 12761.71, 'percent': 0.7803914398371914}, {'type': '原料', 'value': 702.01, 'percent': 0.042928619650509744}, {'type': '粉砂', 'value': 440.29, 'percent': 0.026924177641234368}, {'type': '粗砂', 'value': 147.34, 'percent': 0.009009989628788915}, {'type': '细砂', 'value': 494.26, 'percent': 0.030224497583312127}, {'type': '机制砂', 'value': 562.86, 'percent': 0.034419456783359094}, {'type': '二细砂', 'value': 54.31, 'percent': 0.0033211112850517577}, {'type': '瓜子石', 'value': 71.62, 'percent': 0.004379635246463025}, {'type': '黄砂', 'value': 36.79, 'percent': 0.0022497456118036117}, {'type': '压裂用石英砂（细砂）', 'value': 24.43, 'percent': 0.001493919143690194}, {'type': '中砂', 'value': 623.1, 'percent': 0.0381031935502808}, {'type': '公分石', 'value': 434.24, 'percent': 0.02655421403831477}], 'status': '', 'details': None, 'request_id': ''}

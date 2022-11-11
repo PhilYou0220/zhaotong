@@ -20,7 +20,7 @@ class TestMoatOrgFullTree:
 
     @allure.title("销售数据管理--非煤矿价格及税收管理--默认列表")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_moat_org_full_tree_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -28,10 +28,12 @@ class TestMoatOrgFullTree:
         check.equal(status_code, real_status_code, f"预期和实际不一致 预期状态码{status_code}和实际状态码{real_status_code}")
         log.debug(
             f" \n url:{url}\n 请求参数: {data}\n 账号：{username}\n 密码：{password}\n 预期状态码：{status_code}\n 实际返回状态码: {real_status_code}\n 实际返回值: {dict_return_data}\n ")
+        # log.debug(
+        #     f" \n url:{url}\n 请求参数: {data}\n 账号：{username}\n 密码：{password}\n 预期状态码：{status_code}\n 实际返回状态码: {real_status_code}\n")
 
     @allure.title("销售数据管理--非煤矿价格及税收管理--列表关键字、地区、矿区筛选")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_moat_org_full_tree_1(cls):
         case_index = 1
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

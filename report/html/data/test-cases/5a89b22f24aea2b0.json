@@ -1,0 +1,97 @@
+{
+  "uid" : "5a89b22f24aea2b0",
+  "name" : "告警中心--告警管理--告警类型",
+  "fullName" : "testcase_api.test_078_iot_alert_ipc_page.TestMoatOrgFullTree#test_moat_org_full_tree_0",
+  "historyId" : "cc2ae9a01bf1103450e60e3d58921702",
+  "time" : {
+    "start" : 1668081441874,
+    "stop" : 1668081442222,
+    "duration" : 348
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "设备管理--工控机数据列表",
+      "time" : {
+        "start" : 1668081441885,
+        "stop" : 1668081442214,
+        "duration" : 329
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "1f2b3a24ded4fafe",
+      "name" : "log",
+      "source" : "1f2b3a24ded4fafe.txt",
+      "type" : "text/plain",
+      "size" : 16590
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "告警中心--告警管理--告警类型"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_078_iot_alert_ipc_page"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_078_iot_alert_ipc_page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "5a89b22f24aea2b0.json",
+  "parameterValues" : [ ]
+}

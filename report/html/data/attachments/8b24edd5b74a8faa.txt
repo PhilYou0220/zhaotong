@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/beacon/alert/list
- 请求参数: page=1&limit=999999&alert_types%5B%5D=1&alert_types%5B%5D=2&alert_types%5B%5D=3&alert_types%5B%5D=5&scene=1&area_code=530602205&created_ats%5B%5D=2022-08-30T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-31T15%3A59%3A59.999Z
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码:200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': None, 'page': {'page': 1, 'limit': 999999}, 'status': '', 'details': None, 'request_id': ''}

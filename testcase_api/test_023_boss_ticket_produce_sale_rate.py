@@ -20,7 +20,7 @@ class TestBossTicketProduceSaleRate:
 
     @allure.title("税收监管--矿产加工销售占比--市级")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_boss_ticket_tax_by_time_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -31,7 +31,7 @@ class TestBossTicketProduceSaleRate:
 
     @allure.title("税收监管--矿产加工销售占比--区县")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_boss_ticket_tax_by_time_1(cls):
         case_index = 1
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -42,7 +42,7 @@ class TestBossTicketProduceSaleRate:
 
     @allure.title("税收监管--矿产加工销售占比--镇街")
     @pytest.mark.api
-    @pytest.mark.run(order=3)
+    # @pytest.mark.run(order=3)
     def test_boss_ticket_tax_by_time_2(cls):
         case_index = 2
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

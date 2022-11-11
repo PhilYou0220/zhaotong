@@ -3,7 +3,7 @@ gbserver_video:
     url: /api/gbserver/video
     # 重点参数cam_type
     data: code=53060000411320003811_53060000411180000038
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

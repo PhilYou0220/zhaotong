@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/devices
+ 请求参数: point_id=104&type=belt
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': {'point_name': '昭通市昭阳区马真良砂石料有限公司石灰岩矿山', 'produce': 5225.71, 'weight': 6353.06, 'price': 68814.77, 'device': [{'device_code': '0034003A5646500520373732', 'name': '', 'video': '', 'rate': 0, 'speed': 0, 'diff': 5225.71, 'weight': 0, 'online': 0}], 'video': [{'device_code': '', 'name': '马真良砂石料_1号_厂区内监控', 'video': '53060000411320003801_53060000411180000038', 'rate': 0, 'speed': 0, 'diff': 0, 'weight': 0, 'online': 1}, {'device_code': '', 'name': '马真良砂石料_2号_厂区内监控', 'video': '53060000411320003802_53060000411180000038', 'rate': 0, 'speed': 0, 'diff': 0, 'weight': 0, 'online': 1}]}, 'status': '', 'details': None, 'request_id': ''}

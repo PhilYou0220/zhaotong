@@ -1,0 +1,97 @@
+{
+  "uid" : "210d3ec892eaf172",
+  "name" : "税收监管--右侧电子联单",
+  "fullName" : "testcase_api.test_016_boss_tickets.TestBossTickets#test_boss_tickets_0",
+  "historyId" : "4d85683dd327070fd5a1dbc6734aa9cc",
+  "time" : {
+    "start" : 1668081381992,
+    "stop" : 1668081383144,
+    "duration" : 1152
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--右侧电子联单",
+      "time" : {
+        "start" : 1668081382003,
+        "stop" : 1668081383143,
+        "duration" : 1140
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "544c4ca89659f5dc",
+      "name" : "log",
+      "source" : "544c4ca89659f5dc.txt",
+      "type" : "text/plain",
+      "size" : 1371
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--右侧电子联单"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_016_boss_tickets"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossTickets"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_016_boss_tickets"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "210d3ec892eaf172.json",
+  "parameterValues" : [ ]
+}

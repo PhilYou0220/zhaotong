@@ -20,7 +20,7 @@ class TestMoatOrgFullTree:
 
     @allure.title("矿山数据统计--加工销售数据--销售量列表")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_moat_org_full_tree_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -31,7 +31,7 @@ class TestMoatOrgFullTree:
 
     @allure.title("矿山数据统计--加工销售数据统计列表筛选--销售量")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_moat_org_full_tree_1(cls):
         case_index = 1
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

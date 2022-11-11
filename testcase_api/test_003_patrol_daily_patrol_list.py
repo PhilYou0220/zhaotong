@@ -21,7 +21,7 @@ class TestPatrolDailyPatrolList:
 
     @allure.title("指挥中心左部日常巡检--市级")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_patrol_daily_patrol_list_0(cls):
         case_index = 0
         # my_request = AllApis()
@@ -33,7 +33,7 @@ class TestPatrolDailyPatrolList:
 
     @allure.title("指挥中心左部日常巡检区县")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_patrol_daily_patrol_list_1(cls):
         case_index = 1
         # my_request = AllApis()
@@ -45,7 +45,7 @@ class TestPatrolDailyPatrolList:
 
     @allure.title("指挥中心左部日常巡检镇街")
     @pytest.mark.api
-    @pytest.mark.run(order=3)
+    # @pytest.mark.run(order=3)
     def test_patrol_daily_patrol_list_2(cls):
         case_index = 2
         # my_request = AllApis()

@@ -1,0 +1,97 @@
+{
+  "uid" : "e7496564dbbebf39",
+  "name" : "驾驶舱矿区--基础信息(马真良)",
+  "fullName" : "testcase_api.test_011_boss_point_mine.TestBossPointMine#test_boss_point_mine_0",
+  "historyId" : "bf6028931aa507c9cd2c7fde741410ca",
+  "time" : {
+    "start" : 1668081372403,
+    "stop" : 1668081376351,
+    "duration" : 3948
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "驾驶舱矿区--基础信息(马真良)",
+      "time" : {
+        "start" : 1668081372411,
+        "stop" : 1668081376351,
+        "duration" : 3940
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "3b89896a744de3b0",
+      "name" : "log",
+      "source" : "3b89896a744de3b0.txt",
+      "type" : "text/plain",
+      "size" : 2155
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱矿区--基础信息"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_011_boss_point_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossPointMine"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_011_boss_point_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "e7496564dbbebf39.json",
+  "parameterValues" : [ ]
+}

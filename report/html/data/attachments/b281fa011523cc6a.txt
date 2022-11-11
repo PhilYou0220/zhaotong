@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/ticket
+ 请求参数: id=43265
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': {'id': 43265, 'number': '2022101701580037', 'car_num': '云C33019', 'company_name': '昭通得云建材有限责任公司', 'area_name': '北闸街道', 'goods_type': 1, 'goods_type_text': '建筑石料用灰岩', 'goods_id': 13, 'goods_name': '石灰岩', 'in_at': '2022-10-16T16:00:00Z', 'out_at': '2022-10-17T11:03:40Z', 'in_weight': 0, 'in_car_weight': 0, 'out_weight': 70.89, 'out_car_weight': 0, 'mine_name': '昭通市得云建材有限责任公司公鸡山采区', 'in_photo': '', 'in_goods_photo': '', 'out_photo': '', 'out_goods_photo': 'file/0/2022/1017/de0ffe6b-a838-4228-8527-60c82d36d1b5.jpg', 'price': 23, 'add_tax': 0, 'add_tax_price': 0, 'tax_type': 1, 'tax_rate': 0.06, 'tax_price': 97.8282, 'address': '', 'ticket_type': 1, 'user_price': 0, 'enabled_fee': 1, 'type': 2, 'ticket_status': 1}, 'status': '', 'details': None, 'request_id': ''}

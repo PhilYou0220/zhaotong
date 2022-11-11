@@ -1,0 +1,97 @@
+{
+  "uid" : "9c85bb03b269b21e",
+  "name" : "税收监管--识别能力",
+  "fullName" : "testcase_api.test_025_boss_point_tree.TestBossPointTree#test_boss_point_tree_0",
+  "historyId" : "2d18482487abacfab716ead82d5d6c9b",
+  "time" : {
+    "start" : 1668081406506,
+    "stop" : 1668081407192,
+    "duration" : 686
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--识别能力",
+      "time" : {
+        "start" : 1668081406519,
+        "stop" : 1668081407191,
+        "duration" : 672
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "a265fa2c3a09fc3c",
+      "name" : "log",
+      "source" : "a265fa2c3a09fc3c.txt",
+      "type" : "text/plain",
+      "size" : 2816
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--识别能力"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_025_boss_point_tree"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossPointTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_025_boss_point_tree"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "9c85bb03b269b21e.json",
+  "parameterValues" : [ ]
+}

@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/beacon/alert/statistics
- 请求参数: area_code=530622&created_ats%5B%5D=2022-10-07T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'name': '2022-10-08', 'value': 0, 'type': '告警数量'}, {'name': '2022-10-09', 'value': 0, 'type': '告警数量'}, {'name': '2022-10-10', 'value': 0, 'type': '告警数量'}, {'name': '2022-10-11', 'value': 0, 'type': '告警数量'}, {'name': '2022-10-12', 'value': 0, 'type': '告警数量'}, {'name': '2022-10-13', 'value': 0, 'type': '告警数量'}, {'name': '2022-10-14', 'value': 0, 'type': '告警数量'}], 'status': '', 'details': None, 'request_id': ''}

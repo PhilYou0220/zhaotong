@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/boss/car_inout_datas
- 请求参数: upload_ats%5B%5D=2022-10-17T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-10-18T15%3A59%3A59.999Z&page=1&limit=10&goods_type=1&goods_id=8&area_code=5306&keyword=%E6%BA%90%E7%9B%9B%E7%9F%BF%E4%B8%9A&status=2
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 141858, 'status': 2, 'status_text': '已提交', 'mine_name': '大关县源盛矿业有限责任公司', 'area_name': '天星镇', 'car_num': '云CB0012', 'goods_type': 1, 'goods_type_text': '建筑石料用灰岩', 'goods_id': 8, 'goods_name': '无法核实', 'upload_at': '2022-10-17T16:03:08Z', 'device_name': '', 'direction': 1, 'empty': 2, 'photo': 'file/0/2022/1018/675e1b97-504b-4c88-a306-1fd93729e798.jpg', 'goods_photo': 'file/0/2022/1018/3dace404-e4d8-4b07-a983-9a669acc6851.jpg', 'point_id': 150, 'weight': 0.04, 'confirm_weight': 0.04, 'avg_weight': 0, 'out': 1, 'cover': 2, 'ticket_id': 43272, 'type': 1}], 'page': {'page': 1, 'limit': 10, 'total': 1}, 'status': '', 'details': None, 'request_id': ''}

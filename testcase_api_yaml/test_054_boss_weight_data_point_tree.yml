@@ -2,7 +2,7 @@ boss_weight_data_point_tree:
   - title: "销售数据管理--联单审核树"
     url: /api/boss/weight_data/point_tree
     data: date=2022-10-18T10%3A28%3A13.420Z&status=1
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

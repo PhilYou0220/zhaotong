@@ -1,0 +1,7 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/belt_data/belt_summary_data
+ 请求参数: page=1&limit=10&area_code=5306&keyword=&summary_date%5B%5D=2022-10-22&summary_date%5B%5D=2022-10-28
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200

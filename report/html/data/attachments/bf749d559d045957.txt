@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/beacon/alert/detail
- 请求参数: id=13041
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': {'instance': {'name': '昭通市凯胜砂石料有限公司石灰岩矿', 'area': '小龙洞回族彝族乡', 'mine_type': 1, 'product_type': [1], 'phone': '', 'address': '云南省昭通市昭阳区小龙洞回族彝族乡跑马地', 'contract': '锁配凯', 'contract_phone': '13388706660', 'company': '昭通市凯胜砂石料有限公司'}, 'id': 13041, 'device_name': '*昭通市凯胜砂石料有限公司石灰岩矿-2号-全域球机', 'alert_type': 1, 'image': 'file/0/2022/0904/d40eb159-14bd-4b23-9483-26e073e95dbb.png', 'video': 'file/0/2022/0903/e8f81a6a-c95f-47e2-81c8-6da32ffb391d.mp4', 'extend_data': '', 'created_at': '2022-08-31T08:07:18+08:00', 'examine_userid': 12, 'examine_username': 'yjzy', 'examined_at': '2022-08-31T10:02:23+08:00', 'alert_deal': [{'step_name': '告警推送', 'data': [{'name': '推送时间', 'value': '2022-09-01T15:24:53+08:00'}, {'name': '推送部门', 'value': '市应急管理局'}, {'name': '推送职位', 'value': '副局长'}]}, {'step_name': '产生告警', 'data': [{'name': '告警时间', 'value': '2022-08-31T08:07:18+08:00'}, {'name': '告警类型', 'value': '堆场超高'}]}]}, 'status': '', 'details': None, 'request_id': ''}

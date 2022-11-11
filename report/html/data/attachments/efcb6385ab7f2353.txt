@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/emergcase/uploads
- 请求参数: page=1&limit=100&user_id=&fuzz_name=&status=0&bi=true&area_code=530621&times%5B%5D=2022-08-26T16%3A00%3A00.000Z&times%5B%5D=2022-08-27T15%3A59%3A59.999Z
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码:200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 58, 'event_name': '问题上报3', 'area_name': '龙头山', 'instance_name': '', 'upload_user_name': 'yjzy', 'org_dpt_name': '测试1,应急管理局,巧家县,市应急管理局,彝良县', 'status': 0, 'created_at': '2022-08-27T05:34:21Z', 'can_receipt': 0}], 'page': {'total': 1, 'page': 1, 'limit': 100}, 'status': '', 'details': None, 'request_id': ''}

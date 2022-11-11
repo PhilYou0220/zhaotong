@@ -21,7 +21,7 @@ class TestBeaconAlertDetail:
 
     @allure.title("指挥中心左部告警信息--详情")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_beacon_alert_detail_0(cls):
         case_index = 0
         # my_request = AllApis()

@@ -1,0 +1,97 @@
+{
+  "uid" : "37ff997bb6865078",
+  "name" : "矿山数据统计--加工销售数据--加工量导出",
+  "fullName" : "testcase_api.test_081_boss_belt_data_belt_summary_data_export.TestMoatOrgFullTree#test_moat_org_full_tree_0",
+  "historyId" : "28c753bb5eb19afa703afff7045f91cc",
+  "time" : {
+    "start" : 1668081446169,
+    "stop" : 1668081446729,
+    "duration" : 560
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "矿山数据统计--加工销售数据--加工量导出",
+      "time" : {
+        "start" : 1668081446180,
+        "stop" : 1668081446713,
+        "duration" : 533
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "3844cb561bb7f3e3",
+      "name" : "log",
+      "source" : "3844cb561bb7f3e3.txt",
+      "type" : "text/plain",
+      "size" : 30754
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "矿山数据统计--加工销售数据--加工量导出"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_081_boss_belt_data_belt_summary_data_export"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_081_boss_belt_data_belt_summary_data_export"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "37ff997bb6865078.json",
+  "parameterValues" : [ ]
+}

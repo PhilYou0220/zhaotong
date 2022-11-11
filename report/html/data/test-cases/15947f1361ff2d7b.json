@@ -1,0 +1,97 @@
+{
+  "uid" : "15947f1361ff2d7b",
+  "name" : "组织管理--部门与成员--职位详情",
+  "fullName" : "testcase_api.test_035_moat_org_position_details.TestMoatOrgPositionDetails#test_moat_org_position_details_0",
+  "historyId" : "c20e2f919f1b44e0da7816ad00695e12",
+  "time" : {
+    "start" : 1668081412625,
+    "stop" : 1668081412823,
+    "duration" : 198
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "组织管理--部门与成员--职位详情",
+      "time" : {
+        "start" : 1668081412628,
+        "stop" : 1668081412823,
+        "duration" : 195
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "b971adb95d5c7f91",
+      "name" : "log",
+      "source" : "b971adb95d5c7f91.txt",
+      "type" : "text/plain",
+      "size" : 381
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "组织管理--部门与成员--职位详情"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_035_moat_org_position_details"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgPositionDetails"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_035_moat_org_position_details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "15947f1361ff2d7b.json",
+  "parameterValues" : [ ]
+}

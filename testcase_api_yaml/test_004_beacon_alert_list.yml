@@ -3,7 +3,7 @@ beacon_alert_list:
     url: /api/beacon/alert/list
     # 重点参数area_code、scene
     data: page=1&limit=999999&alert_types%5B%5D=1&alert_types%5B%5D=2&alert_types%5B%5D=3&alert_types%5B%5D=5&scene=1&area_code=5306&created_ats%5B%5D=2022-08-30T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-31T15%3A59%3A59.999Z
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -12,7 +12,7 @@ beacon_alert_list:
     url: /api/beacon/alert/list
     # 重点参数area_code、scene
     data: page=1&limit=999999&alert_types%5B%5D=1&alert_types%5B%5D=2&alert_types%5B%5D=3&alert_types%5B%5D=5&scene=1&area_code=530602&created_ats%5B%5D=2022-08-30T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-31T15%3A59%3A59.999Z
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -21,7 +21,7 @@ beacon_alert_list:
     url: /api/beacon/alert/list
     # 重点参数area_code、scene
     data: page=1&limit=999999&alert_types%5B%5D=1&alert_types%5B%5D=2&alert_types%5B%5D=3&alert_types%5B%5D=5&scene=1&area_code=530602205&created_ats%5B%5D=2022-08-30T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-31T15%3A59%3A59.999Z
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -30,7 +30,7 @@ beacon_alert_list:
     url: /api/beacon/alert/list
     # 重点参数area_code、scene
     data: page=1&limit=999999&alert_types%5B%5D=1&alert_types%5B%5D=2&alert_types%5B%5D=3&alert_types%5B%5D=5&scene=2&area_code=5306&created_ats%5B%5D=2022-08-30T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-31T15%3A59%3A59.999Z
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -39,7 +39,7 @@ beacon_alert_list:
     url: /api/beacon/alert/list
     # 重点参数area_code、scene
     data: page=1&limit=999999&alert_types%5B%5D=1&alert_types%5B%5D=2&alert_types%5B%5D=3&alert_types%5B%5D=5&scene=2&area_code=530602&created_ats%5B%5D=2022-08-30T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-31T15%3A59%3A59.999Z
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -48,7 +48,7 @@ beacon_alert_list:
     url: /api/beacon/alert/list
     # 重点参数area_code、scene
     data: page=1&limit=999999&alert_types%5B%5D=1&alert_types%5B%5D=2&alert_types%5B%5D=3&alert_types%5B%5D=5&scene=2&area_code=530602205&created_ats%5B%5D=2022-08-30T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-31T15%3A59%3A59.999Z
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -57,7 +57,7 @@ beacon_alert_list:
     url: /api/beacon/alert/list
     # 重点参数area_code、scene
     data: created_ats%5B%5D=2022-10-13T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-14T15%3A20%3A56.961Z&page=1&limit=10&keyword=%E6%9D%8E%E9%BE%99%E4%BA%91&area_code=530602&alert_type=&deal_status=1&instance_id=0&instance_name=
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

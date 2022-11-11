@@ -1,0 +1,97 @@
+{
+  "uid" : "9c3030c6e50e4824",
+  "name" : "矿山数据统计--加工销售数据统计列表筛选--销售量",
+  "fullName" : "testcase_api.test_082_boss_car_inout_data_weight_summary_data.TestMoatOrgFullTree#test_moat_org_full_tree_1",
+  "historyId" : "5d179c62d90b4f48fbf4cea2ba210ff2",
+  "time" : {
+    "start" : 1668081447250,
+    "stop" : 1668081447483,
+    "duration" : 233
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "矿山数据统计--加工销售数据统计列表筛选--销售量",
+      "time" : {
+        "start" : 1668081447254,
+        "stop" : 1668081447482,
+        "duration" : 228
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "226a6e3d45167cba",
+      "name" : "log",
+      "source" : "226a6e3d45167cba.txt",
+      "type" : "text/plain",
+      "size" : 3496
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "矿山数据统计--加工销售数据--销售量列表"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_082_boss_car_inout_data_weight_summary_data"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_082_boss_car_inout_data_weight_summary_data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "9c3030c6e50e4824.json",
+  "parameterValues" : [ ]
+}

@@ -3,7 +3,7 @@ mib_out_of_control:
     url: /api/mib/out_of_control
     # 重点参数area_code
     data: page=1&limit=1000&name=&area_code=5306&green=2
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -12,7 +12,7 @@ mib_out_of_control:
     url: /api/mib/out_of_control
     # 重点参数area_code
     data: page=1&limit=1000&name=&area_code=530622&green=2
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -21,7 +21,7 @@ mib_out_of_control:
     url: /api/mib/out_of_control
     # 重点参数area_code
     data: page=1&limit=1000&name=&area_code=530622100&green=2
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

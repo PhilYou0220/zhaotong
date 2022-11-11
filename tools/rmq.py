@@ -49,11 +49,11 @@ class RMQProducer:
         return url, data, expect_return_data,username
 
 
-rmq_iot_test = RMQProducer(username="root", password="nA0!kL1iX0.fF8xB5&sF9uZ7wY3", host="47.108.233.145", port=5673)
-rmq_iot_product = RMQProducer(username="root", password="nA0!kL1iX0.fF8xB5&sF9uZ7wY3", host="47.108.233.145", port=5672)
-rmq_business_test = RMQProducer(username="epuser", password="epuser@123", host="106.75.154.221", port=5672)
-rmq_business_product = RMQProducer(username="epuser", password="epuser@123-New", host="http://221.237.182.170/",
-                                   port=5672)
+# rmq_iot_test = RMQProducer(username="root", password="nA0!kL1iX0.fF8xB5&sF9uZ7wY3", host="47.108.233.145", port=5673)
+# rmq_iot_product = RMQProducer(username="root", password="nA0!kL1iX0.fF8xB5&sF9uZ7wY3", host="47.108.233.145", port=5672)
+# rmq_business_test = RMQProducer(username="epuser", password="epuser@123", host="106.75.154.221", port=5672)
+# rmq_business_product = RMQProducer(username="epuser", password="epuser@123-New", host="http://221.237.182.170/",
+#                                    port=5672)
 if __name__ == '__main__':
     # rmq_iot_test.mq_use()
     pass

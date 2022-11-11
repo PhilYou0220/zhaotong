@@ -20,7 +20,7 @@ class TestMoatOrgFullChildTree:
 
     @allure.title("组织管理--部门与成员--所有部门")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_moat_org_full_child_tree_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

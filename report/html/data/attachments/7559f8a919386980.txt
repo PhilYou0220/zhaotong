@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/beacon/alert/list
- 请求参数: page=1&limit=999999&alert_types%5B%5D=1&alert_types%5B%5D=2&alert_types%5B%5D=3&alert_types%5B%5D=5&scene=1&area_code=5306&created_ats%5B%5D=2022-08-30T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-31T15%3A59%3A59.999Z
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 13041, 'deal_status': 3, 'instance_id': 102, 'instance_name': '昭通市凯胜砂石料有限公司石灰岩矿', 'device_name': '*昭通市凯胜砂石料有限公司石灰岩矿-2号-全域球机', 'image': 'file/0/2022/0904/d40eb159-14bd-4b23-9483-26e073e95dbb.png', 'video': '', 'area': '小龙洞回族彝族乡', 'alert_type': 1, 'dealt_at': '0001-01-01T00:00:00Z', 'created_at': '2022-08-31T08:07:18+08:00', 'examine_userid': 12, 'examine_username': 'yjzy', 'examined_at': '2022-08-31T10:02:23+08:00'}], 'page': {'page': 1, 'limit': 999999, 'total': 1}, 'status': '', 'details': None, 'request_id': ''}

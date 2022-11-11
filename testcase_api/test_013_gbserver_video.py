@@ -21,7 +21,7 @@ class TestGbserverVideo:
 
     @allure.title("驾驶舱矿区实景--播放视频")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_gbserver_video_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

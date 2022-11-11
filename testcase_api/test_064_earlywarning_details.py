@@ -15,12 +15,12 @@ filename = os.path.join(CASEYAML, "test_064_earlywarning_details.yml")
 api_name = "earlywarning_details"
 
 
-@allure.epic("告警中心--告警管理--告警类型")
+@allure.epic("告警管理--预警中心--详情")
 class TestMoatOrgFullTree:
 
-    @allure.title("告警中心--告警管理--告警类型")
+    @allure.title("告警管理--预警中心--详情")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_moat_org_full_tree_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

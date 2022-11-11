@@ -2,7 +2,7 @@ boss_belt_data_belt_by_point:
   - title: "销售数据管理--联单审核--加工量--某个实际的矿区的皮带设备"
     url: /api/boss/belt_data/belt_by_point
     data: point_id=158
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -1,0 +1,97 @@
+{
+  "uid" : "eab8836879c9109d",
+  "name" : "指挥中心左部日常巡检--市级",
+  "fullName" : "testcase_api.test_003_patrol_daily_patrol_list.TestPatrolDailyPatrolList#test_patrol_daily_patrol_list_0",
+  "historyId" : "c80184adf01634f4c2a89cea1df988da",
+  "time" : {
+    "start" : 1668081229653,
+    "stop" : 1668081229837,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心左部日常巡检--市级",
+      "time" : {
+        "start" : 1668081229658,
+        "stop" : 1668081229837,
+        "duration" : 179
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "3a42d463cd467a08",
+      "name" : "log",
+      "source" : "3a42d463cd467a08.txt",
+      "type" : "text/plain",
+      "size" : 1491
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心左部日常巡检"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_003_patrol_daily_patrol_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPatrolDailyPatrolList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_003_patrol_daily_patrol_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "eab8836879c9109d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,97 @@
+{
+  "uid" : "62e51cff7734bdc2",
+  "name" : "指挥中心中部地图数据--市级",
+  "fullName" : "testcase_api.test_002_horn_district_statistics.TestHornDistrictStatistics#test_horn_district_statistics_0",
+  "historyId" : "5c803e3621c94ca46bb8ddc3813f9d4e",
+  "time" : {
+    "start" : 1668081226093,
+    "stop" : 1668081227884,
+    "duration" : 1791
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心地图中部数据--市级",
+      "time" : {
+        "start" : 1668081226098,
+        "stop" : 1668081227833,
+        "duration" : 1735
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "b5acd884ed6e5d49",
+      "name" : "log",
+      "source" : "b5acd884ed6e5d49.txt",
+      "type" : "text/plain",
+      "size" : 695814
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心中部地图数据"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_002_horn_district_statistics"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHornDistrictStatistics"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_002_horn_district_statistics"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "62e51cff7734bdc2.json",
+  "parameterValues" : [ ]
+}

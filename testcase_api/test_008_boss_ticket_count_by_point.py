@@ -21,7 +21,7 @@ class TestBossTicketCountByPoint:
 
     @allure.title("指挥中心顶部数据销售量详情--市级")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_boss_ticket_count_by_point_0(cls):
         case_index = 0
         # my_request = AllApis()
@@ -33,7 +33,7 @@ class TestBossTicketCountByPoint:
 
     @allure.title("指挥中心顶部数据销售量详情--区县")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_boss_ticket_count_by_point_1(cls):
         case_index = 1
         # my_request = AllApis()
@@ -45,7 +45,7 @@ class TestBossTicketCountByPoint:
 
     @allure.title("指挥中心顶部数据销售量详情--镇街")
     @pytest.mark.api
-    @pytest.mark.run(order=3)
+    # @pytest.mark.run(order=3)
     def test_boss_ticket_count_by_point_2(cls):
         case_index = 2
         # my_request = AllApis()
@@ -57,7 +57,7 @@ class TestBossTicketCountByPoint:
 
     @allure.title("税收监管今年累计销售量列表--市级")
     @pytest.mark.api
-    @pytest.mark.run(order=4)
+    # @pytest.mark.run(order=4)
     def test_boss_ticket_count_by_point_3(cls):
         case_index = 3
         # my_request = AllApis()
@@ -69,7 +69,7 @@ class TestBossTicketCountByPoint:
 
     @allure.title("税收监管今年累计销售量列表--区县")
     @pytest.mark.api
-    @pytest.mark.run(order=5)
+    # @pytest.mark.run(order=5)
     def test_boss_ticket_count_by_point_4(cls):
         case_index = 4
         # my_request = AllApis()
@@ -81,7 +81,7 @@ class TestBossTicketCountByPoint:
 
     @allure.title("税收监管今年累计销售量列表--镇街")
     @pytest.mark.api
-    @pytest.mark.run(order=6)
+    # @pytest.mark.run(order=6)
     def test_boss_ticket_count_by_point_5(cls):
         case_index = 5
         # my_request = AllApis()

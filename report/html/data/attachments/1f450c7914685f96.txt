@@ -1,0 +1,7 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/gbserver/tree
+ 请求参数: keyword=&name=&area_code=&type=
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200

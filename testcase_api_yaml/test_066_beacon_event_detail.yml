@@ -2,7 +2,7 @@ beacon_event_detail:
   - title: "告警管理--事件审核--列表"
     url: /api/beacon/event/detail
     data: id=91542
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

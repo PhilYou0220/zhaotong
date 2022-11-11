@@ -1,0 +1,97 @@
+{
+  "uid" : "f4c04c0de0aac198",
+  "name" : "驾驶舱矿区实景--销售量",
+  "fullName" : "testcase_api.test_014_boss_devices.TestBossDevices#test_boss_devices_1",
+  "historyId" : "12bf9ea7ee924d836ed3346abfa55bff",
+  "time" : {
+    "start" : 1668081378514,
+    "stop" : 1668081379151,
+    "duration" : 637
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "驾驶舱矿区实景--销售量",
+      "time" : {
+        "start" : 1668081378519,
+        "stop" : 1668081379151,
+        "duration" : 632
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "fb6e75629ab2b315",
+      "name" : "log",
+      "source" : "fb6e75629ab2b315.txt",
+      "type" : "text/plain",
+      "size" : 1732
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱矿区实景--加工量"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_014_boss_devices"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossDevices"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_014_boss_devices"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "f4c04c0de0aac198.json",
+  "parameterValues" : [ ]
+}

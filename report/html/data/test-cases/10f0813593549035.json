@@ -1,0 +1,97 @@
+{
+  "uid" : "10f0813593549035",
+  "name" : "销售数据管理--某个实际的矿区审核数据",
+  "fullName" : "testcase_api.test_056_boss_weight_data_timeline.TestMoatOrgFullTree#test_moat_org_full_tree_0",
+  "historyId" : "a3000b6ec724e57ffbc54015d2a3d8b0",
+  "time" : {
+    "start" : 1668081424188,
+    "stop" : 1668081427742,
+    "duration" : 3554
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "销售数据管理--联单审核--某个实际的矿区审核数据",
+      "time" : {
+        "start" : 1668081424192,
+        "stop" : 1668081427741,
+        "duration" : 3549
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "e454b4dd12a0bbcc",
+      "name" : "log",
+      "source" : "e454b4dd12a0bbcc.txt",
+      "type" : "text/plain",
+      "size" : 274
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "销售数据管理--某个实际的矿区审核数据"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_056_boss_weight_data_timeline"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_056_boss_weight_data_timeline"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "10f0813593549035.json",
+  "parameterValues" : [ ]
+}

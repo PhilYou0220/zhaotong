@@ -21,7 +21,7 @@ class TestGbserverDevice:
 
     @allure.title("驾驶舱矿区实景--全部监控(马真良为例)")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_gbserver_device_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -32,7 +32,7 @@ class TestGbserverDevice:
 
     @allure.title("驾驶舱矿区实景--全域监管监控(马真良为例)")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_gbserver_device_1(cls):
         case_index = 1
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -43,7 +43,7 @@ class TestGbserverDevice:
 
     @allure.title("驾驶舱矿区实景--进出口监控(马真良为例)")
     @pytest.mark.api
-    @pytest.mark.run(order=3)
+    # @pytest.mark.run(order=3)
     def test_gbserver_device_2(cls):
         case_index = 2
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -54,7 +54,7 @@ class TestGbserverDevice:
 
     @allure.title("驾驶舱矿区实景--加工区监控(马真良为例)")
     @pytest.mark.api
-    @pytest.mark.run(order=4)
+    # @pytest.mark.run(order=4)
     def test_gbserver_device_3(cls):
         case_index = 3
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -65,7 +65,7 @@ class TestGbserverDevice:
 
     @allure.title("驾驶舱矿区实景--破碎机(马真良为例)")
     @pytest.mark.api
-    @pytest.mark.run(order=5)
+    # @pytest.mark.run(order=5)
     def test_gbserver_device_4(cls):
         case_index = 4
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

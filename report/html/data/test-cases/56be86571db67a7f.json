@@ -1,0 +1,97 @@
+{
+  "uid" : "56be86571db67a7f",
+  "name" : "税收监管--矿区选择--市级",
+  "fullName" : "testcase_api.test_020_boss_point_select.TestBossPointSelect#test_boss_point_select_0",
+  "historyId" : "04274af58cfaaa6a4a413ab13df303c2",
+  "time" : {
+    "start" : 1668081389234,
+    "stop" : 1668081389478,
+    "duration" : 244
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--矿区选择--市级",
+      "time" : {
+        "start" : 1668081389271,
+        "stop" : 1668081389471,
+        "duration" : 200
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "57d169f7adcbc834",
+      "name" : "log",
+      "source" : "57d169f7adcbc834.txt",
+      "type" : "text/plain",
+      "size" : 12988
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--矿区选择"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_020_boss_point_select"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossPointSelect"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_020_boss_point_select"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "56be86571db67a7f.json",
+  "parameterValues" : [ ]
+}

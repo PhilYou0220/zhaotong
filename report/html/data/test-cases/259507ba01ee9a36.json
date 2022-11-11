@@ -1,0 +1,97 @@
+{
+  "uid" : "259507ba01ee9a36",
+  "name" : "税收监管--矿产加工销售占比--区县",
+  "fullName" : "testcase_api.test_023_boss_ticket_produce_sale_rate.TestBossTicketProduceSaleRate#test_boss_ticket_tax_by_time_1",
+  "historyId" : "54c556a72fa7528aafafdab83f700495",
+  "time" : {
+    "start" : 1668081404255,
+    "stop" : 1668081404659,
+    "duration" : 404
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--矿产加工销售占比--区县",
+      "time" : {
+        "start" : 1668081404260,
+        "stop" : 1668081404658,
+        "duration" : 398
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "7c811db64dac1b73",
+      "name" : "log",
+      "source" : "7c811db64dac1b73.txt",
+      "type" : "text/plain",
+      "size" : 541
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--矿产加工销售占比"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_023_boss_ticket_produce_sale_rate"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossTicketProduceSaleRate"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_023_boss_ticket_produce_sale_rate"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "259507ba01ee9a36.json",
+  "parameterValues" : [ ]
+}

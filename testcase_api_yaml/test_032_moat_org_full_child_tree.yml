@@ -2,7 +2,7 @@ moat_org_full_child_tree:
   - title: "组织管理--部门与成员--所有部门"
     url: /api/moat/org/full/child/tree
     data: org_id=114
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

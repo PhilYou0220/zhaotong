@@ -3,7 +3,7 @@ beacon_alert_count_by_type:
     url: /api/beacon/alert/count_by_type
     # 重点参数scene
     data: area_code=5306&created_ats%5B%5D=2022-10-12T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-13T15%3A59%3A59.999Z&scene=1
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -12,7 +12,7 @@ beacon_alert_count_by_type:
     url: /api/beacon/alert/count_by_type
     # 重点参数scene
     data: area_code=530622&created_ats%5B%5D=2022-10-12T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-13T15%3A59%3A59.999Z&scene=1
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -21,7 +21,7 @@ beacon_alert_count_by_type:
     url: /api/beacon/alert/count_by_type
     # 重点参数scene
     data: area_code=530622100&created_ats%5B%5D=2022-10-12T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-13T15%3A59%3A59.999Z&scene=1
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -30,7 +30,7 @@ beacon_alert_count_by_type:
     url: /api/beacon/alert/count_by_type
     # 重点参数scene
     data: area_code=5306&created_ats%5B%5D=2022-10-12T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-13T15%3A59%3A59.999Z&scene=2
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -39,7 +39,7 @@ beacon_alert_count_by_type:
     url: /api/beacon/alert/count_by_type
     # 重点参数scene
     data: area_code=530622&created_ats%5B%5D=2022-10-12T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-13T15%3A59%3A59.999Z&scene=2
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -48,7 +48,7 @@ beacon_alert_count_by_type:
     url: /api/beacon/alert/count_by_type
     # 重点参数scene
     data: area_code=530622100&created_ats%5B%5D=2022-10-12T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-13T15%3A59%3A59.999Z&scene=2
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -57,7 +57,7 @@ beacon_alert_count_by_type:
     url: /api/beacon/alert/count_by_type
     # 重点参数scene、area_code
     data: instance_id=104&created_ats%5B%5D=2022-10-12T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-13T15%3A59%3A59.999Z&scene=1
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -66,7 +66,7 @@ beacon_alert_count_by_type:
     url: /api/beacon/alert/count_by_type
     # 重点参数scene、area_code
     data: area_code=530602205&instance_id=104&created_ats%5B%5D=2022-10-12T16%3A00%3A00.000Z&created_ats%5B%5D=2022-10-13T15%3A59%3A59.999Z&scene=2
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

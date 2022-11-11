@@ -2,7 +2,7 @@ boss_ticket:
   - title: "矿山数据统计--销售数据--产品名称"
     url: /api/boss/ticket
     data: id=43265
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

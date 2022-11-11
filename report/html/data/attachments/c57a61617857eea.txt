@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/earlywarning/details
+ 请求参数: id=1&page=1&limit=10&keyword=&area_code=&alarm_type=0&deal_type=0
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 1, 'push_people': '周杰', 'phone': '18900000901', 'department_position': 'B部门/A职位', 'area': '昭通市', 'status': '已处置'}, {'id': 2, 'push_people': '李娟', 'phone': '18900000906', 'department_position': 'C部门/B职位', 'area': '昭通市', 'status': '待处置'}, {'id': 3, 'push_people': '李佳', 'phone': '18900000908', 'department_position': 'A部门/C职位', 'area': '昭通市', 'status': '已被其他人处置'}], 'status': '', 'details': None, 'request_id': ''}

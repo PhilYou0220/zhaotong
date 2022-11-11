@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/mib/out_of_control
+ 请求参数: page=1&limit=1000&name=&area_code=530622&green=2
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 20, 'name': '巧家县尖山采石场', 'reason': '设备离线', 'offline_dev': '摄像头'}, {'id': 156, 'name': '巧家县东坪镇采石场', 'reason': '设备离线', 'offline_dev': ''}, {'id': 19, 'name': '云南昊龙实业集团巧家白鹤滩建材有限公司黄泥坡石灰岩矿', 'reason': '设备离线', 'offline_dev': ''}, {'id': 21, 'name': '巧家县茂租铅锌有限公司茂租铅锌矿', 'reason': '设备离线', 'offline_dev': ''}, {'id': 23, 'name': '云南昊龙实业集团有限公司大龙井小河铅锌矿', 'reason': '设备离线', 'offline_dev': '路由器'}, {'id': 22, 'name': '巧家县坪地矿业开发有限责任公司坪地铅锌矿', 'reason': '设备离线', 'offline_dev': '路由器'}], 'page': {'total': 6, 'page': 1, 'limit': 1000}, 'status': '', 'details': None, 'request_id': ''}

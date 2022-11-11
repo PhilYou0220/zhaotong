@@ -3,7 +3,7 @@ emerg_weather_warn_list:
     url: /api/emerg/weather_warn/list
     # 重点参数area_code
     data: ""
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -2,7 +2,7 @@ iot_zengshi_brake_page:
   - title: "告警管理--事件审核--列表"
     url: /api/iot/zengshi/brake/page
     data: page=1&limit=10&approval_status=0
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -10,7 +10,7 @@ iot_zengshi_brake_page:
   - title: "告警管理--事件审核--列表加参数"
     url: /api/iot/zengshi/brake/page
     data: page=1&limit=10&approval_status=2
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

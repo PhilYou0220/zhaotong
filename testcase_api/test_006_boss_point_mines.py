@@ -20,7 +20,7 @@ class TestBossPointMines:
 
     @allure.title("指挥中心顶部视频/数据接入/今日作业--详情")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_boss_point_mines_0(cls):
         case_index = 0
         # my_request = AllApis()
@@ -28,11 +28,13 @@ class TestBossPointMines:
             filename=filename, api_name=api_name, case_index=case_index)
         check.equal(status_code, real_status_code, f"预期和实际不一致 预期状态码{status_code}和实际状态码{real_status_code}")
         log.debug(
-            f" \n url:{url}\n 请求参数: {data}\n 账号：{username}\n 密码：{password}\n 预期状态码：{status_code}\n 实际返回状态码: {real_status_code}\n 实际返回值: {dict_return_data}\n ")
+            f" \n url:{url}\n 请求参数: {data}\n 账号：{username}\n 密码：{password}\n 预期状态码：{status_code}\n 实际返回状态码: {real_status_code}\n "
+            # f"实际返回值: {dict_return_data}\n "
+        )
 
     @allure.title("企业管理--矿区管理--矿区列表")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_boss_point_mines_1(cls):
         case_index = 1
         # my_request = AllApis()

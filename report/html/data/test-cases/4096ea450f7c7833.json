@@ -1,0 +1,97 @@
+{
+  "uid" : "4096ea450f7c7833",
+  "name" : "驾驶舱矿区实景--全部监控(马真良为例)",
+  "fullName" : "testcase_api.test_012_gbserver_device.TestGbserverDevice#test_gbserver_device_0",
+  "historyId" : "54ecae3ddc67b337412d3b784aadb990",
+  "time" : {
+    "start" : 1668081376354,
+    "stop" : 1668081376577,
+    "duration" : 223
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "驾驶舱矿区实景--全部监控(马真良为例)",
+      "time" : {
+        "start" : 1668081376365,
+        "stop" : 1668081376576,
+        "duration" : 211
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "e06ca386d5523dc3",
+      "name" : "log",
+      "source" : "e06ca386d5523dc3.txt",
+      "type" : "text/plain",
+      "size" : 2504
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱矿区实景--监控"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_012_gbserver_device"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGbserverDevice"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_012_gbserver_device"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "4096ea450f7c7833.json",
+  "parameterValues" : [ ]
+}

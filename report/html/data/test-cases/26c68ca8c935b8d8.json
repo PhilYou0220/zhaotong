@@ -1,0 +1,97 @@
+{
+  "uid" : "26c68ca8c935b8d8",
+  "name" : "税收监管--某个具体的矿区告警分类",
+  "fullName" : "testcase_api.test_015_beacon_alert_count_by_type.TestBeaconAlertCountByType#test_beacon_alert_count_by_type_7",
+  "historyId" : "6611d8346a512245fdf6f77cd9831dfa",
+  "time" : {
+    "start" : 1668081381640,
+    "stop" : 1668081381991,
+    "duration" : 351
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--某个具体的矿区告警分类",
+      "time" : {
+        "start" : 1668081381648,
+        "stop" : 1668081381991,
+        "duration" : 343
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "20c83c08c39ada8d",
+      "name" : "log",
+      "source" : "20c83c08c39ada8d.txt",
+      "type" : "text/plain",
+      "size" : 692
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "驾驶舱告警分类"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_015_beacon_alert_count_by_type"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBeaconAlertCountByType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_015_beacon_alert_count_by_type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "26c68ca8c935b8d8.json",
+  "parameterValues" : [ ]
+}

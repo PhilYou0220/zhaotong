@@ -1,0 +1,97 @@
+{
+  "uid" : "aa6e969223a8f10a",
+  "name" : "销售数据管理--加工量--点击审核旗帜",
+  "fullName" : "testcase_api.test_061_bda_detail.TestMoatOrgFullTree#test_moat_org_full_tree_0",
+  "historyId" : "44b9a2320b2ee7aecf5ddd61764c1180",
+  "time" : {
+    "start" : 1668081433238,
+    "stop" : 1668081433502,
+    "duration" : 264
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "销售数据管理--联单审核--加工量--点击审核旗帜",
+      "time" : {
+        "start" : 1668081433241,
+        "stop" : 1668081433501,
+        "duration" : 260
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "fc138d9651fdb36d",
+      "name" : "log",
+      "source" : "fc138d9651fdb36d.txt",
+      "type" : "text/plain",
+      "size" : 2074
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "销售数据管理--加工量--点击审核旗帜"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_061_bda_detail"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_061_bda_detail"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "aa6e969223a8f10a.json",
+  "parameterValues" : [ ]
+}

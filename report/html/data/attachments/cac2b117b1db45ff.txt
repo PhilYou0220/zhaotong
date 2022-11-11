@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/bi/board/list
- 请求参数: type=app
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 500
- 实际返回值: {'code': 500, 'message': 'connection error: desc = "transport: Error while dialing dial tcp: lookup bi-zt on 127.0.0.11:53: server misbehaving"', 'data': None, 'status': 'Unavailable', 'details': None, 'request_id': ''}

@@ -1,0 +1,97 @@
+{
+  "uid" : "4a0495850f06a61f",
+  "name" : "税收监管--产矿销售种类占比--区县",
+  "fullName" : "testcase_api.test_024_boss_ticket_weight_by_goods.TestBossTicketWeightByGoods#test_boss_ticket_weight_by_goods_1",
+  "historyId" : "5c8dfe56fe016cf1acb397fe9efbf164",
+  "time" : {
+    "start" : 1668081405749,
+    "stop" : 1668081406134,
+    "duration" : 385
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--产矿销售种类占比--区县",
+      "time" : {
+        "start" : 1668081405754,
+        "stop" : 1668081406133,
+        "duration" : 379
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "e444ad535ddccae4",
+      "name" : "log",
+      "source" : "e444ad535ddccae4.txt",
+      "type" : "text/plain",
+      "size" : 451
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--产矿销售种类占比"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_024_boss_ticket_weight_by_goods"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossTicketWeightByGoods"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_024_boss_ticket_weight_by_goods"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "4a0495850f06a61f.json",
+  "parameterValues" : [ ]
+}

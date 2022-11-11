@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/boss/belt_data
- 请求参数: id=3573706
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': {'id': 3573706, 'product_at': '2022-10-16T16:42:03.675Z', 'weight': 91.5, 'type': 1, 'type_text': '', 'company_name': '云南昊龙实业集团乐红铅锌采选有限公司', 'company_area_name': '鲁甸', 'company_address': '鲁甸县乐红乡乐红村', 'company_phone': '', 'company_contact': '江国文', 'company_contact_phone': '13578005732', 'point_name': '云南昊龙实业集团有限公司乐红铅锌矿二分厂', 'point_area_name': '乐红', 'point_address': '云南省昭通市鲁甸县乐红镇乐红选厂2车间', 'point_phone': '', 'point_contact': '', 'point_contact_phone': '', 'point_type_text': '铅锌矿'}, 'status': '', 'details': None, 'request_id': ''}

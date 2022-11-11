@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/moat/role/general
+ 请求参数: 
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 28, 'name': '运营人员'}, {'id': 29, 'name': '区县应急管理局局长'}, {'id': 30, 'name': '市应急管理局局长'}, {'id': 31, 'name': '行政经理'}, {'id': 32, 'name': '开单员'}, {'id': 33, 'name': 'test_区县管理员'}, {'id': 34, 'name': '矿企管理员'}, {'id': 35, 'name': '公司运维'}, {'id': 36, 'name': '外部运维'}, {'id': 37, 'name': '超级管理员'}], 'status': '', 'details': None, 'request_id': ''}

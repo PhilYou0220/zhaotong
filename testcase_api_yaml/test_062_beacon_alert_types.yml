@@ -2,7 +2,7 @@ beacon_alert_types:
   - title: "告警中心--告警管理--告警类型"
     url: /api/beacon/alert/types
     data: ""
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

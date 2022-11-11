@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/gbserver/device
+ 请求参数: page=1&limit=10&online=0&instance_id=104&cam_type=4
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'gb_id': '53060000411320003803_53060000411180000038', 'name': '马真良砂石料_1号_破碎机监控', 'parent_id': '53060000411180000038', 'online': 1, 'lat': 27.361694, 'lng': 103.811382, 'ptz_type': 3}, {'gb_id': '53060000411320003804_53060000411180000038', 'name': '马真良砂石料_2号_破碎机监控', 'parent_id': '53060000411180000038', 'online': 1, 'lat': 27.361434, 'lng': 103.811344, 'ptz_type': 3}], 'page': {'total': 2, 'page': 1, 'limit': 10}, 'status': '', 'details': None, 'request_id': ''}

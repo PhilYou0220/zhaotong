@@ -2,7 +2,7 @@ boss_belt_data:
   - title: "矿山数据统计--生产数据--详情"
     url: /api/boss/belt_data
     data: id=3573706
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

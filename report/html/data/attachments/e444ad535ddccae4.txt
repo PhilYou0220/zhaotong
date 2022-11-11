@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/ticket/weight_by_goods
+ 请求参数: area_code=530622&out_ats%5B%5D=2022-10-07T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'type': '原料', 'value': 143.26, 'percent': 1}], 'status': '', 'details': None, 'request_id': ''}

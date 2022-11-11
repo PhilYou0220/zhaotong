@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/moat/role/details
- 请求参数: id=28
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': {'id': 28, 'name': '运营人员'}, 'status': '', 'details': None, 'request_id': ''}

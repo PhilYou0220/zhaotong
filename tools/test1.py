@@ -284,5 +284,5 @@
 # print(my_list)
 
 a = b"\x88\x82\xbdn\x15\xf5\xbe\x86"
-b = a.decode("utf-8")
+b = a.decode("utf8")
 print(b)

@@ -2,7 +2,7 @@ moat_role_permission:
   - title: "组织管理--角色管理--权限树"
     url: /api/moat/role/permission
     data: role_id=28
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -1,0 +1,97 @@
+{
+  "uid" : "eeb38f0df770b208",
+  "name" : "税收监管左部告警信息--区县",
+  "fullName" : "testcase_api.test_004_beacon_alert_list.TestBeaconAlertList#test_beacon_alert_list_4",
+  "historyId" : "26c94093b7b3c639df4c15040836df47",
+  "time" : {
+    "start" : 1668081233655,
+    "stop" : 1668081234397,
+    "duration" : 742
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管左部告警信息--区县(昭阳)",
+      "time" : {
+        "start" : 1668081233663,
+        "stop" : 1668081234387,
+        "duration" : 724
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "35e613214f380b0",
+      "name" : "log",
+      "source" : "35e613214f380b0.txt",
+      "type" : "text/plain",
+      "size" : 55165
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心左部告警信息"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_004_beacon_alert_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBeaconAlertList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_004_beacon_alert_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "eeb38f0df770b208.json",
+  "parameterValues" : [ ]
+}

@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/boss/ticket/top_count
- 请求参数: area_code=530622&out_ats%5B%5D=2022-10-13T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'code': 'point', 'name': '视频接入', 'value': 6, 'value1': 5, 'value2': 3, 'unit': '家', 'data': [{'name': '视频接入', 'value': 6}, {'name': '经营异常', 'value': 5}, {'name': '数据接入', 'value': 3}, {'name': '今日作业', 'value': 2}], 'ids': ['19,20,21,23,24,156', '19,21,23,24,156', '21,19,156', '20,22'], 'value3': 2, 'title': ''}, {'code': 'produce', 'name': '加工量', 'value': 659.26, 'value1': 0, 'value2': 0, 'unit': '吨', 'data': [], 'ids': [], 'value3': 0, 'title': '从10月14日到10月14日'}, {'code': 'weight_pre', 'name': '今年累计加工量', 'value': 328810.41, 'value1': 0, 'value2': 0, 'unit': '吨', 'data': [], 'ids': [], 'value3': 0, 'title': '从08月18日到今日'}, {'code': 'weight', 'name': '销售量', 'value': 0, 'value1': 0, 'value2': 0, 'unit': '吨', 'data': [], 'ids': [], 'value3': 0, 'title': '从10月14日到10月14日'}, {'code': 'tax_pre', 'name': '今年累计销售量', 'value': 42586.15, 'value1': 0, 'value2': 0, 'unit': '吨', 'data': [], 'ids': [], 'value3': 0, 'title': '从08月18日到今日'}], 'status': '', 'details': None, 'request_id': ''}

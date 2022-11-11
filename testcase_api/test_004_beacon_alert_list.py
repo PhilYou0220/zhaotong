@@ -21,7 +21,7 @@ class TestBeaconAlertList:
 
     @allure.title("指挥中心左部告警信息--市级")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_beacon_alert_list_0(cls):
         case_index = 0
         # my_request = AllApis()
@@ -33,7 +33,7 @@ class TestBeaconAlertList:
 
     @allure.title("指挥中心左部告警信息--区县")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_beacon_alert_list_1(cls):
         case_index = 1
         # my_request = AllApis()
@@ -45,7 +45,7 @@ class TestBeaconAlertList:
 
     @allure.title("指挥中心左部告警信息--镇街")
     @pytest.mark.api
-    @pytest.mark.run(order=3)
+    # @pytest.mark.run(order=3)
     def test_beacon_alert_list_2(cls):
         case_index = 2
         # my_request = AllApis()
@@ -57,7 +57,7 @@ class TestBeaconAlertList:
 
     @allure.title("税收监管左部告警信息--市级")
     @pytest.mark.api
-    @pytest.mark.run(order=4)
+    # @pytest.mark.run(order=4)
     def test_beacon_alert_list_3(cls):
         case_index = 3
         # my_request = AllApis()
@@ -69,7 +69,7 @@ class TestBeaconAlertList:
 
     @allure.title("税收监管左部告警信息--区县")
     @pytest.mark.api
-    @pytest.mark.run(order=5)
+    # @pytest.mark.run(order=5)
     def test_beacon_alert_list_4(cls):
         case_index = 4
         # my_request = AllApis()
@@ -81,7 +81,7 @@ class TestBeaconAlertList:
 
     @allure.title("税收监管左部告警信息--镇街")
     @pytest.mark.api
-    @pytest.mark.run(order=6)
+    # @pytest.mark.run(order=6)
     def test_beacon_alert_list_5(cls):
         case_index = 5
         # my_request = AllApis()
@@ -93,7 +93,7 @@ class TestBeaconAlertList:
 
     @allure.title("告警管理--告警中心--联合筛选")
     @pytest.mark.api
-    @pytest.mark.run(order=7)
+    # @pytest.mark.run(order=7)
     def test_beacon_alert_list_6(cls):
         case_index = 6
         # my_request = AllApis()

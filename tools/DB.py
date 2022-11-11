@@ -96,13 +96,13 @@ class MyDb(object):
 # db1 = MyDb(host="221.237.182.170", port=3326, user='epuser', password='epuser@123-TFblue',
 #            database='ep')
 # db2 测试库用于插入，记录操作日志
-emerg = MyDb(host="192.168.101.184", port=3399, user='root', password='123123',
-           database='emerg')
+# emerg = MyDb(host="192.168.101.184", port=3399, user='root', password='123123',
+#            database='emerg')
 # emerg = MyDb(host="192.168.101.116", port=3306, user='root', password='123456',
 #            database='emerg')
 # db3 测试库 testgroup 用于测试用例存储和修改
-db3 = MyDb(host="106.75.138.97", port=3306, user='epuser', password='epuser@123-New',
-           database='testgroup')
+# db3 = MyDb(host="106.75.138.97", port=3306, user='epuser', password='epuser@123-New',
+#            database='testgroup')
 
 if __name__ == '__main__':
     sql = "select * from user limit 0,1"

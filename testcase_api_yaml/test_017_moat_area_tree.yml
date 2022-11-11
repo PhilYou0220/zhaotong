@@ -3,7 +3,7 @@ moat_area_tree:
     url: /api/moat/area/tree
     # 重点参数area_code
     data: level=2&code=5306
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -12,7 +12,7 @@ moat_area_tree:
     url: /api/moat/area/tree
     # 重点参数area_code
     data: level=3&code=530622
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -21,7 +21,7 @@ moat_area_tree:
     url: /api/moat/area/tree
     # 重点参数area_code
     data: level=4&code=530622100
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

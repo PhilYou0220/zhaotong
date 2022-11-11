@@ -1,0 +1,97 @@
+{
+  "uid" : "6303574a1230819d",
+  "name" : "组织管理--部门与成员--所有部门",
+  "fullName" : "testcase_api.test_032_moat_org_full_child_tree.TestMoatOrgFullChildTree#test_moat_org_full_child_tree_0",
+  "historyId" : "f336b9700752f09a757364be6be2eb44",
+  "time" : {
+    "start" : 1668081411753,
+    "stop" : 1668081412213,
+    "duration" : 460
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "组织管理--部门与成员--所有部门",
+      "time" : {
+        "start" : 1668081411757,
+        "stop" : 1668081412206,
+        "duration" : 449
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "1c5c66abbc586843",
+      "name" : "log",
+      "source" : "1c5c66abbc586843.txt",
+      "type" : "text/plain",
+      "size" : 39348
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "组织管理--部门与成员--所有部门"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_032_moat_org_full_child_tree"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullChildTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_032_moat_org_full_child_tree"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "6303574a1230819d.json",
+  "parameterValues" : [ ]
+}

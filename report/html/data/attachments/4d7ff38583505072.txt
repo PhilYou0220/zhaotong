@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/emerg/dispatch/list
- 请求参数: page=1&limit=100&area_code=5306&created_ats%5B%5D=2022-08-26T16%3A00%3A00.000Z&created_ats%5B%5D=2022-08-27T15%3A59%3A59.999Z&from=&to=
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 5, 'created_at': '2022-08-27T10:02:04Z', 'instance_name': '', 'meeting_type': 2, 'org_dpt_name': '昭通市', 'area_name': '滩头', 'schedule_department_name': '', 'dispatch_type': 1}, {'id': 6, 'created_at': '2022-08-27T10:25:43Z', 'instance_name': '昭通市得云建材有限责任公司公鸡山采区', 'meeting_type': 1, 'org_dpt_name': '昭通市', 'area_name': '北闸', 'schedule_department_name': '', 'dispatch_type': 2}, {'id': 7, 'created_at': '2022-08-27T10:27:22Z', 'instance_name': '', 'meeting_type': 1, 'org_dpt_name': '昭通市', 'area_name': '大关', 'schedule_department_name': '', 'dispatch_type': 2}, {'id': 8, 'created_at': '2022-08-27T10:31:59Z', 'instance_name': '', 'meeting_type': 1, 'org_dpt_name': '应急管理局', 'area_name': '彝良', 'schedule_department_name': '', 'dispatch_type': 2}, {'id': 9, 'created_at': '2022-08-27T10:33:19Z', 'instance_name': '昭通市得云建材有限责任公司公鸡山采区', 'meeting_type': 1, 'org_dpt_name': '应急管理局', 'area_name': '北闸', 'schedule_department_name': '', 'dispatch_type': 2}, {'id': 10, 'created_at': '2022-08-27T10:35:04Z', 'instance_name': '云南昊龙实业集团有限公司乐红铅锌矿二分厂', 'meeting_type': 1, 'org_dpt_name': '应急管理局', 'area_name': '', 'schedule_department_name': '', 'dispatch_type': 1}, {'id': 11, 'created_at': '2022-08-27T11:02:16Z', 'instance_name': '昭通市得云建材有限责任公司公鸡山采区', 'meeting_type': 1, 'org_dpt_name': '昭通市', 'area_name': '北闸', 'schedule_department_name': '', 'dispatch_type': 2}], 'status': '', 'details': None, 'request_id': ''}

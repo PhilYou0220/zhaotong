@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/belt_data/count_by_point
+ 请求参数: area_code=530622100
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码:200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 19, 'name': '云南昊龙实业集团巧家白鹤滩建材有限公司黄泥坡石灰岩矿', 'value': 90137.27, 'important': 1, 'max_upload_at': '2022-11-03 09:45:47', 'area_code': '530622100'}, {'id': 20, 'name': '巧家县尖山采石场', 'value': 34287.13, 'important': 2, 'max_upload_at': '2022-11-06 08:09:53', 'area_code': '530622100'}], 'page': {'total': 2}, 'status': '', 'details': None, 'request_id': ''}

@@ -3,7 +3,7 @@ boss_ticket_count_by_point:
     url: /api/boss/ticket/count_by_point
     # 重点参数area_code
     data: upload_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z&area_code=5306
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -12,7 +12,7 @@ boss_ticket_count_by_point:
     url: /api/boss/ticket/count_by_point
     # 重点参数area_code
     data: upload_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z&area_code=530622
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -21,7 +21,7 @@ boss_ticket_count_by_point:
     url: /api/boss/ticket/count_by_point
     # 重点参数area_code
     data: upload_ats%5B%5D=2022-08-22T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-08-23T15%3A59%3A59.999Z&area_code=530622100
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -30,7 +30,7 @@ boss_ticket_count_by_point:
     url: /api/boss/ticket/count_by_point
     # 重点参数area_code
     data: area_code=5306
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -39,7 +39,7 @@ boss_ticket_count_by_point:
     url: /api/boss/ticket/count_by_point
     # 重点参数area_code
     data: area_code=530622
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -48,7 +48,7 @@ boss_ticket_count_by_point:
     url: /api/boss/ticket/count_by_point
     # 重点参数area_code
     data: area_code=530622100
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

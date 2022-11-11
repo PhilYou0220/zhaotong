@@ -2,7 +2,7 @@ earlywarning_list:
   - title: "告警管理--预警中心"
     url: /api/earlywarning/list
     data: ""
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

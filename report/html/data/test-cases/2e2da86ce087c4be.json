@@ -1,0 +1,97 @@
+{
+  "uid" : "2e2da86ce087c4be",
+  "name" : "矿山数据统计--加工销售数据统计列表筛选",
+  "fullName" : "testcase_api.test_080_boss_belt_data_belt_summary_data.TestMoatOrgFullTree#test_moat_org_full_tree_1",
+  "historyId" : "23f89ee7dbc3c342a03a298bb84291be",
+  "time" : {
+    "start" : 1668081445955,
+    "stop" : 1668081446167,
+    "duration" : 212
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "矿山数据统计--加工销售数据统计列表筛选",
+      "time" : {
+        "start" : 1668081445959,
+        "stop" : 1668081446167,
+        "duration" : 208
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "697abce2e649fca2",
+      "name" : "log",
+      "source" : "697abce2e649fca2.txt",
+      "type" : "text/plain",
+      "size" : 2065
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "矿山数据统计--加工销售数据统计"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_080_boss_belt_data_belt_summary_data"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_080_boss_belt_data_belt_summary_data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "2e2da86ce087c4be.json",
+  "parameterValues" : [ ]
+}

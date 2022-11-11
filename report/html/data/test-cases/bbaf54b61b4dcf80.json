@@ -1,0 +1,97 @@
+{
+  "uid" : "bbaf54b61b4dcf80",
+  "name" : "指挥中心顶部看板镇街",
+  "fullName" : "testcase_api.test_002_horn_district_statistics.TestHornDistrictStatistics#test_horn_district_statistics_2",
+  "historyId" : "8defb76cf0597d5651dde33b9d5ee1c1",
+  "time" : {
+    "start" : 1668081228902,
+    "stop" : 1668081229644,
+    "duration" : 742
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心地图中部数据--镇街(白鹤滩)",
+      "time" : {
+        "start" : 1668081228908,
+        "stop" : 1668081229636,
+        "duration" : 728
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "821d690381c12d4c",
+      "name" : "log",
+      "source" : "821d690381c12d4c.txt",
+      "type" : "text/plain",
+      "size" : 8275
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心中部地图数据"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_002_horn_district_statistics"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHornDistrictStatistics"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_002_horn_district_statistics"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "bbaf54b61b4dcf80.json",
+  "parameterValues" : [ ]
+}

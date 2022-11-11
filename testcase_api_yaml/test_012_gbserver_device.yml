@@ -3,7 +3,7 @@ gbserver_device:
     url: /api/gbserver/device
     # 重点参数cam_type
     data: page=1&limit=10&online=0&instance_id=104&cam_type=0
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -12,7 +12,7 @@ gbserver_device:
     url: /api/gbserver/device
     # 重点参数cam_type
     data: page=1&limit=10&online=0&instance_id=104&cam_type=3
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -21,7 +21,7 @@ gbserver_device:
     url: /api/gbserver/device
     # 重点参数cam_type
     data: page=1&limit=10&online=0&instance_id=104&cam_type=1
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -30,7 +30,7 @@ gbserver_device:
     url: /api/gbserver/device
     # 重点参数cam_type
     data: page=1&limit=10&online=0&instance_id=104&cam_type=2
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -39,7 +39,7 @@ gbserver_device:
     url: /api/gbserver/device
     # 重点参数cam_type
     data: page=1&limit=10&online=0&instance_id=104&cam_type=4
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

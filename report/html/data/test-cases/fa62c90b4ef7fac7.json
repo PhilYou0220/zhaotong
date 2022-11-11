@@ -1,0 +1,97 @@
+{
+  "uid" : "fa62c90b4ef7fac7",
+  "name" : "指挥中心左部日常巡检区县",
+  "fullName" : "testcase_api.test_003_patrol_daily_patrol_list.TestPatrolDailyPatrolList#test_patrol_daily_patrol_list_1",
+  "historyId" : "e89827aa65c549833fbdafa75ce10e53",
+  "time" : {
+    "start" : 1668081229840,
+    "stop" : 1668081230048,
+    "duration" : 208
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心左部日常巡检--区县(昭阳)",
+      "time" : {
+        "start" : 1668081229845,
+        "stop" : 1668081230047,
+        "duration" : 202
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "cb9bf253e22c7680",
+      "name" : "log",
+      "source" : "cb9bf253e22c7680.txt",
+      "type" : "text/plain",
+      "size" : 1151
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心左部日常巡检"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_003_patrol_daily_patrol_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPatrolDailyPatrolList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_003_patrol_daily_patrol_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "fa62c90b4ef7fac7.json",
+  "parameterValues" : [ ]
+}

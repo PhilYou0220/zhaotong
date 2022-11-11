@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/boss/device/lanes
- 请求参数: peer_id=158
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'lane_id': 55, 'lane_name': '1号车道', 'weight_http': 'http://10.10.34.21:8000/zt/weight/data', 'webcamt_http': 'http://10.10.34.21:8000/webcam/list'}, {'lane_id': 57, 'lane_name': '2号车道', 'weight_http': 'http://10.10.34.22:8000/zt/weight/data', 'webcamt_http': 'http://10.10.34.22:8000/webcam/list'}], 'status': '', 'details': None, 'request_id': ''}

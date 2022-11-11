@@ -1,0 +1,8 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/ticket/produce_sale_rate
+ 请求参数: area_code=5306&out_ats%5B%5D=2022-10-13T16%3A00%3A00.000Z&out_ats%5B%5D=2022-10-14T15%3A59%3A59.999Z
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200
+ 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'type': '加工', 'value': 94948.71, 'percent': 0.853075340199298}, {'type': '销售', 'value': 16352.96, 'percent': 0.146924659800702}], 'status': '', 'details': None, 'request_id': ''}

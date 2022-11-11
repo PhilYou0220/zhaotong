@@ -2,7 +2,7 @@ bi_board_list:
   - title: "大屏配置--web端"
     url: /api/bi/board/list
     data: type=web
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -10,7 +10,7 @@ bi_board_list:
   - title: "大屏配置--app端"
     url: /api/bi/board/list
     data: type=app
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

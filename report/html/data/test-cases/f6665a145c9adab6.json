@@ -1,0 +1,97 @@
+{
+  "uid" : "f6665a145c9adab6",
+  "name" : "销售数据管理--加工量--皮带秤流速和流量",
+  "fullName" : "testcase_api.test_060_boss_belt_data_trend.TestMoatOrgFullTree#test_moat_org_full_tree_0",
+  "historyId" : "76a539216c2fb55de5f91d7f9e57befe",
+  "time" : {
+    "start" : 1668081430758,
+    "stop" : 1668081433236,
+    "duration" : 2478
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "销售数据管理--联单审核--加工量--皮带秤流速和流量",
+      "time" : {
+        "start" : 1668081430761,
+        "stop" : 1668081433203,
+        "duration" : 2442
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "e0c99b0b73076a1b",
+      "name" : "log",
+      "source" : "e0c99b0b73076a1b.txt",
+      "type" : "text/plain",
+      "size" : 326
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "销售数据管理--加工量--皮带秤流速和流量"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_060_boss_belt_data_trend"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_060_boss_belt_data_trend"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "f6665a145c9adab6.json",
+  "parameterValues" : [ ]
+}

@@ -2,7 +2,7 @@ moat_role_details:
   - title: "组织管理--角色管理--角色名称详情"
     url: /api/moat/role/details
     data: id=28
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

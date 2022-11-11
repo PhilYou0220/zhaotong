@@ -3,7 +3,7 @@ beacon_alert_detail:
     url: /api/beacon/alert/detail
     # 重点参数area_code
     data: id=13041
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

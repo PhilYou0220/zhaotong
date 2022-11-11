@@ -3,7 +3,7 @@ boss_devices:
     url: /api/boss/devices
     # 重点参数cam_type
     data: point_id=104&type=belt
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -12,7 +12,7 @@ boss_devices:
     url: /api/boss/devices
     # 重点参数cam_type
     data: point_id=104&type=inout
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -37,7 +37,7 @@ class TestEmergency:
 
     @allure.title("01.创建应急预案")
     @pytest.mark.smoke
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_emergency_01(cls):
         sql = "SELECT * FROM case_zhaotong  where  id =1"
         id, method, url, data, dict_expect_return_data, username, password, status_code, ig, real_status_code, dict_return_data = AllApis().all_api_requests(
@@ -51,7 +51,7 @@ class TestEmergency:
 
     @allure.title("02.查询刚创建的应急预案")
     @pytest.mark.smoke
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_emergency_02(cls):
         sql = "SELECT * FROM case_zhaotong  where  id =2"
         id, method, url, data, dict_expect_return_data, username, password, status_code, ig, real_status_code, dict_return_data = AllApis().all_api_requests(
@@ -68,7 +68,7 @@ class TestEmergency:
 
     @allure.title("03.指挥中心发起应急预案")
     @pytest.mark.smoke
-    @pytest.mark.run(order=3)
+    # @pytest.mark.run(order=3)
     def test_emergency_03(cls):
         # 更新case3请求体数据 发起应急预案的预案的主键ID
         update_data(database="testgroup", table_name="case_zhaotong", id=3, key="emerg_case_id",
@@ -86,7 +86,7 @@ class TestEmergency:
 
     @allure.title("04.指挥中心地图查看新增的预案")
     @pytest.mark.smoke
-    @pytest.mark.run(order=4)
+    # @pytest.mark.run(order=4)
     def test_emergency_04(cls):
         sql = "SELECT * FROM case_zhaotong  where  id =4"
         id, method, url, data, dict_expect_return_data, username, password, status_code, ig, real_status_code, dict_return_data = AllApis().all_api_requests(
@@ -103,7 +103,7 @@ class TestEmergency:
 
     @allure.title("05.APP端查看发起的应急预案")
     @pytest.mark.smoke
-    @pytest.mark.run(order=5)
+    # @pytest.mark.run(order=5)
     def test_emergency_05(cls):
         # 更新get请求的参数 更新列表查询时间
         tmp = "\"page=1&limit=20&case_type=2&from=${from}&to=${to}&load_all=0\""
@@ -132,7 +132,7 @@ class TestEmergency:
 
     @allure.title("06.APP端点击应急预案")
     @pytest.mark.smoke
-    @pytest.mark.run(order=6)
+    # @pytest.mark.run(order=6)
     def test_emergency_06(cls):
         # 更新列表点击预案的ID
         tmp6 = "\"id=${id}\""
@@ -168,7 +168,7 @@ class TestEmergency:
 
     @allure.title("07.APP端应急预案-回执信息")
     @pytest.mark.smoke
-    @pytest.mark.run(order=7)
+    # @pytest.mark.run(order=7)
     def test_emergency_07(cls):
         # 更新case7请求体数据 发起了应急预案的log的主键ID
         update_data(database="testgroup", table_name="case_zhaotong", id=7, key="emerg_case_log_id",
@@ -194,7 +194,7 @@ class TestEmergency:
 
     @allure.title("08.APP端应急预案-执行干预")
     @pytest.mark.smoke
-    @pytest.mark.run(order=8)
+    # @pytest.mark.run(order=8)
     def test_emergency_08(cls):
         # 更新准备修改的已执行干预的发起预案的log 请求体
         update_data(database="testgroup", table_name="case_zhaotong", id=8, key="emerg_case_log_id",
@@ -216,7 +216,7 @@ class TestEmergency:
 
     @allure.title("09.APP端应急预案-执行干预之后执行干预按钮消失")
     @pytest.mark.smoke
-    @pytest.mark.run(order=9)
+    # @pytest.mark.run(order=9)
     def test_emergency_09(cls):
         # APP端从列表点击应急预案查看执行干预的 应此复用第6条用例参数
         sql = "SELECT * FROM case_zhaotong  where  id =6"
@@ -243,7 +243,7 @@ class TestEmergency:
 
     @allure.title("10.web端--查看应急事项记录列表")
     @pytest.mark.smoke
-    @pytest.mark.run(order=10)
+    # @pytest.mark.run(order=10)
     def test_emergency_10(cls):
         sql = "SELECT * FROM case_zhaotong  where  id =9"
         id, method, url, data, dict_expect_return_data, username, password, status_code, ig, real_status_code, dict_return_data = AllApis().all_api_requests(
@@ -264,7 +264,7 @@ class TestEmergency:
 
     @allure.title("11.web端--应急事项记录--查看回执信息")
     @pytest.mark.smoke
-    @pytest.mark.run(order=11)
+    # @pytest.mark.run(order=11)
     def test_emergency_11(cls):
         # 更新列表点击预案的ID
         tmp11 = "\"page=1&limit=10&emerg_case_log_id=${emerg_case_log_id}\""
@@ -298,7 +298,7 @@ class TestEmergency:
 
     @allure.title("12.web端--应急事项记录--查看回执信息--查看详情")
     @pytest.mark.smoke
-    @pytest.mark.run(order=12)
+    # @pytest.mark.run(order=12)
     def test_emergency_12(cls):
         # 更新列表点击预案的ID
         tmp12 = "\"id=${id}\""
@@ -328,7 +328,7 @@ class TestEmergency:
 
     @allure.title("13.web端--应急事项记录--查看应急预案详情(是否执行干预)")
     @pytest.mark.smoke
-    @pytest.mark.run(order=13)
+    # @pytest.mark.run(order=13)
     def test_emergency_13(cls):
         # 更新列表点击预案的ID
         tmp13 = "\"emerg_case_log_id=${emerg_case_log_id}&page=1&limit=10\""
@@ -364,7 +364,7 @@ class TestEmergency:
 
     @allure.title("14.web端--应急调度--指挥中心--进入会议室")
     @pytest.mark.smoke
-    @pytest.mark.run(order=14)
+    # @pytest.mark.run(order=14)
     def test_emergency_14(cls):
         # 更新进入会议发起的预案
         tmp14 = "\"id=${id}\""
@@ -394,7 +394,7 @@ class TestEmergency:
 
     @allure.title("15.web端--结束应急预案")
     @pytest.mark.smoke
-    @pytest.mark.run(order=15)
+    # @pytest.mark.run(order=15)
     def test_emergency_15(cls):
         # 更新用例 需要结束的ID
         update_data(database="testgroup", table_name="case_zhaotong", id=14, key="id",
@@ -414,7 +414,7 @@ class TestEmergency:
 
     @allure.title("16.web端--验证发起的应急预案已关闭")
     @pytest.mark.smoke
-    @pytest.mark.run(order=16)
+    # @pytest.mark.run(order=16)
     def test_emergency_16(cls):
         sql = "SELECT * FROM case_zhaotong  where  id =15"
         id, method, url, data, dict_expect_return_data, username, password, status_code, ig, real_status_code, dict_return_data = AllApis().all_api_requests(

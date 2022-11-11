@@ -2,7 +2,7 @@ boss_belt_datas:
   - title: "矿山数据统计--生产数据--列表及关键字搜索"
     url: /api/boss/belt_datas
     data: upload_ats%5B%5D=2022-10-17T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-10-18T15%3A59%3A59.999Z&page=1&limit=10&keyword=%E6%98%8A%E9%BE%99%E5%AE%9E%E4%B8%9A&area_code=5306
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -10,7 +10,7 @@ boss_belt_datas:
   - title: "矿山数据统计--生产数据--列表及关键字搜索、时间及区域"
     url: /api/boss/belt_datas
     data: upload_ats%5B%5D=2022-10-16T16%3A00%3A00.000Z&upload_ats%5B%5D=2022-10-17T15%3A59%3A59.999Z&page=1&limit=10&keyword=%E6%98%8A%E9%BE%99%E5%AE%9E%E4%B8%9A&area_code=530621
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

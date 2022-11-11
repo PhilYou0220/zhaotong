@@ -1,0 +1,7 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/moat/area/tree
+ 请求参数: level=3&code=530622
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200

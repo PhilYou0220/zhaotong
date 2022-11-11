@@ -17,7 +17,7 @@ class TestMoatOrgFullTree:
 
     @allure.title("昭通web_socket心跳测试")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_moat_org_full_tree_0(cls):
         web_socket.test()
 

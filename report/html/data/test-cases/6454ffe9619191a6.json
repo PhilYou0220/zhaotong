@@ -1,0 +1,97 @@
+{
+  "uid" : "6454ffe9619191a6",
+  "name" : "视频监控--视频监控树--模糊搜索",
+  "fullName" : "testcase_api.test_028_gbserver_tree.TestGbserverTree#test_gbserver_tree_1",
+  "historyId" : "8817225e1869a43bcf282984472c82ee",
+  "time" : {
+    "start" : 1668081408739,
+    "stop" : 1668081409451,
+    "duration" : 712
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "视频监控--关键字搜索",
+      "time" : {
+        "start" : 1668081408743,
+        "stop" : 1668081409451,
+        "duration" : 708
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "f3bdfd55e00f5811",
+      "name" : "log",
+      "source" : "f3bdfd55e00f5811.txt",
+      "type" : "text/plain",
+      "size" : 3595
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "视频监控--视频监控树"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_028_gbserver_tree"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGbserverTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_028_gbserver_tree"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "6454ffe9619191a6.json",
+  "parameterValues" : [ ]
+}

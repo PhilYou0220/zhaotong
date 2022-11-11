@@ -1,0 +1,97 @@
+{
+  "uid" : "ffa104503b4b3282",
+  "name" : "税收监管--近7日告警提醒--市级",
+  "fullName" : "testcase_api.test_019_beacon_alert_statistics.TestBeaconAlertStatistics#test_beacon_alert_statistics_0",
+  "historyId" : "ae55307dfb10f9352cfe6916d36aee74",
+  "time" : {
+    "start" : 1668081388412,
+    "stop" : 1668081388723,
+    "duration" : 311
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--近7日告警提醒折线图--市级",
+      "time" : {
+        "start" : 1668081388429,
+        "stop" : 1668081388722,
+        "duration" : 293
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "643ec394991e4bdb",
+      "name" : "log",
+      "source" : "643ec394991e4bdb.txt",
+      "type" : "text/plain",
+      "size" : 824
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--近7日告警提醒"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_019_beacon_alert_statistics"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBeaconAlertStatistics"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_019_beacon_alert_statistics"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "ffa104503b4b3282.json",
+  "parameterValues" : [ ]
+}

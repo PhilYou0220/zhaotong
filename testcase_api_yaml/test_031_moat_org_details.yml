@@ -2,7 +2,7 @@ moat_org_details:
   - title: "组织管理--部门与成员--组织--详情"
     url: /api/moat/org/details
     data: id=114
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

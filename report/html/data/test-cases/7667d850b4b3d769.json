@@ -1,0 +1,97 @@
+{
+  "uid" : "7667d850b4b3d769",
+  "name" : "指挥中心顶部数据销售量详情--区县",
+  "fullName" : "testcase_api.test_008_boss_ticket_count_by_point.TestBossTicketCountByPoint#test_boss_ticket_count_by_point_1",
+  "historyId" : "e23ba716a337703cf78b483f57d8af03",
+  "time" : {
+    "start" : 1668081363731,
+    "stop" : 1668081364094,
+    "duration" : 363
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心顶部数据销售量详情-区县(巧家)",
+      "time" : {
+        "start" : 1668081363737,
+        "stop" : 1668081364094,
+        "duration" : 357
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "c9647fc13a5111a0",
+      "name" : "log",
+      "source" : "c9647fc13a5111a0.txt",
+      "type" : "text/plain",
+      "size" : 420
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心顶部数据销售量详情"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_008_boss_ticket_count_by_point"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBossTicketCountByPoint"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_008_boss_ticket_count_by_point"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "7667d850b4b3d769.json",
+  "parameterValues" : [ ]
+}

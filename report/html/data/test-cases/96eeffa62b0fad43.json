@@ -1,0 +1,97 @@
+{
+  "uid" : "96eeffa62b0fad43",
+  "name" : "指挥中心顶部看板镇街",
+  "fullName" : "testcase_api.test_001_boss_ticket_top_count2.TestTopCount2#test_top_count2_2",
+  "historyId" : "d161a6fb6a2c2a74b6af1c53d4e9f211",
+  "time" : {
+    "start" : 1668081225050,
+    "stop" : 1668081226091,
+    "duration" : 1041
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心顶部数据--镇街(白鹤滩)",
+      "time" : {
+        "start" : 1668081225055,
+        "stop" : 1668081226091,
+        "duration" : 1036
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "85ec42327eb6d886",
+      "name" : "log",
+      "source" : "85ec42327eb6d886.txt",
+      "type" : "text/plain",
+      "size" : 1229
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心顶部看板"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_001_boss_ticket_top_count2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTopCount2"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_001_boss_ticket_top_count2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "96eeffa62b0fad43.json",
+  "parameterValues" : [ ]
+}

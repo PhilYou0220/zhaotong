@@ -2,7 +2,7 @@ boss_weight_data_timeline:
   - title: "销售数据管理--联单审核--某个实际的矿区审核数据"
     url: /api/boss/weight_data/timeline
     data: lane_id=55&date=2022-10-18T10%3A29%3A10.260Z&hours%5B%5D=0&hours%5B%5D=24&point_id=158
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

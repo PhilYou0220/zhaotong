@@ -1,8 +1,0 @@
-DEBUG    phil:log.py:43  
- url:http://183.224.113.211:9001/api/boss/goods/types
- 请求参数: 
- 账号：123
- 密码：123456
- 预期状态码：200
- 实际返回状态码: 200
- 实际返回值: {'code': 200, 'message': 'ok', 'data': [{'id': 1, 'name': '建筑石料用灰岩'}], 'status': '', 'details': None, 'request_id': ''}

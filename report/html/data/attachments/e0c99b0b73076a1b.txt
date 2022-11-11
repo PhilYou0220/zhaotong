@@ -1,0 +1,7 @@
+DEBUG    phil:log.py:43  
+ url:http://183.224.113.211:9001/api/boss/belt_data/trend
+ 请求参数: created_ats%5B%5D=2022-10-16T23%3A00%3A00.000Z&created_ats%5B%5D=2022-10-17T10%3A59%3A59.999Z&point_id=158&device_code=005400315646501420373732
+ 账号：admin
+ 密码：123456
+ 预期状态码：200
+ 实际返回状态码: 200

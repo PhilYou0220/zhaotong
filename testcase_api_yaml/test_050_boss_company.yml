@@ -2,7 +2,7 @@ boss_company:
   - title: "企业管理--矿企管理--企业详情"
     url: /api/boss/company
     data: id=143
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -1,0 +1,97 @@
+{
+  "uid" : "139bd83604dee17e",
+  "name" : "销售数据管理--非煤矿价格及税收管理--列表关键字、地区、矿区筛选",
+  "fullName" : "testcase_api.test_052_boss_goods_prices.TestMoatOrgFullTree#test_moat_org_full_tree_1",
+  "historyId" : "5bd28bf85f37bdbc882839be9ab5fad7",
+  "time" : {
+    "start" : 1668081422245,
+    "stop" : 1668081422475,
+    "duration" : 230
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "销售数据管理--非煤矿价格及税收管理--列表关键字、地区、矿区筛选",
+      "time" : {
+        "start" : 1668081422249,
+        "stop" : 1668081422464,
+        "duration" : 215
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "638ac984febeec66",
+      "name" : "log",
+      "source" : "638ac984febeec66.txt",
+      "type" : "text/plain",
+      "size" : 4538
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "销售数据管理--非煤矿价格及税收管理"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_052_boss_goods_prices"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatOrgFullTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_052_boss_goods_prices"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "139bd83604dee17e.json",
+  "parameterValues" : [ ]
+}

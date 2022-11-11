@@ -3,7 +3,7 @@ boss_point_mine:
     url: /api/boss/point_mine
     # 重点参数id
     data: id=104&simple=
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -3,7 +3,7 @@ boss_point_mines:
     url: /api/boss/point_mines
     # 重点参数area_code
     data: page=1&limit=999999&idss=2%2C3%2C4%2C5%2C8%2C11%2C12%2C16%2C19%2C21%2C23%2C24%2C27%2C29%2C32%2C34%2C36%2C38%2C40%2C41%2C42%2C43%2C46%2C47%2C48%2C54%2C55%2C56%2C58%2C59%2C60%2C62%2C65%2C66%2C67%2C68%2C69%2C71%2C72%2C73%2C74%2C78%2C79%2C80%2C82%2C83%2C85%2C86%2C90%2C91%2C93%2C94%2C95%2C96%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C109%2C113%2C115%2C116%2C117%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C131%2C132%2C133%2C134%2C135%2C137%2C138%2C140%2C141%2C147%2C150%2C151%2C152%2C153%2C156%2C158%2C160
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1
@@ -12,7 +12,7 @@ boss_point_mines:
     url: /api/boss/point_mines
     # 重点参数area_code
     data: page=1&limit=10&keyword=&area_code=5306&has_tax=&idss=
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

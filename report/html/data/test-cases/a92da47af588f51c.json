@@ -1,0 +1,97 @@
+{
+  "uid" : "a92da47af588f51c",
+  "name" : "税收监管--行政单位树--市级",
+  "fullName" : "testcase_api.test_017_moat_area_tree.TestMoatAreaTree#test_moat_area_tree_0",
+  "historyId" : "da20adc7b371f8a245efa47ec69541d2",
+  "time" : {
+    "start" : 1668081386660,
+    "stop" : 1668081387331,
+    "duration" : 671
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "税收监管--行政单位树--市级",
+      "time" : {
+        "start" : 1668081386676,
+        "stop" : 1668081387319,
+        "duration" : 643
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "33c460be75c2446d",
+      "name" : "log",
+      "source" : "33c460be75c2446d.txt",
+      "type" : "text/plain",
+      "size" : 30355
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "税收监管--行政单位树"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_017_moat_area_tree"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMoatAreaTree"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_017_moat_area_tree"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "a92da47af588f51c.json",
+  "parameterValues" : [ ]
+}

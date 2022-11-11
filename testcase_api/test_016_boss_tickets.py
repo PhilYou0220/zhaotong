@@ -20,7 +20,7 @@ class TestBossTickets:
 
     @allure.title("税收监管--右侧电子联单")
     @pytest.mark.api
-    @pytest.mark.run(order=1)
+    # @pytest.mark.run(order=1)
     def test_boss_tickets_0(cls):
         case_index = 0
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -31,7 +31,7 @@ class TestBossTickets:
 
     @allure.title("税收监管--矿产数据详情列表")
     @pytest.mark.api
-    @pytest.mark.run(order=2)
+    # @pytest.mark.run(order=2)
     def test_boss_tickets_1(cls):
         case_index = 1
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -42,7 +42,7 @@ class TestBossTickets:
 
     @allure.title("矿山数据统计--销售数据--列表")
     @pytest.mark.api
-    @pytest.mark.run(order=3)
+    # @pytest.mark.run(order=3)
     def test_boss_tickets_2(cls):
         case_index = 2
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(
@@ -53,7 +53,7 @@ class TestBossTickets:
 
     @allure.title("矿山数据统计--销售数据--列表时间、关键字、区域、产品名称、产品类型综合搜索")
     @pytest.mark.api
-    @pytest.mark.run(order=4)
+    # @pytest.mark.run(order=4)
     def test_boss_tickets_3(cls):
         case_index = 3
         method, url, data, username, password, status_code, real_status_code, dict_return_data = AllApis().yaml_api_requests(

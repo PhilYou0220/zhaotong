@@ -1,0 +1,97 @@
+{
+  "uid" : "6af160cb09682254",
+  "name" : "指挥中心--预警提醒信息",
+  "fullName" : "testcase_api.test_027_emerg_weather_warn_list.TestEmergWeatherWarnList#test_emerg_weather_warn_list_0",
+  "historyId" : "de28ce20f259edfb487b5683e698690d",
+  "time" : {
+    "start" : 1668081407387,
+    "stop" : 1668081407598,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "指挥中心--预警提醒信息",
+      "time" : {
+        "start" : 1668081407390,
+        "stop" : 1668081407598,
+        "duration" : 208
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "652f86365bc6a439",
+      "name" : "log",
+      "source" : "652f86365bc6a439.txt",
+      "type" : "text/plain",
+      "size" : 2678
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "指挥中心--预警提醒信息"
+  }, {
+    "name" : "tag",
+    "value" : "api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_027_emerg_weather_warn_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmergWeatherWarnList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4QMU2SQ"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase_api.test_027_emerg_weather_warn_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "api" ]
+  },
+  "source" : "6af160cb09682254.json",
+  "parameterValues" : [ ]
+}

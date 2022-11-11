@@ -7,13 +7,13 @@
       "name" : "AssertionError: FAILURE: 预期和实际不一致 预期状态码200和实际状态码500\nassert 200 == 500\n  +200\n  -500\ntestcase_api\\test_029_bi_board_list.py:28 in test_gbserver_tree_0() -> check.equal(status_code, real_status_code, f\"预期和实际不一致 预期状态码{status_code}和实际状态码{real_status_code}\")\n------------------------------------------------------------\nFailed Checks: 1",
       "children" : [ {
         "name" : "大屏配置--web端",
-        "uid" : "dbc826af38ea876b",
+        "uid" : "24c6ff9f786f8a9",
         "parentUid" : "4fc0c5158d5d7c7a051ce30c33eb503f",
         "status" : "failed",
         "time" : {
-          "start" : 1667179370293,
-          "stop" : 1667179370858,
-          "duration" : 565
+          "start" : 1668081410457,
+          "stop" : 1668081410867,
+          "duration" : 410
         },
         "flaky" : false,
         "newFailed" : false,
@@ -25,37 +25,16 @@
       } ],
       "uid" : "4fc0c5158d5d7c7a051ce30c33eb503f"
     }, {
-      "name" : "AssertionError: FAILURE: 预期和实际不一致 预期状态码200和实际状态码500\nassert 200 == 500\n  +200\n  -500\ntestcase_api\\test_083_boss_car_inout_data_weight_summary_data_export.py:28 in test_moat_org_full_tree_0() -> check.equal(status_code, real_status_code, f\"预期和实际不一致 预期状态码{status_code}和实际状态码{real_status_code}\")\n------------------------------------------------------------\nFailed Checks: 1",
-      "children" : [ {
-        "name" : "矿山数据统计--加工销售数据--销售量导出",
-        "uid" : "7a3a684932efff65",
-        "parentUid" : "eeced13f2467b7ce16cff7dd20f42247",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667179398954,
-          "stop" : 1667179399239,
-          "duration" : 285
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "eeced13f2467b7ce16cff7dd20f42247"
-    }, {
       "name" : "AssertionError: FAILURE: 预期和实际不一致 预期状态码200和实际状态码500\nassert 200 == 500\n  +200\n  -500\ntestcase_api\\test_029_bi_board_list.py:39 in test_gbserver_tree_1() -> check.equal(status_code, real_status_code, f\"预期和实际不一致 预期状态码{status_code}和实际状态码{real_status_code}\")\n------------------------------------------------------------\nFailed Checks: 1",
       "children" : [ {
         "name" : "大屏配置--app端",
-        "uid" : "9458bcad49b96532",
+        "uid" : "8a871c662b46ba9c",
         "parentUid" : "a06efef4518764f34f35724491d9c549",
         "status" : "failed",
         "time" : {
-          "start" : 1667179422859,
-          "stop" : 1667179423043,
-          "duration" : 184
+          "start" : 1668081410869,
+          "stop" : 1668081411082,
+          "duration" : 213
         },
         "flaky" : false,
         "newFailed" : false,
@@ -66,27 +45,6 @@
         "parameters" : [ ]
       } ],
       "uid" : "a06efef4518764f34f35724491d9c549"
-    }, {
-      "name" : "AssertionError: FAILURE: 预期和实际不一致 预期状态码200和实际状态码500\nassert 200 == 500\n  +200\n  -500\ntestcase_api\\test_083_boss_car_inout_data_weight_summary_data_export.py:39 in test_moat_org_full_tree_1() -> check.equal(status_code, real_status_code, f\"预期和实际不一致 预期状态码{status_code}和实际状态码{real_status_code}\")\n------------------------------------------------------------\nFailed Checks: 1",
-      "children" : [ {
-        "name" : "矿山数据统计--加工销售数据统计列表筛选--销售量导出",
-        "uid" : "5c333baafff1e86a",
-        "parentUid" : "6935d869c1c000f63d3d4add1bcb2688",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667179426969,
-          "stop" : 1667179427189,
-          "duration" : 220
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "6935d869c1c000f63d3d4add1bcb2688"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]

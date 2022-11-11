@@ -2,7 +2,7 @@ moat_user_page:
   - title: "组织管理--部门与成员--具体职位下的所有用户"
     url: /api/moat/user/page
     data: page=1&limit=10&org_dept_id=316&node_type=3&keyword=
-    username: "123"
+    username: "admin"
     password: "123456"
     method: GET
     type: 1

@@ -69,8 +69,9 @@ docker run -d \
 
 mkdir -p allure-result && chmod 777 allure-result
 
+- 构建后命令 把容器里生成的json和text挂载到jenkins里的工作空间里
 docker run  \
-	-v /usr/local/jenkins/allure-result:/usr/local/zhaotong/report/temp_jsonreport \
+	-v /usr/local/jenkins/workspace/$JOB_NAME/allure-result:/usr/local/zhaotong/report/temp_jsonreport \
 	philyou/study_work:v1
 
 docker run -d \

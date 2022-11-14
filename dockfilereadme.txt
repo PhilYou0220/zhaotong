@@ -21,8 +21,6 @@ CMD ["python", "single_api_runall.py"]
 
 
 
-docker run \
-	-v /usr/local/jenkins/allure-result:
 
 - 构建镜像 使用当前目录的 Dockerfile 创建镜像，标签为 philyou/zhaotong:v1  账号/imagename:tag
 docker build -t  philyou/study_work:v1 .

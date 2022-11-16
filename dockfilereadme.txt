@@ -65,6 +65,7 @@ docker run -d \
     --name=jenkins \
     jenkins/jenkins
 
+-- 没啥用好像
 mkdir -p allure-result && chmod 777 allure-result
 
 - 构建后命令 把容器里生成的json和text挂载到jenkins里的工作空间里
